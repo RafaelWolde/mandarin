@@ -1,0 +1,368 @@
+[
+  {
+    "chars": ["我", "們", "這", "裡", "的", "憋", "佬", "仔"],
+    "pinyin": ["wǒ", "men", "zhè", "lǐ", "de", "biē", "lǎo", "zǎi"],
+    "char_meaning": ["we", "plural", "this", "here", "possessive", "suppress", "old man", "young man"],
+    "sentence_meaning": "The guys here"
+  },
+  {
+    "chars": ["脖", "上", "喜", "歡", "掛", "玉", "牌"],
+    "pinyin": ["bó", "shàng", "xǐ", "huān", "guà", "yù", "pái"],
+    "char_meaning": ["neck", "on", "like", "happy", "hang", "jade", "brand"],
+    "sentence_meaning": "Like to hang jade pendants on their necks"
+  },
+  {
+    "chars": ["香", "爐", "供", "台", "上", "擺"],
+    "pinyin": ["xiāng", "lú", "gòng", "tái", "shàng", "bǎi"],
+    "char_meaning": ["fragrant", "furnace", "offer", "platform", "on", "place"],
+    "sentence_meaning": "Incense burners are placed on the offering table"
+  },
+  {
+    "chars": ["長", "大", "才", "開", "白", "黃", "牌"],
+    "pinyin": ["zhǎng", "dà", "cái", "kāi", "bái", "huáng", "pái"],
+    "char_meaning": ["grow", "big", "only", "open", "white", "yellow", "brand"],
+    "sentence_meaning": "Only when they grow up do they get white and yellow license plates"
+  },
+  {
+    "chars": ["虔", "誠", "拜", "三", "拜"],
+    "pinyin": ["qián", "chéng", "bài", "sān", "bài"],
+    "char_meaning": ["pious", "sincere", "bow", "three", "bow"],
+    "sentence_meaning": "Piously bow three times"
+  },
+  {
+    "chars": ["錢", "包", "裡", "多", "幾", "百"],
+    "pinyin": ["qián", "bāo", "lǐ", "duō", "jǐ", "bǎi"],
+    "char_meaning": ["money", "bag", "inside", "many", "several", "hundred"],
+    "sentence_meaning": "A few hundred more in the wallet"
+  },
+  {
+    "chars": ["易", "的", "是", "六", "合", "彩"],
+    "pinyin": ["yì", "de", "shì", "liù", "hé", "cǎi"],
+    "char_meaning": ["easy", "possessive", "is", "six", "combine", "color"],
+    "sentence_meaning": "What's easy is the Mark Six lottery"
+  },
+  {
+    "chars": ["難", "的", "是", "等", "河", "牌"],
+    "pinyin": ["nán", "de", "shì", "děng", "hé", "pái"],
+    "char_meaning": ["difficult", "possessive", "is", "wait", "river", "brand"],
+    "sentence_meaning": "What's difficult is waiting for the river card (poker)"
+  },
+  {
+    "chars": ["來", "財"],
+    "pinyin": ["lái", "cái"],
+    "char_meaning": ["come", "wealth"],
+    "sentence_meaning": "Come, wealth"
+  },
+  {
+    "chars": ["來"],
+    "pinyin": ["lái"],
+    "char_meaning": ["come"],
+    "sentence_meaning": "Come"
+  },
+  {
+    "chars": ["宗", "旨", "利", "滾", "利"],
+    "pinyin": ["zōng", "zhǐ", "lì", "gǔn", "lì"],
+    "char_meaning": ["ancestor", "aim", "profit", "roll", "profit"],
+    "sentence_meaning": "The principle is compound interest"
+  },
+  {
+    "chars": ["對", "應"],
+    "pinyin": ["duì", "yìng"],
+    "char_meaning": ["correct", "should"],
+    "sentence_meaning": "Corresponds to"
+  },
+  {
+    "chars": ["好", "運"],
+    "pinyin": ["hǎo", "yùn"],
+    "char_meaning": ["good", "luck"],
+    "sentence_meaning": "Good luck"
+  },
+  {
+    "chars": ["八", "方", "來"],
+    "pinyin": ["bā", "fāng", "lái"],
+    "char_meaning": ["eight", "direction", "come"],
+    "sentence_meaning": "Coming from all directions"
+  },
+  {
+    "chars": ["散", "了", "才", "能", "聚"],
+    "pinyin": ["sàn", "le", "cái", "néng", "jù"],
+    "char_meaning": ["scatter", "past tense", "only", "can", "gather"],
+    "sentence_meaning": "Only after scattering can there be a gathering"
+  },
+  {
+    "chars": ["你", "不", "出", "手", "？"],
+    "pinyin": ["nǐ", "bù", "chū", "shǒu", "?"],
+    "char_meaning": ["you", "not", "go out", "hand", "?"],
+    "sentence_meaning": "You're not going to act?"
+  },
+  {
+    "chars": ["說", "聊", "齋"],
+    "pinyin": ["shuō", "liáo", "zhāi"],
+    "char_meaning": ["say", "chat", "study"],
+    "sentence_meaning": "Talking about strange stories"
+  },
+  {
+    "chars": ["這", "一", "把", "直", "接", "合"],
+    "pinyin": ["zhè", "yī", "bǎ", "zhí", "jiē", "hé"],
+    "char_meaning": ["this", "one", "measure word", "straight", "connect", "combine"],
+    "sentence_meaning": "This hand, I'll directly combine"
+  },
+  {
+    "chars": ["因", "為", "我", "花", "錢", "交", "朋", "友"],
+    "pinyin": ["yīn", "wèi", "wǒ", "huā", "qián", "jiāo", "péng", "yǒu"],
+    "char_meaning": ["because", "for", "I", "spend", "money", "make", "friend", "friend"],
+    "sentence_meaning": "Because I spend money to make friends"
+  },
+  {
+    "chars": ["藝", "高", "人", "膽", "大"],
+    "pinyin": ["yì", "gāo", "rén", "dǎn", "dà"],
+    "char_meaning": ["art", "high", "person", "gallbladder", "big"],
+    "sentence_meaning": "Skilled and bold"
+  },
+  {
+    "chars": ["攬", "佬", "小", "盲", "三", "條", "九"],
+    "pinyin": ["lǎn", "lǎo", "xiǎo", "máng", "sān", "tiáo", "jiǔ"],
+    "char_meaning": ["pull", "old man", "small", "blind", "three", "strip", "nine"],
+    "sentence_meaning": "The old man in the small blind has three nines"
+  },
+  {
+    "chars": ["回", "饋", "社", "會", "先"],
+    "pinyin": ["huí", "kuì", "shè", "huì", "xiān"],
+    "char_meaning": ["return", "feed", "society", "meeting", "first"],
+    "sentence_meaning": "Give back to society first"
+  },
+  {
+    "chars": ["摸", "到", "那", "頂", "皇", "冠", "後"],
+    "pinyin": ["mō", "dào", "nà", "dǐng", "huáng", "guān", "hòu"],
+    "char_meaning": ["touch", "arrive", "that", "top", "emperor", "crown", "after"],
+    "sentence_meaning": "After touching that crown"
+  },
+  {
+    "chars": ["找", "你", "做", "事", "人", "太", "多"],
+    "pinyin": ["zhǎo", "nǐ", "zuò", "shì", "rén", "tài", "duō"],
+    "char_meaning": ["find", "you", "do", "thing", "person", "too", "many"],
+    "sentence_meaning": "Too many people come to you to do things"
+  },
+  {
+    "chars": ["事", "情", "兩", "袖", "清", "風", "做"],
+    "pinyin": ["shì", "qíng", "liǎng", "xiù", "qīng", "fēng", "zuò"],
+    "char_meaning": ["thing", "feeling", "two", "sleeve", "clear", "wind", "do"],
+    "sentence_meaning": "Doing things with clean hands"
+  },
+  {
+    "chars": ["一", "陰", "一", "陽", "之", "謂", "道"],
+    "pinyin": ["yī", "yīn", "yī", "yáng", "zhī", "wèi", "dào"],
+    "char_meaning": ["one", "yin", "one", "yang", "possessive", "say", "way"],
+    "sentence_meaning": "One yin, one yang is the way"
+  },
+  {
+    "chars": ["紫", "氣", "東", "來"],
+    "pinyin": ["zǐ", "qì", "dōng", "lái"],
+    "char_meaning": ["purple", "gas", "east", "come"],
+    "sentence_meaning": "Purple energy comes from the east"
+  },
+  {
+    "chars": ["明", "碼", "標", "價", "的", "那", "些", "物"],
+    "pinyin": ["míng", "mǎ", "biāo", "jià", "de", "nà", "xiē", "wù"],
+    "char_meaning": ["clear", "code", "mark", "price", "possessive", "that", "some", "thing"],
+    "sentence_meaning": "Those things with a clear price tag"
+  },
+  {
+    "chars": ["非", "黑", "即", "白"],
+    "pinyin": ["fēi", "hēi", "jí", "bái"],
+    "char_meaning": ["not", "black", "then", "white"],
+    "sentence_meaning": "Either black or white"
+  },
+  {
+    "chars": ["若", "上", "頒", "獎", "台", "切", "莫", "張", "燈", "結", "彩"],
+    "pinyin": ["ruò", "shàng", "bān", "jiǎng", "tái", "qiè", "mò", "zhāng", "dēng", "jié", "cǎi"],
+    "char_meaning": ["if", "go up", "award", "prize", "platform", "absolutely", "not", "open", "light", "tie", "color"],
+    "sentence_meaning": "If you go on the awards stage, don't celebrate with great fanfare"
+  },
+  {
+    "chars": ["八", "仙", "桌", "的", "收", "尾", "少", "不", "了", "空", "心", "菜"],
+    "pinyin": ["bā", "xiān", "zhuō", "de", "shōu", "wěi", "shǎo", "bù", "liǎo", "kōng", "xīn", "cài"],
+    "char_meaning": ["eight", "immortal", "table", "possessive", "collect", "tail", "little", "not", "end", "empty", "heart", "vegetable"],
+    "sentence_meaning": "The end of the Eight Immortals table can't be without water spinach"
+  },
+  {
+    "chars": ["上", "北", "下", "南", "左", "西", "右", "東"],
+    "pinyin": ["shàng", "běi", "xià", "nán", "zuǒ", "xī", "yòu", "dōng"],
+    "char_meaning": ["up", "north", "down", "south", "left", "west", "right", "east"],
+    "sentence_meaning": "Up north, down south, left west, right east"
+  },
+  {
+    "chars": ["東", "南", "東", "北"],
+    "pinyin": ["dōng", "nán", "dōng", "běi"],
+    "char_meaning": ["east", "south", "east", "north"],
+    "sentence_meaning": "Southeast, northeast"
+  },
+  {
+    "chars": ["西", "北", "西", "南"],
+    "pinyin": ["xī", "běi", "xī", "nán"],
+    "char_meaning": ["west", "north", "west", "south"],
+    "sentence_meaning": "Northwest, southwest"
+  },
+  {
+    "chars": ["步", "步", "高", "升"],
+    "pinyin": ["bù", "bù", "gāo", "shēng"],
+    "char_meaning": ["step", "step", "high", "rise"],
+    "sentence_meaning": "Rising higher with every step"
+  },
+  {
+    "chars": ["八", "方", "來", "財"],
+    "pinyin": ["bā", "fāng", "lái", "cái"],
+    "char_meaning": ["eight", "direction", "come", "wealth"],
+    "sentence_meaning": "Wealth comes from all directions"
+  },
+  {
+    "chars": ["四", "海", "為", "家", "興", "旺"],
+    "pinyin": ["sì", "hǎi", "wèi", "jiā", "xīng", "wàng"],
+    "char_meaning": ["four", "sea", "for", "home", "prosper", "flourish"],
+    "sentence_meaning": "Prosperity from all corners of the world"
+  },
+  {
+    "chars": ["百", "事", "可", "樂"],
+    "pinyin": ["bǎi", "shì", "kě", "lè"],
+    "char_meaning": ["hundred", "thing", "can", "happy"],
+    "sentence_meaning": "Everything can be happy"
+  },
+  {
+    "chars": ["千", "事", "吉", "祥"],
+    "pinyin": ["qiān", "shì", "jí", "xiáng"],
+    "char_meaning": ["thousand", "thing", "lucky", "auspicious"],
+    "sentence_meaning": "A thousand things are auspicious"
+  },
+  {
+    "chars": ["萬", "事", "如", "意"],
+    "pinyin": ["wàn", "shì", "rú", "yì"],
+    "char_meaning": ["ten thousand", "thing", "like", "meaning"],
+    "sentence_meaning": "Ten thousand things as you wish"
+  },
+  {
+    "chars": ["順", "風", "順", "水"],
+    "pinyin": ["shùn", "fēng", "shùn", "shuǐ"],
+    "char_meaning": ["smooth", "wind", "smooth", "water"],
+    "sentence_meaning": "Everything goes smoothly"
+  },
+  {
+    "chars": ["天", "道", "酬", "勤"],
+    "pinyin": ["tiān", "dào", "chóu", "qín"],
+    "char_meaning": ["sky", "way", "reward", "diligence"],
+    "sentence_meaning": "Heaven rewards the diligent"
+  },
+  {
+    "chars": ["鵬", "程", "萬", "裡"],
+    "pinyin": ["péng", "chéng", "wàn", "lǐ"],
+    "char_meaning": ["peng bird", "journey", "ten thousand", "mile"],
+    "sentence_meaning": "A great future"
+  },
+  {
+    "chars": ["你", "不", "給", "點", "表", "示", "嗎"],
+    "pinyin": ["nǐ", "bù", "gěi", "diǎn", "biǎo", "shì", "ma"],
+    "char_meaning": ["you", "not", "give", "point", "show", "show", "question particle"],
+    "sentence_meaning": "Aren't you going to show some appreciation?"
+  },
+  {
+    "chars": ["我", "們", "這", "裡", "的", "憋", "佬", "仔"],
+    "pinyin": ["wǒ", "men", "zhè", "lǐ", "de", "biē", "lǎo", "zǎi"],
+    "char_meaning": ["we", "plural", "this", "here", "possessive", "suppress", "old man", "young man"],
+    "sentence_meaning": "The guys here"
+  },
+  {
+    "chars": ["脖", "上", "喜", "歡", "掛", "玉", "牌"],
+    "pinyin": ["bó", "shàng", "xǐ", "huān", "guà", "yù", "pái"],
+    "char_meaning": ["neck", "on", "like", "happy", "hang", "jade", "brand"],
+    "sentence_meaning": "Like to hang jade pendants on their necks"
+  },
+  {
+    "chars": ["香", "爐", "供", "台", "上", "擺"],
+    "pinyin": ["xiāng", "lú", "gòng", "tái", "shàng", "bǎi"],
+    "char_meaning": ["fragrant", "furnace", "offer", "platform", "on", "place"],
+    "sentence_meaning": "Incense burners are placed on the offering table"
+  },
+  {
+    "chars": ["長", "大", "才", "開", "白", "黃", "牌"],
+    "pinyin": ["zhǎng", "dà", "cái", "kāi", "bái", "huáng", "pái"],
+    "char_meaning": ["grow", "big", "only", "open", "white", "yellow", "brand"],
+    "sentence_meaning": "Only when they grow up do they get white and yellow license plates"
+  },
+  {
+    "chars": ["虔", "誠", "拜", "三", "拜"],
+    "pinyin": ["qián", "chéng", "bài", "sān", "bài"],
+    "char_meaning": ["pious", "sincere", "bow", "three", "bow"],
+    "sentence_meaning": "Piously bow three times"
+  },
+  {
+    "chars": ["錢", "包", "裡", "多", "幾", "百"],
+    "pinyin": ["qián", "bāo", "lǐ", "duō", "jǐ", "bǎi"],
+    "char_meaning": ["money", "bag", "inside", "many", "several", "hundred"],
+    "sentence_meaning": "A few hundred more in the wallet"
+  },
+  {
+    "chars": ["易", "的", "是", "六", "合", "彩"],
+    "pinyin": ["yì", "de", "shì", "liù", "hé", "cǎi"],
+    "char_meaning": ["easy", "possessive", "is", "six", "combine", "color"],
+    "sentence_meaning": "What's easy is the Mark Six lottery"
+  },
+  {
+    "chars": ["難", "的", "是", "等", "河", "牌"],
+    "pinyin": ["nán", "de", "shì", "děng", "hé", "pái"],
+    "char_meaning": ["difficult", "possessive", "is", "wait", "river", "brand"],
+    "sentence_meaning": "What's difficult is waiting for the river card (poker)"
+  },
+  {
+    "chars": ["來", "財"],
+    "pinyin": ["lái", "cái"],
+    "char_meaning": ["come", "wealth"],
+    "sentence_meaning": "Come, wealth"
+  },
+  {
+    "chars": ["來"],
+    "pinyin": ["lái"],
+    "char_meaning": ["come"],
+    "sentence_meaning": "Come"
+  },
+  {
+    "chars": ["宗", "旨", "利", "滾", "利"],
+    "pinyin": ["zōng", "zhǐ", "lì", "gǔn", "lì"],
+    "char_meaning": ["ancestor", "aim", "profit", "roll", "profit"],
+    "sentence_meaning": "The principle is compound interest"
+  },
+  {
+    "chars": ["對", "應"],
+    "pinyin": ["duì", "yìng"],
+    "char_meaning": ["correct", "should"],
+    "sentence_meaning": "Corresponds to"
+  },
+  {
+    "chars": ["好", "運"],
+    "pinyin": ["hǎo", "yùn"],
+    "char_meaning": ["good", "luck"],
+    "sentence_meaning": "Good luck"
+  },
+  {
+    "chars": ["八", "方", "來"],
+    "pinyin": ["bā", "fāng", "lái"],
+    "char_meaning": ["eight", "direction", "come"],
+    "sentence_meaning": "Coming from all directions"
+  },
+  {
+    "chars": ["散", "了", "才", "能", "聚"],
+    "pinyin": ["sàn", "le", "cái", "néng", "jù"],
+    "char_meaning": ["scatter", "past tense", "only", "can", "gather"],
+    "sentence_meaning": "Only after scattering can there be a gathering"
+  },
+  {
+    "chars": ["你", "不", "出", "手", "？"],
+    "pinyin": ["nǐ", "bù", "chū", "shǒu", "?"],
+    "char_meaning": ["you", "not", "go out", "hand", "?"],
+    "sentence_meaning": "You're not going to act?"
+  },
+  {
+    "chars": ["說", "聊", "齋"],
+    "pinyin": ["shuō", "liáo", "zhāi"],
+    "char_meaning": ["say", "chat", "study"],
+    "sentence_meaning": "Talking about strange stories"
+  }
+]

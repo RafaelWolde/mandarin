@@ -1,0 +1,242 @@
+ [
+    {
+      "chars": ["老", "天", "保", "佑", "金", "山", "银", "山", "前", "路", "有"],
+      "pinyin": ["lǎo", "tiān", "bǎo", "yòu", "jīn", "shān", "yín", "shān", "qián", "lù", "yǒu"],
+      "char_meaning": ["old", "heaven", "protect", "bless", "gold", "mountain", "silver", "mountain", "front", "road", "have"],
+      "sentence_meaning": "Heaven blesses me with gold and silver mountains ahead"
+    },
+    {
+      "chars": ["老", "天", "教", "唆", "别", "管", "江", "湖", "龙", "虎", "斗"],
+      "pinyin": ["lǎo", "tiān", "jiào", "suō", "bié", "guǎn", "jiāng", "hú", "lóng", "hǔ", "dòu"],
+      "char_meaning": ["old", "heaven", "teach", "instigate", "don't", "care", "river", "lake", "dragon", "tiger", "fight"],
+      "sentence_meaning": "Heaven instigates me not to care about the struggles of the world"
+    },
+    {
+      "chars": ["老", "天", "叮", "嘱", "这", "辈", "子", "我", "善", "不", "丢"],
+      "pinyin": ["lǎo", "tiān", "dīng", "zhǔ", "zhè", "bèi", "zi", "wǒ", "shàn", "bù", "diū"],
+      "char_meaning": ["old", "heaven", "instruct", "tell", "this", "life", "particle", "I", "goodness", "not", "lose"],
+      "sentence_meaning": "Heaven instructs me not to lose my kindness in this life"
+    },
+    {
+      "chars": ["老", "天", "就", "怕", "三", "十", "六", "雷", "总", "打", "秋"],
+      "pinyin": ["lǎo", "tiān", "jiù", "pà", "sān", "shí", "liù", "léi", "zǒng", "dǎ", "qiū"],
+      "char_meaning": ["old", "heaven", "just", "afraid", "thirty", "ten", "six", "thunder", "always", "strike", "autumn"],
+      "sentence_meaning": "Heaven is just afraid that the thirty-six thunders will always strike in autumn"
+    },
+    {
+      "chars": ["魑", "魅", "魍", "魉", "总", "出", "现", "在", "秋", "收", "后"],
+      "pinyin": ["chī", "mèi", "wǎng", "liǎng", "zǒng", "chū", "xiàn", "zài", "qiū", "shōu", "hòu"],
+      "char_meaning": ["evil spirit", "evil spirit", "evil spirit", "evil spirit", "always", "appear", "now", "at", "autumn", "harvest", "after"],
+      "sentence_meaning": "Demons and monsters always appear after the autumn harvest"
+    },
+    {
+      "chars": ["魑", "魅", "魍", "魉", "总", "出", "现", "在", "秋", "收", "后"],
+      "pinyin": ["chī", "mèi", "wǎng", "liǎng", "zǒng", "chū", "xiàn", "zài", "qiū", "shōu", "hòu"],
+      "char_meaning": ["evil spirit", "evil spirit", "evil spirit", "evil spirit", "always", "appear", "now", "at", "autumn", "harvest", "after"],
+      "sentence_meaning": "Demons and monsters always appear after the autumn harvest"
+    },
+    {
+      "chars": ["老", "天", "让", "我", "一", "棍", "铲", "除", "啮", "齿", "类"],
+      "pinyin": ["lǎo", "tiān", "ràng", "wǒ", "yī", "gùn", "chǎn", "chú", "niè", "chǐ", "lèi"],
+      "char_meaning": ["old", "heaven", "let", "I", "one", "stick", "shovel", "remove", "gnaw", "tooth", "category"],
+      "sentence_meaning": "Heaven lets me use one stick to eradicate rodents"
+    },
+    {
+      "chars": ["第", "二", "棍", "附", "魔", "我", "打", "穿", "对", "家", "楼"],
+      "pinyin": ["dì", "èr", "gùn", "fù", "mó", "wǒ", "dǎ", "chuān", "duì", "jiā", "lóu"],
+      "char_meaning": ["order", "two", "stick", "attach", "magic", "I", "hit", "pierce", "opposite", "home", "building"],
+      "sentence_meaning": "The second stick is enchanted, and I'll break through the opponent's building"
+    },
+    {
+      "chars": ["因", "果"],
+      "pinyin": ["yīn", "guǒ"],
+      "char_meaning": ["cause", "effect"],
+      "sentence_meaning": "Karma"
+    },
+    {
+      "chars": ["因", "果"],
+      "pinyin": ["yīn", "guǒ"],
+      "char_meaning": ["cause", "effect"],
+      "sentence_meaning": "Karma"
+    },
+    {
+      "chars": ["老", "天", "让", "放", "下", "屠", "刀", "但", "这", "是", "他", "的", "因", "果"],
+      "pinyin": ["lǎo", "tiān", "ràng", "fàng", "xià", "tú", "dāo", "dàn", "zhè", "shì", "tā", "de", "yīn", "guǒ"],
+      "char_meaning": ["old", "heaven", "let", "put", "down", "slaughter", "knife", "but", "this", "is", "he", "possessive", "cause", "effect"],
+      "sentence_meaning": "Heaven tells me to put down the butcher's knife, but this is his karma"
+    },
+    {
+      "chars": ["该", "不", "该", "放", "下", "屠", "刀"],
+      "pinyin": ["gāi", "bù", "gāi", "fàng", "xià", "tú", "dāo"],
+      "char_meaning": ["should", "not", "should", "put", "down", "slaughter", "knife"],
+      "sentence_meaning": "Should I put down the butcher's knife?"
+    },
+    {
+      "chars": ["如", "果", "放", "角", "落", "潜", "伏", "饿", "鬼", "分", "分", "钟", "一", "棒"],
+      "pinyin": ["rú", "guǒ", "fàng", "jiǎo", "luò", "qián", "fú", "è", "guǐ", "fēn", "fēn", "zhōng", "yī", "bàng"],
+      "char_meaning": ["if", "result", "put", "corner", "fall", "submerge", "lie in wait", "hungry", "ghost", "minute", "minute", "bell", "one", "stick"],
+      "sentence_meaning": "If I let go, the lurking hungry ghosts will strike in a minute"
+    },
+    {
+      "chars": ["如", "果", "提", "心", "中", "恶", "念", "超", "过", "善", "的", "话", "没", "法", "平"],
+      "pinyin": ["rú", "guǒ", "tí", "xīn", "zhōng", "è", "niàn", "chāo", "guò", "shàn", "de", "huà", "méi", "fǎ", "píng"],
+      "char_meaning": ["if", "result", "raise", "heart", "middle", "evil", "thought", "surpass", "pass", "good", "possessive", "words", "not have", "law", "peace"],
+      "sentence_meaning": "If the evil thoughts in my heart exceed the good, there's no way to find peace"
+    },
+    {
+      "chars": ["要", "还", "债", "兵", "来", "将", "挡", "因", "为", "我", "是", "个", "奈", "非", "天"],
+      "pinyin": ["yào", "huán", "zhài", "bīng", "lái", "jiāng", "dǎng", "yīn", "wèi", "wǒ", "shì", "gè", "nài", "fēi", "tiān"],
+      "char_meaning": ["want", "return", "debt", "soldier", "come", "general", "block", "because", "for", "I", "am", "a", "nay", "not", "heaven"],
+      "sentence_meaning": "I must repay my debts, I'll block soldiers with generals, because I'm a Nephalem"
+    },
+    {
+      "chars": ["手", "腕", "上", "五", "路", "财", "神", "虚", "空", "藏", "挡", "一", "切"],
+      "pinyin": ["shǒu", "wàn", "shàng", "wǔ", "lù", "cái", "shén", "xū", "kōng", "cáng", "dǎng", "yī", "qiè"],
+      "char_meaning": ["hand", "wrist", "on", "five", "road", "wealth", "god", "empty", "empty", "hide", "block", "one", "all"],
+      "sentence_meaning": "On my wrist, the five wealth gods and the Acala Bodhisattva block everything"
+    },
+    {
+      "chars": ["海", "面", "刮", "大", "浪", "要", "不", "要", "秋", "后", "算", "账"],
+      "pinyin": ["hǎi", "miàn", "guā", "dà", "làng", "yào", "bù", "yào", "qiū", "hòu", "suàn", "zhàng"],
+      "char_meaning": ["sea", "face", "scrape", "big", "wave", "want", "not", "want", "autumn", "after", "calculate", "account"],
+      "sentence_meaning": "Big waves are on the sea, should I settle accounts after the autumn harvest?"
+    },
+    {
+      "chars": ["我", "不", "是", "God", "我", "需", "要", "平", "衡", "阴", "阳"],
+      "pinyin": ["wǒ", "bù", "shì", "God", "wǒ", "xū", "yào", "píng", "héng", "yīn", "yáng"],
+      "char_meaning": ["I", "not", "am", "God", "I", "need", "want", "flat", "balance", "yin", "yang"],
+      "sentence_meaning": "I'm not God, I need to balance Yin and Yang"
+    },
+    {
+      "chars": ["看", "懂", "这", "因", "果", "业", "障"],
+      "pinyin": ["kàn", "dǒng", "zhè", "yīn", "guǒ", "yè", "zhàng"],
+      "char_meaning": ["see", "understand", "this", "cause", "effect", "karma", "obstacle"],
+      "sentence_meaning": "Understand this karmic obstacle"
+    },
+    {
+      "chars": ["看", "懂", "这", "因", "果", "业", "障"],
+      "pinyin": ["kàn", "dǒng", "zhè", "yīn", "guǒ", "yè", "zhàng"],
+      "char_meaning": ["see", "understand", "this", "cause", "effect", "karma", "obstacle"],
+      "sentence_meaning": "Understand this karmic obstacle"
+    },
+    {
+      "chars": ["世", "界", "上", "条", "条", "框", "框", "就", "好", "像", "打", "牌", "记", "账"],
+      "pinyin": ["shì", "jiè", "shàng", "tiáo", "tiáo", "kuàng", "kuàng", "jiù", "hǎo", "xiàng", "dǎ", "pái", "jì", "zhàng"],
+      "char_meaning": ["world", "boundary", "on", "strip", "strip", "frame", "frame", "just", "good", "like", "play", "card", "record", "account"],
+      "sentence_meaning": "The rules in this world are like keeping scores in a card game"
+    },
+    {
+      "chars": ["迟", "早", "会", "到", "你", "头", "上", "谁", "不", "想", "打", "翻", "身", "仗"],
+      "pinyin": ["chí", "zǎo", "huì", "dào", "nǐ", "tóu", "shàng", "shuí", "bù", "xiǎng", "dǎ", "fān", "shēn", "zhàng"],
+      "char_meaning": ["late", "early", "will", "arrive", "you", "head", "on", "who", "not", "want", "hit", "turn over", "body", "war"],
+      "sentence_meaning": "It will eventually come back to you, who doesn't want to make a comeback?"
+    },
+    {
+      "chars": ["谁", "不", "想", "打", "翻", "身", "仗"],
+      "pinyin": ["shuí", "bù", "xiǎng", "dǎ", "fān", "shēn", "zhàng"],
+      "char_meaning": ["who", "not", "want", "hit", "turn over", "body", "war"],
+      "sentence_meaning": "Who doesn't want to make a comeback?"
+    },
+    {
+      "chars": ["总", "有", "人", "在", "卖", "着", "惨", "总", "有", "人", "想", "利", "用", "善"],
+      "pinyin": ["zǒng", "yǒu", "rén", "zài", "mài", "zhe", "cǎn", "zǒng", "yǒu", "rén", "xiǎng", "lì", "yòng", "shàn"],
+      "char_meaning": ["always", "have", "person", "at", "sell", "present tense", "miserable", "always", "have", "person", "think", "profit", "use", "goodness"],
+      "sentence_meaning": "Some people are always playing the victim, and some want to take advantage of kindness"
+    },
+    {
+      "chars": ["殊", "不", "知", "天", "在", "看", "祸", "根", "找", "上", "门", "惨"],
+      "pinyin": ["shū", "bù", "zhī", "tiān", "zài", "kàn", "huò", "gēn", "zhǎo", "shàng", "mén", "cǎn"],
+      "char_meaning": ["special", "not", "know", "heaven", "at", "see", "disaster", "root", "find", "up", "door", "miserable"],
+      "sentence_meaning": "Little do they know, heaven is watching, and the root of disaster will find their door, how tragic"
+    },
+    {
+      "chars": ["你", "把", "爱", "拿", "来", "闹", "着", "玩", "你", "把", "爱", "当", "做", "子", "弹"],
+      "pinyin": ["nǐ", "bǎ", "ài", "ná", "lái", "nào", "zhe", "wán", "nǐ", "bǎ", "ài", "dāng", "zuò", "zǐ", "dàn"],
+      "char_meaning": ["you", "object marker", "love", "take", "come", "make trouble", "present tense", "play", "you", "object marker", "love", "treat", "as", "child", "bullet"],
+      "sentence_meaning": "You take love as a joke, you treat love as a bullet"
+    },
+    {
+      "chars": ["殊", "不", "知", "天", "在", "看", "拍", "拍", "手", "完", "蛋"],
+      "pinyin": ["shū", "bù", "zhī", "tiān", "zài", "kàn", "pāi", "pāi", "shǒu", "wán", "dàn"],
+      "char_meaning": ["special", "not", "know", "heaven", "at", "see", "clap", "clap", "hand", "finish", "egg"],
+      "sentence_meaning": "Little do you know, heaven is watching, clapping its hands, and you're finished"
+    },
+    {
+      "chars": ["老", "天", "保", "佑", "金", "山", "银", "山", "前", "路", "有"],
+      "pinyin": ["lǎo", "tiān", "bǎo", "yòu", "jīn", "shān", "yín", "shān", "qián", "lù", "yǒu"],
+      "char_meaning": ["old", "heaven", "protect", "bless", "gold", "mountain", "silver", "mountain", "front", "road", "have"],
+      "sentence_meaning": "Heaven blesses me with gold and silver mountains ahead"
+    },
+    {
+      "chars": ["老", "天", "教", "唆", "别", "管", "江", "湖", "龙", "虎", "斗"],
+      "pinyin": ["lǎo", "tiān", "jiào", "suō", "bié", "guǎn", "jiāng", "hú", "lóng", "hǔ", "dòu"],
+      "char_meaning": ["old", "heaven", "teach", "instigate", "don't", "care", "river", "lake", "dragon", "tiger", "fight"],
+      "sentence_meaning": "Heaven instigates me not to care about the struggles of the world"
+    },
+    {
+      "chars": ["老", "天", "叮", "嘱", "这", "辈", "子", "我", "善", "不", "丢"],
+      "pinyin": ["lǎo", "tiān", "dīng", "zhǔ", "zhè", "bèi", "zi", "wǒ", "shàn", "bù", "diū"],
+      "char_meaning": ["old", "heaven", "instruct", "tell", "this", "life", "particle", "I", "goodness", "not", "lose"],
+      "sentence_meaning": "Heaven instructs me not to lose my kindness in this life"
+    },
+    {
+      "chars": ["老", "天", "就", "怕", "三", "十", "六", "雷", "总", "打", "秋"],
+      "pinyin": ["lǎo", "tiān", "jiù", "pà", "sān", "shí", "liù", "léi", "zǒng", "dǎ", "qiū"],
+      "char_meaning": ["old", "heaven", "just", "afraid", "thirty", "ten", "six", "thunder", "always", "strike", "autumn"],
+      "sentence_meaning": "Heaven is just afraid that the thirty-six thunders will always strike in autumn"
+    },
+    {
+      "chars": ["魑", "魅", "魍", "魉", "总", "出", "现", "在", "丰", "收", "后"],
+      "pinyin": ["chī", "mèi", "wǎng", "liǎng", "zǒng", "chū", "xiàn", "zài", "fēng", "shōu", "hòu"],
+      "char_meaning": ["evil spirit", "evil spirit", "evil spirit", "evil spirit", "always", "appear", "now", "at", "plentiful", "harvest", "after"],
+      "sentence_meaning": "Demons and monsters always appear after a plentiful harvest"
+    },
+    {
+      "chars": ["魑", "魅", "魍", "魉", "总", "出", "现", "在", "丰", "收", "后"],
+      "pinyin": ["chī", "mèi", "wǎng", "liǎng", "zǒng", "chū", "xiàn", "zài", "fēng", "shōu", "hòu"],
+      "char_meaning": ["evil spirit", "evil spirit", "evil spirit", "evil spirit", "always", "appear", "now", "at", "plentiful", "harvest", "after"],
+      "sentence_meaning": "Demons and monsters always appear after a plentiful harvest"
+    },
+    {
+      "chars": ["老", "天", "让", "我", "一", "棍", "铲", "除", "啮", "齿", "类"],
+      "pinyin": ["lǎo", "tiān", "ràng", "wǒ", "yī", "gùn", "chǎn", "chú", "niè", "chǐ", "lèi"],
+      "char_meaning": ["old", "heaven", "let", "I", "one", "stick", "shovel", "remove", "gnaw", "tooth", "category"],
+      "sentence_meaning": "Heaven lets me use one stick to eradicate rodents"
+    },
+    {
+      "chars": ["第", "二", "棍", "附", "魔", "我", "打", "穿", "对", "家", "楼"],
+      "pinyin": ["dì", "èr", "gùn", "fù", "mó", "wǒ", "dǎ", "chuān", "duì", "jiā", "lóu"],
+      "char_meaning": ["order", "two", "stick", "attach", "magic", "I", "hit", "pierce", "opposite", "home", "building"],
+      "sentence_meaning": "The second stick is enchanted, and I'll break through the opponent's building"
+    },
+    {
+      "chars": ["因", "果"],
+      "pinyin": ["yīn", "guǒ"],
+      "char_meaning": ["cause", "effect"],
+      "sentence_meaning": "Karma"
+    },
+    {
+      "chars": ["因", "果"],
+      "pinyin": ["yīn", "guǒ"],
+      "char_meaning": ["cause", "effect"],
+      "sentence_meaning": "Karma"
+    },
+    {
+      "chars": ["老", "天", "让", "放", "下", "屠", "刀", "但", "这", "是", "他", "的", "因", "果"],
+      "pinyin": ["lǎo", "tiān", "ràng", "fàng", "xià", "tú", "dāo", "dàn", "zhè", "shì", "tā", "de", "yīn", "guǒ"],
+      "char_meaning": ["old", "heaven", "let", "put", "down", "slaughter", "knife", "but", "this", "is", "he", "possessive", "cause", "effect"],
+      "sentence_meaning": "Heaven tells me to put down the butcher's knife, but this is his karma"
+    },
+    {
+      "chars": ["算", "了", "给", "你", "面", "子"],
+      "pinyin": ["suàn", "le", "gěi", "nǐ", "miàn", "zi"],
+      "char_meaning": ["calculate", "past tense", "give", "you", "face", "particle"],
+      "sentence_meaning": "Fine, I'll give you some face"
+    },
+    {
+      "chars": ["该", "不", "该", "放", "下", "屠", "刀"],
+      "pinyin": ["gāi", "bù", "gāi", "fàng", "xià", "tú", "dāo"],
+      "char_meaning": ["should", "not", "should", "put", "down", "slaughter", "knife"],
+      "sentence_meaning": "Should I put down the butcher's knife?"
+    }
+  ]

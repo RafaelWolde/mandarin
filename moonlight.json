@@ -1,0 +1,182 @@
+[
+    {
+      "chars": ["月", "光", "色", "女", "子", "香"],
+      "pinyin": ["yuè", "guāng", "sè", "nǚ", "zi", "xiāng"],
+      "char_meaning": ["moon", "light", "color", "woman", "person", "fragrance"],
+      "sentence_meaning": "The color of moonlight, a woman's fragrance"
+    },
+    {
+      "chars": ["淚", "斷", "劍", "情", "多", "長"],
+      "pinyin": ["lèi", "duàn", "jiàn", "qíng", "duō", "cháng"],
+      "char_meaning": ["tear", "break", "sword", "love", "how much", "long"],
+      "sentence_meaning": "Tears break the sword, how long does love last?"
+    },
+    {
+      "chars": ["有", "多", "痛", "無", "字", "想"],
+      "pinyin": ["yǒu", "duō", "tòng", "wú", "zì", "xiǎng"],
+      "char_meaning": ["have", "how much", "pain", "without", "word", "think"],
+      "sentence_meaning": "How much does it hurt, no words to express"
+    },
+    {
+      "chars": ["忘", "了", "你"],
+      "pinyin": ["wàng", "le", "nǐ"],
+      "char_meaning": ["forget", "past tense", "you"],
+      "sentence_meaning": "Forgot you"
+    },
+    {
+      "chars": ["孤", "單", "魂", "隨", "風", "盪"],
+      "pinyin": ["gū", "dān", "hún", "suí", "fēng", "dàng"],
+      "char_meaning": ["lonely", "alone", "soul", "follow", "wind", "sway"],
+      "sentence_meaning": "A lonely soul sways with the wind"
+    },
+    {
+      "chars": ["誰", "去", "笑", "痴", "情", "郎", "?"],
+      "pinyin": ["shuí", "qù", "xiào", "chī", "qíng", "láng", "?"],
+      "char_meaning": ["who", "go", "laugh", "infatuated", "love", "man", "?"],
+      "sentence_meaning": "Who will laugh at the lovesick man?"
+    },
+    {
+      "chars": ["這", "紅", "塵", "的", "戰", "場"],
+      "pinyin": ["zhè", "hóng", "chén", "de", "zhàn", "chǎng"],
+      "char_meaning": ["this", "red", "dust", "possessive", "battle", "field"],
+      "sentence_meaning": "This battlefield of the mortal world"
+    },
+    {
+      "chars": ["千", "軍", "萬", "馬", "誰", "能", "夠", "稱", "王"],
+      "pinyin": ["qiān", "jūn", "wàn", "mǎ", "shuí", "néng", "gòu", "chēng", "wáng"],
+      "char_meaning": ["thousand", "army", "ten thousand", "horse", "who", "can", "enough", "be called", "king"],
+      "sentence_meaning": "Among a vast army, who can be crowned king?"
+    },
+    {
+      "chars": ["過", "情", "關", "誰", "敢", "闖", "?"],
+      "pinyin": ["guò", "qíng", "guān", "shuí", "gǎn", "chuǎng", "?"],
+      "char_meaning": ["pass", "love", "pass", "who", "dare", "break in", "?"],
+      "sentence_meaning": "Passing the 'love pass', who dares to try?"
+    },
+    {
+      "chars": ["望", "明", "月", "心", "悲", "凉"],
+      "pinyin": ["wàng", "míng", "yuè", "xīn", "bēi", "liáng"],
+      "char_meaning": ["gaze at", "bright", "moon", "heart", "sad", "cold"],
+      "sentence_meaning": "Gazing at the bright moon, the heart feels sad and cold"
+    },
+    {
+      "chars": ["千", "古", "恨", "輪", "迴", "一", "嚐"],
+      "pinyin": ["qiān", "gǔ", "hèn", "lún", "huí", "yī", "cháng"],
+      "char_meaning": ["thousand", "ancient", "hatred", "reincarnation", "return", "one", "taste"],
+      "sentence_meaning": "A thousand years of regret, tasted in one reincarnation"
+    },
+    {
+      "chars": ["眼", "一", "閉", "誰", "最", "狂", "?"],
+      "pinyin": ["yǎn", "yī", "bì", "shuí", "zuì", "kuáng", "?"],
+      "char_meaning": ["eye", "one", "close", "who", "most", "crazy", "?"],
+      "sentence_meaning": "With eyes closed, who is the most arrogant?"
+    },
+    {
+      "chars": ["Whoa", "這", "世", "道", "的", "無", "常"],
+      "pinyin": ["Whoa", "zhè", "shì", "dào", "de", "wú", "cháng"],
+      "char_meaning": ["Whoa", "this", "world", "way", "possessive", "without", "constant"],
+      "sentence_meaning": "Whoa, this world's impermanence"
+    },
+    {
+      "chars": ["注", "定", "敢", "愛", "的", "人", "一", "身", "傷"],
+      "pinyin": ["zhù", "dìng", "gǎn", "ài", "de", "rén", "yī", "shēn", "shāng"],
+      "char_meaning": ["predetermine", "certain", "dare", "love", "possessive", "person", "one", "body", "injury"],
+      "sentence_meaning": "Is destined to wound those who dare to love"
+    },
+    {
+      "chars": ["月", "光", "色", "女", "子", "香"],
+      "pinyin": ["yuè", "guāng", "sè", "nǚ", "zi", "xiāng"],
+      "char_meaning": ["moon", "light", "color", "woman", "person", "fragrance"],
+      "sentence_meaning": "The color of moonlight, a woman's fragrance"
+    },
+    {
+      "chars": ["淚", "斷", "劍", "情", "多", "長"],
+      "pinyin": ["lèi", "duàn", "jiàn", "qíng", "duō", "cháng"],
+      "char_meaning": ["tear", "break", "sword", "love", "how much", "long"],
+      "sentence_meaning": "Tears break the sword, how long does love last?"
+    },
+    {
+      "chars": ["有", "多", "痛", "無", "字", "想"],
+      "pinyin": ["yǒu", "duō", "tòng", "wú", "zì", "xiǎng"],
+      "char_meaning": ["have", "how much", "pain", "without", "word", "think"],
+      "sentence_meaning": "How much does it hurt, no words to express"
+    },
+    {
+      "chars": ["忘", "了", "你"],
+      "pinyin": ["wàng", "le", "nǐ"],
+      "char_meaning": ["forget", "past tense", "you"],
+      "sentence_meaning": "Forgot you"
+    },
+    {
+      "chars": ["孤", "單", "魂", "隨", "風", "蕩"],
+      "pinyin": ["gū", "dān", "hún", "suí", "fēng", "dàng"],
+      "char_meaning": ["lonely", "alone", "soul", "follow", "wind", "sway"],
+      "sentence_meaning": "A lonely soul sways with the wind"
+    },
+    {
+      "chars": ["誰", "去", "笑", "痴", "情", "郎", "?"],
+      "pinyin": ["shuí", "qù", "xiào", "chī", "qíng", "láng", "?"],
+      "char_meaning": ["who", "go", "laugh", "infatuated", "love", "man", "?"],
+      "sentence_meaning": "Who will laugh at the lovesick man?"
+    },
+    {
+      "chars": ["這", "红", "塵", "的", "戰", "場"],
+      "pinyin": ["zhè", "hóng", "chén", "de", "zhàn", "chǎng"],
+      "char_meaning": ["this", "red", "dust", "possessive", "battle", "field"],
+      "sentence_meaning": "This battlefield of the mortal world"
+    },
+    {
+      "chars": ["千", "軍", "萬", "馬", "有", "誰", "能", "稱", "王"],
+      "pinyin": ["qiān", "jūn", "wàn", "mǎ", "yǒu", "shuí", "néng", "chēng", "wáng"],
+      "char_meaning": ["thousand", "army", "ten thousand", "horse", "have", "who", "can", "be called", "king"],
+      "sentence_meaning": "Among a vast army, who can be crowned king?"
+    },
+    {
+      "chars": ["過", "情", "關", "誰", "敢", "闖", "?"],
+      "pinyin": ["guò", "qíng", "guān", "shuí", "gǎn", "chuǎng", "?"],
+      "char_meaning": ["pass", "love", "pass", "who", "dare", "break in", "?"],
+      "sentence_meaning": "Passing the 'love pass', who dares to try?"
+    },
+    {
+      "chars": ["望", "明", "月", "心", "悲", "凉"],
+      "pinyin": ["wàng", "míng", "yuè", "xīn", "bēi", "liáng"],
+      "char_meaning": ["gaze at", "bright", "moon", "heart", "sad", "cold"],
+      "sentence_meaning": "Gazing at the bright moon, the heart feels sad and cold"
+    },
+    {
+      "chars": ["千", "古", "恨", "輪", "迴", "一", "嚐"],
+      "pinyin": ["qiān", "gǔ", "hèn", "lún", "huí", "yī", "cháng"],
+      "char_meaning": ["thousand", "ancient", "hatred", "reincarnation", "return", "one", "taste"],
+      "sentence_meaning": "A thousand years of regret, tasted in one reincarnation"
+    },
+    {
+      "chars": ["眼", "一", "閉", "誰", "最", "狂", "?"],
+      "pinyin": ["yǎn", "yī", "bì", "shuí", "zuì", "kuáng", "?"],
+      "char_meaning": ["eye", "one", "close", "who", "most", "crazy", "?"],
+      "sentence_meaning": "With eyes closed, who is the most arrogant?"
+    },
+    {
+      "chars": ["過", "情", "關", "誰", "敢", "闖", "?"],
+      "pinyin": ["guò", "qíng", "guān", "shuí", "gǎn", "chuǎng", "?"],
+      "char_meaning": ["pass", "love", "pass", "who", "dare", "break in", "?"],
+      "sentence_meaning": "Passing the 'love pass', who dares to try?"
+    },
+    {
+      "chars": ["望", "明", "月", "心", "悲", "凉"],
+      "pinyin": ["wàng", "míng", "yuè", "xīn", "bēi", "liáng"],
+      "char_meaning": ["gaze at", "bright", "moon", "heart", "sad", "cold"],
+      "sentence_meaning": "Gazing at the bright moon, the heart feels sad and cold"
+    },
+    {
+      "chars": ["千", "古", "恨", "輪", "迴", "一", "嚐"],
+      "pinyin": ["qiān", "gǔ", "hèn", "lún", "huí", "yī", "cháng"],
+      "char_meaning": ["thousand", "ancient", "hatred", "reincarnation", "return", "one", "taste"],
+      "sentence_meaning": "A thousand years of regret, tasted in one reincarnation"
+    },
+    {
+      "chars": ["眼", "一", "閉", "誰", "最", "狂", "?"],
+      "pinyin": ["yǎn", "yī", "bì", "shuí", "zuì", "kuáng", "?"],
+      "char_meaning": ["eye", "one", "close", "who", "most", "crazy", "?"],
+      "sentence_meaning": "With eyes closed, who is the most arrogant?"
+    }
+  ]

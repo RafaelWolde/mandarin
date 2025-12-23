@@ -1,0 +1,572 @@
+[
+    {
+      "chars": ["一", "张", "褪", "色", "的", "照", "片"],
+      "pinyin": ["yì", "zhāng", "tuì", "sè", "de", "zhào", "piàn"],
+      "char_meaning": ["one", "measure word", "fade", "color", "possessive", "photo", "piece"],
+      "sentence_meaning": "A faded photo"
+    },
+    {
+      "chars": ["好", "像", "带", "给", "我"],
+      "pinyin": ["hǎo", "xiàng", "dài", "gěi", "wǒ"],
+      "char_meaning": ["good", "like", "bring", "give", "me"],
+      "sentence_meaning": "Seems to bring me"
+    },
+    {
+      "chars": ["一", "点", "点", "怀", "念"],
+      "pinyin": ["yì", "diǎn", "diǎn", "huái", "niàn"],
+      "char_meaning": ["one", "point", "point", "bosom", "think"],
+      "sentence_meaning": "A little bit of nostalgia"
+    },
+    {
+      "chars": ["巷", "尾", "老", "爺", "爺"],
+      "pinyin": ["xiàng", "wěi", "lǎo", "ye", "yé"],
+      "char_meaning": ["alley", "tail", "old", "grandpa", "grandpa"],
+      "sentence_meaning": "The old grandpa at the end of the alley"
+    },
+    {
+      "chars": ["卖", "的", "热", "汤", "面"],
+      "pinyin": ["mài", "de", "rè", "tāng", "miàn"],
+      "char_meaning": ["sell", "possessive", "hot", "soup", "noodle"],
+      "sentence_meaning": "The hot noodle soup he sells"
+    },
+    {
+      "chars": ["味", "道", "弥", "漫", "过"],
+      "pinyin": ["wèi", "dào", "mí", "màn", "guò"],
+      "char_meaning": ["taste", "way", "spread", "overflow", "pass"],
+      "sentence_meaning": "Its smell diffused through"
+    },
+    {
+      "chars": ["旧", "旧", "的", "后", "院"],
+      "pinyin": ["jiù", "jiù", "de", "hòu", "yuàn"],
+      "char_meaning": ["old", "old", "possessive", "back", "yard"],
+      "sentence_meaning": "The old backyard"
+    },
+    {
+      "chars": ["流", "浪", "猫", "睡", "熟"],
+      "pinyin": ["liú", "làng", "māo", "shuì", "shú"],
+      "char_meaning": ["flow", "wander", "cat", "sleep", "熟"],
+      "sentence_meaning": "A stray cat is fast asleep"
+    },
+    {
+      "chars": ["在", "摇", "晃", "秋", "千"],
+      "pinyin": ["zài", "yáo", "huàng", "qiū", "qiān"],
+      "char_meaning": ["at", "shake", "sway", "autumn", "thousand"],
+      "sentence_meaning": "On a swaying swing"
+    },
+    {
+      "chars": ["夕", "阳", "照", "了"],
+      "pinyin": ["xī", "yáng", "zhào", "le"],
+      "char_meaning": ["evening", "sun", "shine", "past tense"],
+      "sentence_meaning": "The setting sun shone"
+    },
+    {
+      "chars": ["一", "遍", "他", "眯", "著", "眼"],
+      "pinyin": ["yí", "biàn", "tā", "mī", "zhe", "yǎn"],
+      "char_meaning": ["one", "time", "he", "squint", "present tense", "eye"],
+      "sentence_meaning": "Once, and he squinted his eyes"
+    },
+    {
+      "chars": ["那", "张", "同", "桌", "寄"],
+      "pinyin": ["nà", "zhāng", "tóng", "zhuō", "jì"],
+      "char_meaning": ["that", "measure word", "same", "table", "send"],
+      "sentence_meaning": "That postcard sent by my deskmate"
+    },
+    {
+      "chars": ["的", "明", "信", "片"],
+      "pinyin": ["de", "míng", "xìn", "piàn"],
+      "char_meaning": ["possessive", "bright", "trust", "slice"],
+      "sentence_meaning": "That postcard"
+    },
+    {
+      "chars": ["安", "静", "的", "躺", "在"],
+      "pinyin": ["ān", "jìng", "de", "tǎng", "zài"],
+      "char_meaning": ["safe", "quiet", "possessive", "lie", "at"],
+      "sentence_meaning": "Lies quietly in"
+    },
+    {
+      "chars": ["课", "桌", "里", "面"],
+      "pinyin": ["kè", "zhuō", "de", "lǐ", "miàn"],
+      "char_meaning": ["class", "table", "possessive", "inside", "face"],
+      "sentence_meaning": "The drawer of the desk"
+    },
+    {
+      "chars": ["快", "要", "过", "完", "的", "春", "天"],
+      "pinyin": ["kuài", "yào", "guò", "wán", "de", "chūn", "tiān"],
+      "char_meaning": ["fast", "want", "pass", "finish", "possessive", "spring", "sky"],
+      "sentence_meaning": "The spring that is about to end"
+    },
+    {
+      "chars": ["还", "有", "雕", "刻", "著"],
+      "pinyin": ["hái", "yǒu", "diāo", "kè", "zhe"],
+      "char_meaning": ["still", "have", "carve", "engrave", "present tense"],
+      "sentence_meaning": "And a door curtain carved with"
+    },
+    {
+      "chars": ["图", "案", "的", "门", "帘"],
+      "pinyin": ["tú", "àn", "de", "mén", "lián"],
+      "char_meaning": ["picture", "case", "possessive", "door", "curtain"],
+      "sentence_meaning": "Patterns"
+    },
+    {
+      "chars": ["窄", "窄", "的", "长", "长"],
+      "pinyin": ["zhǎi", "zhǎi", "de", "cháng", "cháng"],
+      "char_meaning": ["narrow", "narrow", "possessive", "long", "long"],
+      "sentence_meaning": "The narrow and long"
+    },
+    {
+      "chars": ["的", "过", "道", "两", "边"],
+      "pinyin": ["de", "guò", "dào", "liǎng", "biān"],
+      "char_meaning": ["possessive", "pass", "way", "two", "side"],
+      "sentence_meaning": "Hallway's two sides"
+    },
+    {
+      "chars": ["老", "房", "子", "依", "然"],
+      "pinyin": ["lǎo", "fáng", "zi", "yī", "rán"],
+      "char_meaning": ["old", "house", "child", "still", "so"],
+      "sentence_meaning": "The old houses still"
+    },
+    {
+      "chars": ["升", "起", "了", "炊", "烟"],
+      "pinyin": ["shēng", "qǐ", "le", "chuī", "yān"],
+      "char_meaning": ["rise", "up", "past tense", "cook", "smoke"],
+      "sentence_meaning": "Have cooking smoke rising"
+    },
+    {
+      "chars": ["刚", "刚", "下", "完", "了"],
+      "pinyin": ["gāng", "gāng", "xià", "wán", "le"],
+      "char_meaning": ["just", "just", "down", "finish", "past tense"],
+      "sentence_meaning": "Just after a small rain"
+    },
+    {
+      "chars": ["小", "雨", "的", "季", "节"],
+      "pinyin": ["xiáo", "yǔ", "de", "jì", "jié"],
+      "char_meaning": ["small", "rain", "possessive", "season", "festival"],
+      "sentence_meaning": "The season of light rain"
+    },
+    {
+      "chars": ["爸", "妈", "又", "一", "起", "走", "过"],
+      "pinyin": ["bà", "mā", "yòu", "yì", "qǐ", "zǒu", "guò"],
+      "char_meaning": ["dad", "mom", "again", "one", "rise", "walk", "pass"],
+      "sentence_meaning": "Dad and Mom walked together again"
+    },
+    {
+      "chars": ["的", "老", "街"],
+      "pinyin": ["de", "lǎo", "jiē"],
+      "char_meaning": ["possessive", "old", "street"],
+      "sentence_meaning": "On the old street"
+    },
+    {
+      "chars": ["记", "不", "得", "哪", "年", "的", "哪", "一", "天"],
+      "pinyin": ["jì", "bù", "dé", "nǎ", "nián", "de", "nǎ", "yì", "tiān"],
+      "char_meaning": ["remember", "not", "result", "which", "year", "possessive", "which", "one", "day"],
+      "sentence_meaning": "I can't remember which day of which year"
+    },
+    {
+      "chars": ["很", "漫", "长", "又", "很"],
+      "pinyin": ["hěn", "màn", "cháng", "yòu", "hěn"],
+      "char_meaning": ["very", "long", "long", "again", "very"],
+      "sentence_meaning": "Very long and very"
+    },
+    {
+      "chars": ["短", "暂", "的", "岁", "月"],
+      "pinyin": ["duǎn", "zàn", "de", "suì", "yuè"],
+      "char_meaning": ["short", "temporary", "possessive", "year", "moon"],
+      "sentence_meaning": "Short years"
+    },
+    {
+      "chars": ["现", "在", "已", "经", "回", "不", "去"],
+      "pinyin": ["xiàn", "zài", "yǐ", "jīng", "huí", "bú", "qù"],
+      "char_meaning": ["now", "at", "already", "already", "return", "not", "go"],
+      "sentence_meaning": "Now I can't go back"
+    },
+    {
+      "chars": ["早", "已", "流", "逝", "的", "光", "阴"],
+      "pinyin": ["zǎo", "yǐ", "liú", "shì", "de", "guāng", "yīn"],
+      "char_meaning": ["early", "already", "flow", "pass away", "possessive", "light", "shade"],
+      "sentence_meaning": "The time that has long since passed"
+    },
+    {
+      "chars": ["手", "里", "的", "那", "一", "张"],
+      "pinyin": ["shǒu", "lǐ", "de", "nà", "yì", "zhāng"],
+      "char_meaning": ["hand", "inside", "possessive", "that", "one", "measure word"],
+      "sentence_meaning": "That one ticket in my hand"
+    },
+    {
+      "chars": ["渐", "渐", "模", "糊", "不"],
+      "pinyin": ["jiàn", "jiàn", "mó", "hu", "bù"],
+      "char_meaning": ["gradually", "gradually", "blur", "blur", "not"],
+      "sentence_meaning": "Gradually becomes blurry and unclear"
+    },
+    {
+      "chars": ["清", "的", "车", "票"],
+      "pinyin": ["qīng", "de", "chē", "piào"],
+      "char_meaning": ["clear", "possessive", "car", "ticket"],
+      "sentence_meaning": "The ticket"
+    },
+    {
+      "chars": ["成", "了", "回", "忆", "的", "信", "号"],
+      "pinyin": ["chéng", "le", "huí", "yì", "de", "xìn", "hào"],
+      "char_meaning": ["become", "past tense", "return", "memory", "possessive", "trust", "number"],
+      "sentence_meaning": "Has become a signal of memory"
+    },
+    {
+      "chars": ["忘", "不", "掉", "的", "是", "什", "么"],
+      "pinyin": ["wàng", "bú", "diào", "de", "shì", "shén", "me"],
+      "char_meaning": ["forget", "not", "drop", "possessive", "is", "what", "question particle"],
+      "sentence_meaning": "What is it that I can't forget?"
+    },
+    {
+      "chars": ["我", "也", "不", "知", "道"],
+      "pinyin": ["wǒ", "yě", "bù", "zhī", "dào"],
+      "char_meaning": ["I", "also", "not", "know", "way"],
+      "sentence_meaning": "I don't know either"
+    },
+    {
+      "chars": ["想", "不", "起", "当", "年", "模", "样"],
+      "pinyin": ["xiǎng", "bù", "qǐ", "dāng", "nián", "mú", "yàng"],
+      "char_meaning": ["think", "not", "up", "at that time", "year", "model", "appearance"],
+      "sentence_meaning": "Can't remember what it was like back then"
+    },
+    {
+      "chars": ["看", "也", "看", "不", "到"],
+      "pinyin": ["kàn", "yě", "kàn", "bú", "dào"],
+      "char_meaning": ["see", "also", "see", "not", "arrive"],
+      "sentence_meaning": "Can't see it even if I look"
+    },
+    {
+      "chars": ["去", "也", "去", "不", "了", "的", "地", "方"],
+      "pinyin": ["qù", "yě", "qù", "bù", "liǎo", "de", "dì", "fang"],
+      "char_meaning": ["go", "also", "go", "not", "end", "possessive", "earth", "side"],
+      "sentence_meaning": "A place I can't go to"
+    },
+    {
+      "chars": ["也", "许", "那", "老", "街", "的", "腔", "调"],
+      "pinyin": ["yé", "xǔ", "nà", "lǎo", "jiē", "de", "qiāng", "diào"],
+      "char_meaning": ["maybe", "permit", "that", "old", "street", "possessive", "accent", "tone"],
+      "sentence_meaning": "Maybe the accent of that old street"
+    },
+    {
+      "chars": ["是", "属", "于", "我", "的", "忧", "伤"],
+      "pinyin": ["shì", "shǔ", "yú", "wǒ", "de", "yōu", "shāng"],
+      "char_meaning": ["is", "belong", "to", "me", "possessive", "worry", "hurt"],
+      "sentence_meaning": "Belongs to my sadness"
+    },
+    {
+      "chars": ["嘴", "角", "那", "点", "微", "笑"],
+      "pinyin": ["zuí", "jiǎo", "nà", "diǎn", "wēi", "xiào"],
+      "char_meaning": ["mouth", "corner", "that", "point", "tiny", "laugh"],
+      "sentence_meaning": "That small smile on the corner of my mouth"
+    },
+    {
+      "chars": ["越", "来", "越", "勉", "强"],
+      "pinyin": ["yuè", "lái", "yuè", "miǎn", "qiǎng"],
+      "char_meaning": ["more", "come", "more", "force", "strong"],
+      "sentence_meaning": "Is becoming more and more forced"
+    },
+    {
+      "chars": ["忘", "不", "掉", "的", "是", "什", "么"],
+      "pinyin": ["wàng", "bú", "diào", "de", "shén", "me"],
+      "char_meaning": ["forget", "not", "drop", "possessive", "is", "what", "question particle"],
+      "sentence_meaning": "What is it that I can't forget?"
+    },
+    {
+      "chars": ["我", "也", "不", "知", "道"],
+      "pinyin": ["wǒ", "yě", "bù", "zhī", "dào"],
+      "char_meaning": ["I", "also", "not", "know", "way"],
+      "sentence_meaning": "I don't know either"
+    },
+    {
+      "chars": ["放", "不", "下", "熟", "悉", "片", "段"],
+      "pinyin": ["fàng", "bú", "xià", "shú", "xī", "piàn", "duàn"],
+      "char_meaning": ["put", "not", "down", "familiar", "familiar", "slice", "segment"],
+      "sentence_meaning": "Can't let go of the familiar moments"
+    },
+    {
+      "chars": ["回", "头", "望", "一", "眼"],
+      "pinyin": ["huí", "tóu", "wàng", "yì", "yǎn"],
+      "char_meaning": ["return", "head", "gaze", "one", "eye"],
+      "sentence_meaning": "Looking back for a moment"
+    },
+    {
+      "chars": ["已", "经", "很", "多", "年"],
+      "pinyin": ["yǐ", "jīng", "hěn", "duō", "nián"],
+      "char_meaning": ["already", "already", "very", "many", "year"],
+      "sentence_meaning": "It's already been many years"
+    },
+    {
+      "chars": ["的", "时", "间"],
+      "pinyin": ["de", "shí", "jiān"],
+      "char_meaning": ["possessive", "time", "between"],
+      "sentence_meaning": "Of time"
+    },
+    {
+      "chars": ["透", "过", "手", "指", "间"],
+      "pinyin": ["tòu", "guò", "shóu", "zhǐ", "jiān"],
+      "char_meaning": ["penetrate", "pass", "hand", "finger", "between"],
+      "sentence_meaning": "Looking through my fingers"
+    },
+    {
+      "chars": ["看", "着", "天"],
+      "pinyin": ["kàn", "zhe", "tiān"],
+      "char_meaning": ["see", "present tense", "sky"],
+      "sentence_meaning": "At the sky"
+    },
+    {
+      "chars": ["我", "又", "回", "到", "那", "老", "街"],
+      "pinyin": ["wǒ", "yòu", "huí", "dào", "nà", "lǎo", "jiē"],
+      "char_meaning": ["I", "again", "return", "arrive", "that", "old", "street"],
+      "sentence_meaning": "I'm back on that old street"
+    },
+    {
+      "chars": ["靠", "在", "你", "们", "身", "边"],
+      "pinyin": ["kào", "zài", "nǐ", "men", "shēn", "biān"],
+      "char_meaning": ["lean", "at", "you", "plural", "body", "side"],
+      "sentence_meaning": "Leaning by your side"
+    },
+    {
+      "chars": ["渐", "行", "渐", "远"],
+      "pinyin": ["jiàn", "xíng", "jiàn", "yuǎn"],
+      "char_meaning": ["gradually", "walk", "gradually", "far"],
+      "sentence_meaning": "Gradually walking further and further away"
+    },
+    {
+      "chars": ["快", "要", "过", "完", "的", "春", "天"],
+      "pinyin": ["kuài", "yào", "guò", "wán", "de", "chūn", "tiān"],
+      "char_meaning": ["fast", "want", "pass", "finish", "possessive", "spring", "sky"],
+      "sentence_meaning": "The spring that is about to end"
+    },
+    {
+      "chars": ["还", "有", "雕", "刻", "著"],
+      "pinyin": ["hái", "yǒu", "diāo", "kè", "zhe"],
+      "char_meaning": ["still", "have", "carve", "engrave", "present tense"],
+      "sentence_meaning": "And a door curtain carved with"
+    },
+    {
+      "chars": ["图", "案", "的", "门", "帘"],
+      "pinyin": ["tú", "àn", "de", "mén", "lián"],
+      "char_meaning": ["picture", "case", "possessive", "door", "curtain"],
+      "sentence_meaning": "Patterns"
+    },
+    {
+      "chars": ["窄", "窄", "的", "长", "长"],
+      "pinyin": ["zhǎi", "zhǎi", "de", "cháng", "cháng"],
+      "char_meaning": ["narrow", "narrow", "possessive", "long", "long"],
+      "sentence_meaning": "The narrow and long"
+    },
+    {
+      "chars": ["的", "过", "道", "两", "边"],
+      "pinyin": ["de", "guò", "dào", "liǎng", "biān"],
+      "char_meaning": ["possessive", "pass", "way", "two", "side"],
+      "sentence_meaning": "Hallway's two sides"
+    },
+    {
+      "chars": ["老", "房", "子", "依", "然"],
+      "pinyin": ["lǎo", "fáng", "zi", "yī", "rán"],
+      "char_meaning": ["old", "house", "child", "still", "so"],
+      "sentence_meaning": "The old houses still"
+    },
+    {
+      "chars": ["升", "起", "了", "炊", "烟"],
+      "pinyin": ["shēng", "qǐ", "le", "chuī", "yān"],
+      "char_meaning": ["rise", "up", "past tense", "cook", "smoke"],
+      "sentence_meaning": "Have cooking smoke rising"
+    },
+    {
+      "chars": ["刚", "刚", "下", "完", "了"],
+      "pinyin": ["gāng", "gāng", "xià", "wán", "le"],
+      "char_meaning": ["just", "just", "down", "finish", "past tense"],
+      "sentence_meaning": "Just after a small rain"
+    },
+    {
+      "chars": ["小", "雨", "的", "季", "节"],
+      "pinyin": ["xiáo", "yǔ", "de", "jì", "jié"],
+      "char_meaning": ["small", "rain", "possessive", "season", "festival"],
+      "sentence_meaning": "The season of light rain"
+    },
+    {
+      "chars": ["爸", "妈", "又", "一", "起", "走", "过"],
+      "pinyin": ["bà", "mā", "yòu", "yì", "qǐ", "zǒu", "guò"],
+      "char_meaning": ["dad", "mom", "again", "one", "rise", "walk", "pass"],
+      "sentence_meaning": "Dad and Mom walked together again"
+    },
+    {
+      "chars": ["的", "老", "街"],
+      "pinyin": ["de", "lǎo", "jiē"],
+      "char_meaning": ["possessive", "old", "street"],
+      "sentence_meaning": "On the old street"
+    },
+    {
+      "chars": ["记", "不", "得", "哪", "年", "的", "哪", "一", "天"],
+      "pinyin": ["jì", "bù", "dé", "nǎ", "nián", "de", "nǎ", "yì", "tiān"],
+      "char_meaning": ["remember", "not", "result", "which", "year", "possessive", "which", "one", "day"],
+      "sentence_meaning": "I can't remember which day of which year"
+    },
+    {
+      "chars": ["很", "漫", "长", "又", "很"],
+      "pinyin": ["hěn", "màn", "cháng", "yòu", "hěn"],
+      "char_meaning": ["very", "long", "long", "again", "very"],
+      "sentence_meaning": "Very long and very"
+    },
+    {
+      "chars": ["短", "暂", "的", "岁", "月"],
+      "pinyin": ["duǎn", "zàn", "de", "suì", "yuè"],
+      "char_meaning": ["short", "temporary", "possessive", "year", "moon"],
+      "sentence_meaning": "Short years"
+    },
+    {
+      "chars": ["现", "在", "已", "经", "回", "不", "去"],
+      "pinyin": ["xiàn", "zài", "yǐ", "jīng", "huí", "bú", "qù"],
+      "char_meaning": ["now", "at", "already", "already", "return", "not", "go"],
+      "sentence_meaning": "Now I can't go back"
+    },
+    {
+      "chars": ["早", "已", "流", "逝", "的", "光", "阴"],
+      "pinyin": ["zǎo", "yǐ", "liú", "shì", "de", "guāng", "yīn"],
+      "char_meaning": ["early", "already", "flow", "pass away", "possessive", "light", "shade"],
+      "sentence_meaning": "The time that has long since passed"
+    },
+    {
+      "chars": ["手", "里", "的", "那", "一", "张"],
+      "pinyin": ["shǒu", "lǐ", "de", "nà", "yì", "zhāng"],
+      "char_meaning": ["hand", "inside", "possessive", "that", "one", "measure word"],
+      "sentence_meaning": "That one ticket in my hand"
+    },
+    {
+      "chars": ["渐", "渐", "模", "糊", "不"],
+      "pinyin": ["jiàn", "jiàn", "mó", "hu", "bù"],
+      "char_meaning": ["gradually", "gradually", "blur", "blur", "not"],
+      "sentence_meaning": "Gradually becomes blurry and unclear"
+    },
+    {
+      "chars": ["清", "的", "车", "票"],
+      "pinyin": ["qīng", "de", "chē", "piào"],
+      "char_meaning": ["clear", "possessive", "car", "ticket"],
+      "sentence_meaning": "The ticket"
+    },
+    {
+      "chars": ["成", "了", "回", "忆", "的", "信", "号"],
+      "pinyin": ["chéng", "le", "huí", "yì", "de", "xìn", "hào"],
+      "char_meaning": ["become", "past tense", "return", "memory", "possessive", "trust", "number"],
+      "sentence_meaning": "Has become a signal of memory"
+    },
+    {
+      "chars": ["忘", "不", "掉", "的", "是", "什", "么"],
+      "pinyin": ["wàng", "bú", "diào", "de", "shén", "me"],
+      "char_meaning": ["forget", "not", "drop", "possessive", "is", "what", "question particle"],
+      "sentence_meaning": "What is it that I can't forget?"
+    },
+    {
+      "chars": ["我", "也", "不", "知", "道"],
+      "pinyin": ["wǒ", "yě", "bù", "zhī", "dào"],
+      "char_meaning": ["I", "also", "not", "know", "way"],
+      "sentence_meaning": "I don't know either"
+    },
+    {
+      "chars": ["想", "不", "起", "当", "年", "模", "样"],
+      "pinyin": ["xiǎng", "bù", "qǐ", "dāng", "nián", "mú", "yàng"],
+      "char_meaning": ["think", "not", "up", "at that time", "year", "model", "appearance"],
+      "sentence_meaning": "Can't remember what it was like back then"
+    },
+    {
+      "chars": ["看", "也", "看", "不", "到"],
+      "pinyin": ["kàn", "yě", "kàn", "bú", "dào"],
+      "char_meaning": ["see", "also", "see", "not", "arrive"],
+      "sentence_meaning": "Can't see it even if I look"
+    },
+    {
+      "chars": ["去", "也", "去", "不", "了", "的", "地", "方"],
+      "pinyin": ["qù", "yě", "qù", "bù", "liǎo", "de", "dì", "fang"],
+      "char_meaning": ["go", "also", "go", "not", "end", "possessive", "earth", "side"],
+      "sentence_meaning": "A place I can't go to"
+    },
+    {
+      "chars": ["也", "许", "那", "老", "街", "的", "腔", "调"],
+      "pinyin": ["yé", "xǔ", "nà", "lǎo", "jiē", "de", "qiāng", "diào"],
+      "char_meaning": ["maybe", "permit", "that", "old", "street", "possessive", "accent", "tone"],
+      "sentence_meaning": "Maybe the accent of that old street"
+    },
+    {
+      "chars": ["是", "属", "于", "我", "的", "忧", "伤"],
+      "pinyin": ["shì", "shǔ", "yú", "wǒ", "de", "yōu", "shāng"],
+      "char_meaning": ["is", "belong", "to", "me", "possessive", "worry", "hurt"],
+      "sentence_meaning": "Belongs to my sadness"
+    },
+    {
+      "chars": ["嘴", "角", "那", "点", "微", "笑"],
+      "pinyin": ["zuí", "jiǎo", "nà", "diǎn", "wēi", "xiào"],
+      "char_meaning": ["mouth", "corner", "that", "point", "tiny", "laugh"],
+      "sentence_meaning": "That small smile on the corner of my mouth"
+    },
+    {
+      "chars": ["越", "来", "越", "勉", "强"],
+      "pinyin": ["yuè", "lái", "yuè", "miǎn", "qiǎng"],
+      "char_meaning": ["more", "come", "more", "force", "strong"],
+      "sentence_meaning": "Is becoming more and more forced"
+    },
+    {
+      "chars": ["忘", "不", "掉", "的", "是", "什", "么"],
+      "pinyin": ["wàng", "bú", "diào", "de", "shén", "me"],
+      "char_meaning": ["forget", "not", "drop", "possessive", "is", "what", "question particle"],
+      "sentence_meaning": "What is it that I can't forget?"
+    },
+    {
+      "chars": ["我", "也", "不", "知", "道"],
+      "pinyin": ["wǒ", "yě", "bù", "zhī", "dào"],
+      "char_meaning": ["I", "also", "not", "know", "way"],
+      "sentence_meaning": "I don't know either"
+    },
+    {
+      "chars": ["放", "不", "下", "熟", "悉", "片", "段"],
+      "pinyin": ["fàng", "bú", "xià", "shú", "xī", "piàn", "duàn"],
+      "char_meaning": ["put", "not", "down", "familiar", "familiar", "slice", "segment"],
+      "sentence_meaning": "Can't let go of the familiar moments"
+    },
+    {
+      "chars": ["回", "头", "望", "一", "眼"],
+      "pinyin": ["huí", "tóu", "wàng", "yì", "yǎn"],
+      "char_meaning": ["return", "head", "gaze", "one", "eye"],
+      "sentence_meaning": "Looking back for a moment"
+    },
+    {
+      "chars": ["已", "经", "很", "多", "年"],
+      "pinyin": ["yǐ", "jīng", "hěn", "duō", "nián"],
+      "char_meaning": ["already", "already", "very", "many", "year"],
+      "sentence_meaning": "It's already been many years"
+    },
+    {
+      "chars": ["的", "时", "间"],
+      "pinyin": ["de", "shí", "jiān"],
+      "char_meaning": ["possessive", "time", "between"],
+      "sentence_meaning": "Of time"
+    },
+    {
+      "chars": ["透", "过", "手", "指", "间"],
+      "pinyin": ["tòu", "guò", "shóu", "zhǐ", "jiān"],
+      "char_meaning": ["penetrate", "pass", "hand", "finger", "between"],
+      "sentence_meaning": "Looking through my fingers"
+    },
+    {
+      "chars": ["看", "着", "天"],
+      "pinyin": ["kàn", "zhe", "tiān"],
+      "char_meaning": ["see", "present tense", "sky"],
+      "sentence_meaning": "At the sky"
+    },
+    {
+      "chars": ["我", "又", "回", "到", "那", "老", "街"],
+      "pinyin": ["wǒ", "yòu", "huí", "dào", "nà", "lǎo", "jiē"],
+      "char_meaning": ["I", "again", "return", "arrive", "that", "old", "street"],
+      "sentence_meaning": "I'm back on that old street"
+    },
+    {
+      "chars": ["靠", "在", "你", "们", "身", "边"],
+      "pinyin": ["kào", "zài", "nǐ", "men", "shēn", "biān"],
+      "char_meaning": ["lean", "at", "you", "plural", "body", "side"],
+      "sentence_meaning": "Leaning by your side"
+    },
+    {
+      "chars": ["渐", "行", "渐", "远"],
+      "pinyin": ["jiàn", "xíng", "jiàn", "yuǎn"],
+      "char_meaning": ["gradually", "walk", "gradually", "far"],
+      "sentence_meaning": "Gradually walking further and further away"
+    }
+  ]

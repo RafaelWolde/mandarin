@@ -1,0 +1,122 @@
+[
+    {
+      "chars": ["藏", "進", "心", "口", "的", "刺", "不", "枉", "尋", "也", "如", "此"],
+      "pinyin": ["cáng", "jìn", "xīn", "kǒu", "de", "cì", "bù", "wǎng", "xún", "yě", "rú", "cǐ"],
+      "char_meaning": ["hide", "enter", "heart", "mouth", "possessive", "thorn", "not", "in vain", "search", "also", "like", "this"],
+      "sentence_meaning": "The thorn hidden deep in my heart, it's not in vain to seek it, even so"
+    },
+    {
+      "chars": ["沉", "默", "有", "時", "最", "後", "因", "你", "放", "肆"],
+      "pinyin": ["chén", "mò", "yǒu", "shí", "zuì", "hòu", "yīn", "nǐ", "fàng", "sì"],
+      "char_meaning": ["sink", "silent", "have", "time", "most", "after", "because", "you", "let go", "unrestrained"],
+      "sentence_meaning": "Sometimes silent, ultimately reckless because of you"
+    },
+    {
+      "chars": ["濃", "墨", "難", "沾", "心", "事", "寒", "夜", "怎", "寄", "相", "思"],
+      "pinyin": ["nóng", "mò", "nán", "zhān", "xīn", "shì", "hán", "yè", "zěn", "jì", "xiāng", "sī"],
+      "char_meaning": ["thick", "ink", "difficult", "stain", "heart", "matter", "cold", "night", "how", "send", "mutually", "think"],
+      "sentence_meaning": "Thick ink is hard to write down feelings; how can one send thoughts of love on a cold night?"
+    },
+    {
+      "chars": ["沉", "默", "有", "時", "念", "想", "有", "時"],
+      "pinyin": ["chén", "mò", "yǒu", "shí", "niàn", "xiǎng", "yǒu", "shí"],
+      "char_meaning": ["sink", "silent", "have", "time", "think", "think", "have", "time"],
+      "sentence_meaning": "Sometimes silent, sometimes full of longing"
+    },
+    {
+      "chars": ["誰", "訣", "別", "相", "思", "成", "疾", "莫", "問", "天", "涯", "也", "莫", "問", "歸", "期"],
+      "pinyin": ["shuí", "jué", "bié", "xiāng", "sī", "chéng", "jí", "mò", "wèn", "tiān", "yá", "yě", "mò", "wèn", "guī", "qī"],
+      "char_meaning": ["who", "bid farewell", "separate", "mutually", "think", "become", "sickness", "don't", "ask", "heaven", "edge", "also", "don't", "ask", "return", "date"],
+      "sentence_meaning": "Who bids farewell, tormented by lovesickness? Don't ask about the ends of the earth, and don't ask about the return date"
+    },
+    {
+      "chars": ["怎", "奈", "何", "無", "人", "了", "解", "情", "斷", "之", "時", "冷", "暖", "自", "知"],
+      "pinyin": ["zěn", "nài", "hé", "wú", "rén", "liǎo", "jiě", "qíng", "duàn", "zhī", "shí", "lěng", "nuǎn", "zì", "zhī"],
+      "char_meaning": ["how", "endure", "why", "without", "person", "finish", "untie", "emotion", "break", "possessive", "time", "cold", "warm", "self", "know"],
+      "sentence_meaning": "But alas, no one understands; when love breaks, the cold and warmth are known only to oneself"
+    },
+    {
+      "chars": ["誰", "訣", "別", "相", "思", "成", "疾", "莫", "問", "天", "涯", "也", "莫", "問", "歸", "期"],
+      "pinyin": ["shuí", "jué", "bié", "xiāng", "sī", "chéng", "jí", "mò", "wèn", "tiān", "yá", "yě", "mò", "wèn", "guī", "qī"],
+      "char_meaning": ["who", "bid farewell", "separate", "mutually", "think", "become", "sickness", "don't", "ask", "heaven", "edge", "also", "don't", "ask", "return", "date"],
+      "sentence_meaning": "Who bids farewell, tormented by lovesickness? Don't ask about the ends of the earth, and don't ask about the return date"
+    },
+    {
+      "chars": ["怎", "奈", "何", "無", "人", "了", "解", "我", "心", "思"],
+      "pinyin": ["zěn", "nài", "hé", "wú", "rén", "liǎo", "jiě", "wǒ", "xīn", "sī"],
+      "char_meaning": ["how", "endure", "why", "without", "person", "finish", "untie", "I", "heart", "thought"],
+      "sentence_meaning": "But alas, no one understands my feelings"
+    },
+    {
+      "chars": ["藏", "進", "心", "口", "的", "刺", "不", "枉", "尋", "也", "如", "此"],
+      "pinyin": ["cáng", "jìn", "xīn", "kǒu", "de", "cì", "bù", "wǎng", "xún", "yě", "rú", "cǐ"],
+      "char_meaning": ["hide", "enter", "heart", "mouth", "possessive", "thorn", "not", "in vain", "search", "also", "like", "this"],
+      "sentence_meaning": "The thorn hidden deep in my heart, it's not in vain to seek it, even so"
+    },
+    {
+      "chars": ["沉", "默", "有", "時", "最", "後", "因", "你", "放", "肆"],
+      "pinyin": ["chén", "mò", "yǒu", "shí", "zuì", "hòu", "yīn", "nǐ", "fàng", "sì"],
+      "char_meaning": ["sink", "silent", "have", "time", "most", "after", "because", "you", "let go", "unrestrained"],
+      "sentence_meaning": "Sometimes silent, ultimately reckless because of you"
+    },
+    {
+      "chars": ["濃", "墨", "難", "沾", "心", "事", "寒", "夜", "怎", "寄", "相", "思"],
+      "pinyin": ["nóng", "mò", "nán", "zhān", "xīn", "shì", "hán", "yè", "zěn", "jì", "xiāng", "sī"],
+      "char_meaning": ["thick", "ink", "difficult", "stain", "heart", "matter", "cold", "night", "how", "send", "mutually", "think"],
+      "sentence_meaning": "Thick ink is hard to write down feelings; how can one send thoughts of love on a cold night?"
+    },
+    {
+      "chars": ["沉", "默", "有", "時", "念", "想", "有", "時"],
+      "pinyin": ["chén", "mò", "yǒu", "shí", "niàn", "xiǎng", "yǒu", "shí"],
+      "char_meaning": ["sink", "silent", "have", "time", "think", "think", "have", "time"],
+      "sentence_meaning": "Sometimes silent, sometimes full of longing"
+    },
+    {
+      "chars": ["誰", "訣", "別", "相", "思", "成", "疾", "莫", "問", "天", "涯", "也", "莫", "問", "歸", "期"],
+      "pinyin": ["shuí", "jué", "bié", "xiāng", "sī", "chéng", "jí", "mò", "wèn", "tiān", "yá", "yě", "mò", "wèn", "guī", "qī"],
+      "char_meaning": ["who", "bid farewell", "separate", "mutually", "think", "become", "sickness", "don't", "ask", "heaven", "edge", "also", "don't", "ask", "return", "date"],
+      "sentence_meaning": "Who bids farewell, tormented by lovesickness? Don't ask about the ends of the earth, and don't ask about the return date"
+    },
+    {
+      "chars": ["怎", "奈", "何", "無", "人", "了", "解", "情", "斷", "之", "時", "冷", "暖", "自", "知"],
+      "pinyin": ["zěn", "nài", "hé", "wú", "rén", "liǎo", "jiě", "qíng", "duàn", "zhī", "shí", "lěng", "nuǎn", "zì", "zhī"],
+      "char_meaning": ["how", "endure", "why", "without", "person", "finish", "untie", "emotion", "break", "possessive", "time", "cold", "warm", "self", "know"],
+      "sentence_meaning": "But alas, no one understands; when love breaks, the cold and warmth are known only to oneself"
+    },
+    {
+      "chars": ["誰", "訣", "別", "相", "思", "成", "疾", "莫", "問", "天", "涯", "也", "莫", "問", "歸", "期"],
+      "pinyin": ["shuí", "jué", "bié", "xiāng", "sī", "chéng", "jí", "mò", "wèn", "tiān", "yá", "yě", "mò", "wèn", "guī", "qī"],
+      "char_meaning": ["who", "bid farewell", "separate", "mutually", "think", "become", "sickness", "don't", "ask", "heaven", "edge", "also", "don't", "ask", "return", "date"],
+      "sentence_meaning": "Who bids farewell, tormented by lovesickness? Don't ask about the ends of the earth, and don't ask about the return date"
+    },
+    {
+      "chars": ["怎", "奈", "何", "無", "人", "了", "解", "我", "心", "思"],
+      "pinyin": ["zěn", "nài", "hé", "wú", "rén", "liǎo", "jiě", "wǒ", "xīn", "sī"],
+      "char_meaning": ["how", "endure", "why", "without", "person", "finish", "untie", "I", "heart", "thought"],
+      "sentence_meaning": "But alas, no one understands my feelings"
+    },
+    {
+      "chars": ["誰", "訣", "別", "相", "思", "成", "疾", "莫", "問", "天", "涯", "也", "莫", "問", "歸", "期"],
+      "pinyin": ["shuí", "jué", "bié", "xiāng", "sī", "chéng", "jí", "mò", "wèn", "tiān", "yá", "yě", "mò", "wèn", "guī", "qī"],
+      "char_meaning": ["who", "bid farewell", "separate", "mutually", "think", "become", "sickness", "don't", "ask", "heaven", "edge", "also", "don't", "ask", "return", "date"],
+      "sentence_meaning": "Who bids farewell, tormented by lovesickness? Don't ask about the ends of the earth, and don't ask about the return date"
+    },
+    {
+      "chars": ["怎", "奈", "何", "無", "人", "了", "解", "情", "斷", "之", "時", "冷", "暖", "自", "知"],
+      "pinyin": ["zěn", "nài", "hé", "wú", "rén", "liǎo", "jiě", "qíng", "duàn", "zhī", "shí", "lěng", "nuǎn", "zì", "zhī"],
+      "char_meaning": ["how", "endure", "why", "without", "person", "finish", "untie", "emotion", "break", "possessive", "time", "cold", "warm", "self", "know"],
+      "sentence_meaning": "But alas, no one understands; when love breaks, the cold and warmth are known only to oneself"
+    },
+    {
+      "chars": ["誰", "訣", "別", "相", "思", "成", "疾", "莫", "問", "天", "涯", "也", "莫", "問", "歸", "期"],
+      "pinyin": ["shuí", "jué", "bié", "xiāng", "sī", "chéng", "jí", "mò", "wèn", "tiān", "yá", "yě", "mò", "wèn", "guī", "qī"],
+      "char_meaning": ["who", "bid farewell", "separate", "mutually", "think", "become", "sickness", "don't", "ask", "heaven", "edge", "also", "don't", "ask", "return", "date"],
+      "sentence_meaning": "Who bids farewell, tormented by lovesickness? Don't ask about the ends of the earth, and don't ask about the return date"
+    },
+    {
+      "chars": ["怎", "奈", "何", "無", "人", "了", "解", "我", "心", "思"],
+      "pinyin": ["zěn", "nài", "hé", "wú", "rén", "liǎo", "jiě", "wǒ", "xīn", "sī"],
+      "char_meaning": ["how", "endure", "why", "without", "person", "finish", "untie", "I", "heart", "thought"],
+      "sentence_meaning": "But alas, no one understands my feelings"
+    }
+  ]

@@ -1,0 +1,146 @@
+[
+    {
+      "chars": ["在", "你", "身", "邊", "路", "雖", "遠", "未", "疲", "倦", "，"],
+      "pinyin": ["joi", "nǐ", "shēn", "biān", "lù", "suī", "yuǎn", "mèi", "pí", "guin", ","],
+      "char_meaning": ["at", "you", "body", "side", "road", "although", "far", "not yet", "tired", "tired", ","],
+      "sentence_meaning": "By your side, although the road is long, I am not tired,"
+    },
+    {
+      "chars": ["伴", "你", "漫", "行", "一", "段", "接", "一", "段"],
+      "pinyin": ["boon", "nǐ", "màn", "híng", "yat", "duàn", "jip", "yet", "duàn"],
+      "char_meaning": ["accompany", "you", "leisurely", "walk", "one", "section", "connect", "one", "section"],
+      "sentence_meaning": "Accompanying you on a leisurely walk, one section after another"
+    },
+    {
+      "chars": ["越", "過", "高", "峰", "另", "一", "峰", "卻", "又", "見", "，"],
+      "pinyin": ["yuè", "guò", "gāo", "fēng", "lìng", "yat", "fēng", "què", "yòu", "gien", ","],
+      "char_meaning": ["cross", "pass", "high", "peak", "another", "one", "peak", "but", "again", "see", ","],
+      "sentence_meaning": "Crossing one peak, only to see another,"
+    },
+    {
+      "chars": ["目", "標", "推", "遠", "讓", "理", "想", "永", "遠", "在", "前", "面", "。"],
+      "pinyin": ["mùk", "biāo", "tuī", "yuǎn", "ràng", "lǐ", "siǎng", "wǒng", "yuǎn", "joi", "qián", "miàn", "."],
+      "char_meaning": ["eye", "standard", "push", "far", "let", "reason", "think", "forever", "far", "at", "front", "face", "."],
+      "sentence_meaning": "Pushing the goal further, so the ideal is always ahead."
+    },
+    {
+      "chars": ["路", "縱", "崎", "嶇", "亦", "不", "怕", "受", "磨", "練", "，"],
+      "pinyin": ["lù", "jòng", "qí", "qū", "yìk", "bùt", "pà", "shòu", "mór", "liàn", ","],
+      "char_meaning": ["road", "even if", "steep", "rugged", "also", "not", "afraid", "receive", "grind", "practice", ","],
+      "sentence_meaning": "Even if the road is rugged, I am not afraid of being tested,"
+    },
+    {
+      "chars": ["願", "一", "生", "中", "苦", "痛", "快", "樂", "也", "体", "驗", "，"],
+      "pinyin": ["yuàn", "yet", "shēng", "jōng", "fǔ", "tòng", "faai", "lok", "yě", "taǐ", "yim", ","],
+      "char_meaning": ["wish", "one", "life", "middle", "bitter", "pain", "fast", "happy", "also", "body", "test", ","],
+      "sentence_meaning": "I wish to experience both pain and happiness in my life,"
+    },
+    {
+      "chars": ["愉", "快", "悲", "哀", "在", "身", "邊", "轉", "又", "轉", "，"],
+      "pinyin": ["yú", "faai", "bēi", "oi", "joi", "shēn", "biān", "zhuǎn", "yòu", "zhuǎn", ","],
+      "char_meaning": ["happy", "fast", "sad", "sorrow", "at", "body", "side", "turn", "again", "turn", ","],
+      "sentence_meaning": "Happiness and sorrow turn by my side again and again,"
+    },
+    {
+      "chars": ["風", "中", "賞", "雪", "霧", "里", "賞", "花", "快", "樂", "回", "旋", "。"],
+      "pinyin": ["fēng", "zhōng", "shǎng", "xuě", "mou", "lǐ", "shǎng", "fa", "faai", "lok", "wuí", "xuán", "."],
+      "char_meaning": ["wind", "middle", "enjoy", "snow", "fog", "inside", "enjoy", "flower", "fast", "happy", "return", "circle", "."],
+      "sentence_meaning": "Enjoying the snow in the wind, enjoying flowers in the fog, joyfully spinning around."
+    },
+    {
+      "chars": ["毋", "用", "計", "較", "快", "欣", "賞", "身", "邊", "美", "麗", "每", "一", "天", "，"],
+      "pinyin": ["mo", "yòng", "gì", "giào", "faai", "yan", "shǎng", "shēn", "biān", "měi", "lì", "měi", "yī", "tiān", ","],
+      "char_meaning": ["do not", "use", "calculate", "compare", "fast", "happy", "enjoy", "body", "side", "beautiful", "beautiful", "every", "one", "day", ","],
+      "sentence_meaning": "No need to calculate, just quickly appreciate the beauty around you every day,"
+    },
+    {
+      "chars": ["還", "願", "確", "信", "美", "景", "良", "辰", "在", "腳", "邊", "，"],
+      "pinyin": ["hái", "yuàn", "què", "xìn", "měi", "gǐng", "liáng", "chén", "zài", "jiǎo", "biān", ","],
+      "char_meaning": ["still", "wish", "sure", "believe", "beautiful", "scenery", "good", "time", "at", "foot", "side", ","],
+      "sentence_meaning": "And be willing to believe that beautiful scenery and good times are by your feet,"
+    },
+    {
+      "chars": ["願", "將", "歡", "笑", "聲", "蓋", "掩", "苦", "痛", "那", "一", "面", "，"],
+      "pinyin": ["yuàn", "jiāng", "huān", "xiào", "shēng", "gài", "yǎn", "kǔ", "tòng", "nà", "yī", "miàn", ","],
+      "char_meaning": ["wish", "will", "joyful", "laugh", "sound", "cover", "hide", "bitter", "pain", "that", "one", "side", ","],
+      "sentence_meaning": "I wish to cover the painful side with the sound of laughter,"
+    },
+    {
+      "chars": ["悲", "也", "好", "，", "喜", "也", "好", "，", "每", "天", "找", "到", "新", "發", "現", "，"],
+      "pinyin": ["bēi", "yě", "hǎo", ",", "xǐ", "yě", "hǎo", ",", "měi", "tiān", "zhǎo", "dào", "yan", "fā", "xiàn", ","],
+      "char_meaning": ["sad", "also", "good", ",", "happy", "also", "good", ",", "every", "day", "find", "arrive", "new", "send out", "see", ","],
+      "sentence_meaning": "Whether sad or happy, find a new discovery every day,"
+    },
+    {
+      "chars": ["讓", "疾", "風", "吹", "呀", "吹", "，", "尽", "管", "給", "我", "倆", "考", "驗", "，"],
+      "pinyin": ["ràng", "jí", "fēng", "chuī", "yā", "chuī", ",", "jǐn", "guǎn", "gěi", "wǒ", "liǎng", "kǎo", "yàn", ","],
+      "char_meaning": ["let", "rapid", "wind", "blow", "particle", "blow", ",", "despite", "manage", "give", "me", "two", "test", "verify", ","],
+      "sentence_meaning": "Let the strong winds blow, even if they test the two of us,"
+    },
+    {
+      "chars": ["小", "雨", "點", "，", "放", "心", "灑", "，", "早", "已", "決", "心", "向", "著", "前", "。"],
+      "pinyin": ["xiǎo", "yǔ", "diǎn", ",", "fàng", "yan", "sǎ", ",", "zǎo", "yǐ", "jué", "yan", "xiàng", "zhe", "qián", "."],
+      "char_meaning": ["small", "rain", "point", ",", "let go", "heart", "sprinkle", ",", "early", "already", "decide", "heart", "toward", "ing", "front", "."],
+      "sentence_meaning": "Little raindrops, sprinkle away, our hearts are long decided to move forward."
+    },
+    {
+      "chars": ["路", "縱", "崎", "嶇", "亦", "不", "怕", "受", "磨", "練", "，"],
+      "pinyin": ["lù", "jòng", "qí", "qū", "yìk", "bùt", "pà", "shòu", "mór", "liàn", ","],
+      "char_meaning": ["road", "even if", "steep", "rugged", "also", "not", "afraid", "receive", "grind", "practice", ","],
+      "sentence_meaning": "Even if the road is rugged, I am not afraid of being tested,"
+    },
+    {
+      "chars": ["願", "一", "生", "中", "苦", "痛", "快", "樂", "也", "体", "驗", "，"],
+      "pinyin": ["yuàn", "yet", "shēng", "jōng", "fǔ", "tòng", "faai", "lok", "yě", "taǐ", "yim", ","],
+      "char_meaning": ["wish", "one", "life", "middle", "bitter", "pain", "fast", "happy", "also", "body", "test", ","],
+      "sentence_meaning": "I wish to experience both pain and happiness in my life,"
+    },
+    {
+      "chars": ["愉", "快", "悲", "哀", "在", "身", "邊", "轉", "又", "轉", "，"],
+      "pinyin": ["yú", "faai", "bēi", "oi", "joi", "shēn", "biān", "zhuǎn", "yòu", "zhuǎn", ","],
+      "char_meaning": ["happy", "fast", "sad", "sorrow", "at", "body", "side", "turn", "again", "turn", ","],
+      "sentence_meaning": "Happiness and sorrow turn by my side again and again,"
+    },
+    {
+      "chars": ["風", "中", "賞", "雪", "霧", "里", "賞", "花", "快", "樂", "回", "旋", "。"],
+      "pinyin": ["fēng", "zhōng", "shǎng", "xuě", "mou", "lǐ", "shǎng", "fa", "faai", "lok", "wuí", "xuán", "."],
+      "char_meaning": ["wind", "middle", "enjoy", "snow", "fog", "inside", "enjoy", "flower", "fast", "happy", "return", "circle", "."],
+      "sentence_meaning": "Enjoying the snow in the wind, enjoying flowers in the fog, joyfully spinning around."
+    },
+    {
+      "chars": ["毋", "用", "計", "較", "快", "欣", "賞", "身", "邊", "美", "麗", "每", "一", "天", "，"],
+      "pinyin": ["mo", "yòng", "gì", "giào", "faai", "yan", "shǎng", "shēn", "biān", "měi", "lì", "měi", "yī", "tiān", ","],
+      "char_meaning": ["do not", "use", "calculate", "compare", "fast", "happy", "enjoy", "body", "side", "beautiful", "beautiful", "every", "one", "day", ","],
+      "sentence_meaning": "No need to calculate, just quickly appreciate the beauty around you every day,"
+    },
+    {
+      "chars": ["還", "願", "確", "信", "美", "景", "良", "辰", "在", "腳", "邊", "，"],
+      "pinyin": ["hái", "yuàn", "què", "xìn", "měi", "gǐng", "liáng", "chén", "zài", "jiǎo", "biān", ","],
+      "char_meaning": ["still", "wish", "sure", "believe", "beautiful", "scenery", "good", "time", "at", "foot", "side", ","],
+      "sentence_meaning": "And be willing to believe that beautiful scenery and good times are by your feet,"
+    },
+    {
+      "chars": ["願", "將", "歡", "笑", "聲", "蓋", "掩", "苦", "痛", "那", "一", "面", "，"],
+      "pinyin": ["yuàn", "jiāng", "huān", "xiào", "shēng", "gài", "yǎn", "kǔ", "tòng", "nà", "yī", "miàn", ","],
+      "char_meaning": ["wish", "will", "joyful", "laugh", "sound", "cover", "hide", "bitter", "pain", "that", "one", "side", ","],
+      "sentence_meaning": "I wish to cover the painful side with the sound of laughter,"
+    },
+    {
+      "chars": ["悲", "也", "好", "，", "喜", "也", "好", "，", "每", "天", "找", "到", "新", "發", "現", "，"],
+      "pinyin": ["bēi", "yě", "hǎo", ",", "xǐ", "yě", "hǎo", ",", "měi", "tiān", "zhǎo", "dào", "yan", "fā", "xiàn", ","],
+      "char_meaning": ["sad", "also", "good", ",", "happy", "also", "good", ",", "every", "day", "find", "arrive", "new", "send out", "see", ","],
+      "sentence_meaning": "Whether sad or happy, find a new discovery every day,"
+    },
+    {
+      "chars": ["讓", "疾", "風", "吹", "呀", "吹", "，", "尽", "管", "給", "我", "倆", "考", "驗", "，"],
+      "pinyin": ["ràng", "jí", "fēng", "chuī", "yā", "chuī", ",", "jǐn", "guǎn", "gěi", "wǒ", "liǎng", "kǎo", "yàn", ","],
+      "char_meaning": ["let", "rapid", "wind", "blow", "particle", "blow", ",", "despite", "manage", "give", "me", "two", "test", "verify", ","],
+      "sentence_meaning": "Let the strong winds blow, even if they test the two of us,"
+    },
+    {
+      "chars": ["小", "雨", "點", "，", "放", "心", "灑", "，", "早", "已", "決", "心", "向", "著", "前", "。"],
+      "pinyin": ["xiǎo", "yǔ", "diǎn", ",", "fàng", "yan", "sǎ", ",", "zǎo", "yǐ", "jué", "yan", "xiàng", "zhe", "qián", "."],
+      "char_meaning": ["small", "rain", "point", ",", "let go", "heart", "sprinkle", ",", "early", "already", "decide", "heart", "toward", "ing", "front", "."],
+      "sentence_meaning": "Little raindrops, sprinkle away, our hearts are long decided to move forward."
+    }
+  ]

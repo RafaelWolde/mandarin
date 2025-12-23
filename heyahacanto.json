@@ -1,0 +1,86 @@
+[
+    {
+      "chars": ["喺", "你", "身", "邊", "路", "雖", "遠", "未", "疲", "倦", "，"],
+      "pinyin": ["hai2", "nei5", "san1", "bin1", "lou6", "seoi1", "jyun5", "mei6", "pei4", "gyun6", ","],
+      "char_meaning": ["at", "you", "body", "side", "road", "although", "far", "not yet", "tired", "tired", ","],
+      "sentence_meaning": "By your side, although the road is long, I am not tired,"
+    },
+    {
+      "chars": ["伴", "你", "漫", "行", "一", "段", "接", "一", "段"],
+      "pinyin": ["bun6", "nei5", "maan6", "haang4", "jat1", "dyun6", "zip3", "jat1", "dyun6"],
+      "char_meaning": ["accompany", "you", "leisurely", "walk", "one", "section", "connect", "one", "section"],
+      "sentence_meaning": "Accompanying you on a leisurely walk, one section after another"
+    },
+    {
+      "chars": ["越", "過", "高", "峰", "另", "一", "峰", "卻", "又", "見", "，"],
+      "pinyin": ["jyut6", "gwo3", "gou1", "fung1", "ling6", "jat1", "fung1", "koek3", "jau6", "gin3", ","],
+      "char_meaning": ["cross", "pass", "high", "peak", "another", "one", "peak", "but", "again", "see", ","],
+      "sentence_meaning": "Crossing one peak, only to see another,"
+    },
+    {
+      "chars": ["目", "標", "推", "遠", "讓", "理", "想", "永", "遠", "喺", "前", "面", "。"],
+      "pinyin": ["muk6", "biu1", "teoi1", "jyun5", "joeng6", "lei5", "soeng2", "wing5", "jyun5", "hai2", "cin4", "min6", "."],
+      "char_meaning": ["eye", "standard", "push", "far", "let", "reason", "think", "forever", "far", "at", "front", "face", "."],
+      "sentence_meaning": "Pushing the goal further, so the ideal is always ahead."
+    },
+    {
+      "chars": ["路", "縱", "崎", "嶇", "亦", "唔", "怕", "受", "磨", "練", "，"],
+      "pinyin": ["lou6", "zung1", "kei1", "keoi1", "jik6", "m4", "paa3", "sau6", "mo4", "lin6", ","],
+      "char_meaning": ["road", "even if", "steep", "rugged", "also", "not", "afraid", "receive", "grind", "practice", ","],
+      "sentence_meaning": "Even if the road is rugged, I am not afraid of being tested,"
+    },
+    {
+      "chars": ["願", "一", "生", "中", "苦", "痛", "快", "樂", "都", "体", "驗", "，"],
+      "pinyin": ["jyun6", "jat1", "saang1", "zung1", "fu2", "tung3", "faai3", "lok6", "dou1", "tai2", "jim6", ","],
+      "char_meaning": ["wish", "one", "life", "middle", "bitter", "pain", "fast", "happy", "all", "body", "test", ","],
+      "sentence_meaning": "I wish to experience both pain and happiness in my life,"
+    },
+    {
+      "chars": ["愉", "快", "悲", "哀", "喺", "身", "邊", "轉", "又", "轉", "，"],
+      "pinyin": ["jyu4", "faai3", "bei1", "oi1", "hai2", "san1", "bin1", "zyun2", "jau6", "zyun2", ","],
+      "char_meaning": ["happy", "fast", "sad", "sorrow", "at", "body", "side", "turn", "again", "turn", ","],
+      "sentence_meaning": "Happiness and sorrow turn by my side again and again,"
+    },
+    {
+      "chars": ["風", "中", "賞", "雪", "霧", "裏", "賞", "花", "快", "樂", "回", "旋", "。"],
+      "pinyin": ["fung1", "zung1", "soeng2", "syut3", "mou6", "leoi5", "soeng2", "faa1", "faai3", "lok6", "wui4", "syun4", "."],
+      "char_meaning": ["wind", "middle", "enjoy", "snow", "fog", "inside", "enjoy", "flower", "fast", "happy", "return", "circle", "."],
+      "sentence_meaning": "Enjoying the snow in the wind, enjoying flowers in the fog, joyfully spinning around."
+    },
+    {
+      "chars": ["毋", "使", "計", "較", "快", "啲", "欣", "賞", "身", "邊", "靚", "嘅", "每", "一", "天", "，"],
+      "pinyin": ["mou4", "sai2", "gai3", "gaau3", "faai3", "di1", "jan1", "soeng2", "san1", "bin1", "leng3", "ge3", "mui5", "jat1", "tin1", ","],
+      "char_meaning": ["do not", "need", "calculate", "compare", "fast", "a bit", "happy", "enjoy", "body", "side", "beautiful", "of", "every", "one", "day", ","],
+      "sentence_meaning": "No need to calculate, just quickly appreciate the beauty around you every day,"
+    },
+    {
+      "chars": ["仍", "願", "確", "信", "好", "景", "好", "時", "就", "喺", "腳", "邊", "，"],
+      "pinyin": ["jing4", "jyun6", "kok3", "seon3", "hou2", "ging2", "hou2", "si4", "zau6", "hai2", "goek3", "bin1", ","],
+      "char_meaning": ["still", "wish", "sure", "believe", "good", "scenery", "good", "time", "just", "at", "foot", "side", ","],
+      "sentence_meaning": "And still believe that beautiful scenery and good times are right by your feet,"
+    },
+    {
+      "chars": ["願", "將", "歡", "笑", "蓋", "住", "痛", "苦", "嗰", "一", "面", "，"],
+      "pinyin": ["jyun6", "zoeng1", "fun1", "siu3", "goi3", "zyu6", "tung3", "fu2", "go2", "jat1", "min6", ","],
+      "char_meaning": ["wish", "will", "joyful", "laugh", "cover", "cover", "pain", "bitter", "that", "one", "side", ","],
+      "sentence_meaning": "I wish to cover the painful side with the sound of laughter,"
+    },
+    {
+      "chars": ["悲", "都", "好", "，", "喜", "都", "好", "，", "每", "日", "有", "新", "發", "現", "，"],
+      "pinyin": ["bei1", "dou1", "hou2", ",", "hei2", "dou1", "hou2", ",", "mui5", "jat6", "jau5", "san1", "faat3", "jin6", ","],
+      "char_meaning": ["sad", "also", "good", ",", "happy", "also", "good", ",", "every", "day", "have", "new", "discover", "see", ","],
+      "sentence_meaning": "Whether sad or happy, find a new discovery every day,"
+    },
+    {
+      "chars": ["任", "疾", "風", "吹", "呀", "吹", "，", "即", "管", "考", "驗", "我", "哋", "，"],
+      "pinyin": ["jam6", "zat6", "fung1", "ceoi1", "aa3", "ceoi1", ",", "zik1", "gun2", "haau2", "jim6", "ngo5", "dei6", ","],
+      "char_meaning": ["let", "rapid", "wind", "blow", "particle", "blow", ",", "just", "go ahead", "test", "verify", "me", "us", ","],
+      "sentence_meaning": "Let the strong winds blow, even if they test the two of us,"
+    },
+    {
+      "chars": ["細", "雨", "點", "，", "放", "心", "灑", "，", "決", "心", "早", "已", "向", "前", "。"],
+      "pinyin": ["sai3", "jyu5", "dim2", ",", "fong3", "sam1", "saa2", ",", "kyut3", "sam1", "zou2", "ji5", "hoeng3", "cin4", "."],
+      "char_meaning": ["small", "rain", "drops", ",", "let go", "heart", "sprinkle", ",", "determination", "heart", "early", "already", "toward", "front", "."],
+      "sentence_meaning": "Little raindrops, sprinkle freely, our hearts are long decided to move forward."
+    }
+]

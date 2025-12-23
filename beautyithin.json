@@ -1,0 +1,146 @@
+[
+    {
+      "chars": ["望", "青", "山", "一", "片", "云", "雾"],
+      "pinyin": ["wàng", "qīng", "shān", "yí", "piàn", "yún", "wù"],
+      "char_meaning": ["gaze", "green", "mountain", "one", "slice", "cloud", "mist"],
+      "sentence_meaning": "Gazing at the green mountains shrouded in a veil of mist"
+    },
+    {
+      "chars": ["檐", "下", "点", "灯", "燃", "烛"],
+      "pinyin": ["yán", "xià", "diǎn", "dēng", "rán", "zhú"],
+      "char_meaning": ["eaves", "under", "light", "lamp", "burn", "candle"],
+      "sentence_meaning": "Lighting lamps and burning candles under the eaves"
+    },
+    {
+      "chars": ["谁", "挽", "袖", "墨", "染", "丹", "青"],
+      "pinyin": ["shuí", "wǎn", "xiù", "mò", "rǎn", "dān", "qīng"],
+      "char_meaning": ["who", "roll up", "sleeve", "ink", "dye", "red", "green/painting"],
+      "sentence_meaning": "Who rolls up their sleeves to dye the canvas with ink and color"
+    },
+    {
+      "chars": ["画", "人", "间", "一", "副"],
+      "pinyin": ["huà", "rén", "jiān", "yí", "fù"],
+      "char_meaning": ["paint", "human", "world", "one", "measure word"],
+      "sentence_meaning": "Painting a portrait of the mortal world"
+    },
+    {
+      "chars": ["细", "看", "绣", "像", "传", "神", "处"],
+      "pinyin": ["xì", "kàn", "xiù", "xiàng", "chuán", "shén", "chù"],
+      "char_meaning": ["fine", "look", "embroidered", "image", "vivid", "spirit", "place"],
+      "sentence_meaning": "Looking closely at the vivid details of the portrait"
+    },
+    {
+      "chars": ["一", "草", "一", "木"],
+      "pinyin": ["yì", "cǎo", "yí", "mù"],
+      "char_meaning": ["one", "grass", "one", "tree"],
+      "sentence_meaning": "Every blade of grass and every single tree"
+    },
+    {
+      "chars": ["将", "谁", "的", "心", "事", "默", "默", "倾", "诉"],
+      "pinyin": ["jiāng", "shuí", "de", "xīn", "shì", "mò", "mò", "qīng", "sù"],
+      "char_meaning": ["object marker", "who", "possessive", "heart", "matter", "silently", "silently", "pour", "tell"],
+      "sentence_meaning": "Silently pouring out someone's innermost thoughts"
+    },
+    {
+      "chars": ["又", "见", "文", "人", "握", "朱", "豪"],
+      "pinyin": ["yòu", "jiàn", "wén", "rén", "wò", "zhū", "háo"],
+      "char_meaning": ["again", "see", "scholar", "person", "hold", "vermilion", "brush"],
+      "sentence_meaning": "Seeing the scholar hold the vermilion brush once again"
+    },
+    {
+      "chars": ["挥", "洒", "龙", "飞", "凤", "舞"],
+      "pinyin": ["huī", "sǎ", "lóng", "fēi", "fèng", "wǔ"],
+      "char_meaning": ["wave", "sprinkle", "dragon", "fly", "phoenix", "dance"],
+      "sentence_meaning": "Writing with powerful and elegant strokes like flying dragons and dancing phoenixes"
+    },
+    {
+      "chars": ["工", "笔", "间", "深", "深", "浅", "浅"],
+      "pinyin": ["gōng", "bǐ", "jiān", "shēn", "shēn", "qiǎn", "qiǎn"],
+      "char_meaning": ["fine brushwork", "pen", "between", "deep", "deep", "shallow", "shallow"],
+      "sentence_meaning": "In the meticulous brushwork, varying between deep and light strokes"
+    },
+    {
+      "chars": ["三", "两", "句", "成", "书"],
+      "pinyin": ["sān", "liǎng", "jù", "chéng", "shū"],
+      "char_meaning": ["three", "two", "sentences", "become", "book"],
+      "sentence_meaning": "A few lines eventually form a story"
+    },
+    {
+      "chars": ["我", "借", "几", "两", "月", "光", "不", "倦", "地", "拜", "读"],
+      "pinyin": ["wǒ", "jiè", "jǐ", "liǎng", "yuè", "guāng", "bú", "juàn", "de", "bài", "dú"],
+      "char_meaning": ["I", "borrow", "several", "ounces", "moon", "light", "not", "tired", "particle", "read with respect"],
+      "sentence_meaning": "I borrow a few ounces of moonlight to read tirelessly"
+    },
+    {
+      "chars": ["指", "尖", "宣", "纸", "也", "有", "了", "温", "度"],
+      "pinyin": ["zhǐ", "jiān", "xuān", "zhǐ", "yě", "yǒu", "le", "wēn", "dù"],
+      "char_meaning": ["finger", "tip", "Xuan/rice", "paper", "also", "have", "past tense", "warm", "degree"],
+      "sentence_meaning": "Even the rice paper beneath my fingertips feels warm"
+    },
+    {
+      "chars": ["执", "笔", "人", "墨", "中", "魂"],
+      "pinyin": ["zhí", "bǐ", "rén", "mò", "zhōng", "hún"],
+      "char_meaning": ["hold", "pen", "person", "ink", "inside", "soul"],
+      "sentence_meaning": "The writer, the soul residing within the ink"
+    },
+    {
+      "chars": ["点", "滴", "交", "织", "勾", "勒", "出", "红", "尘"],
+      "pinyin": ["diǎn", "dī", "jiāo", "zhī", "gōu", "lè", "chū", "hóng", "chén"],
+      "char_meaning": ["dots", "drops", "interweave", "weave", "sketch", "outline", "out", "red", "dust/world"],
+      "sentence_meaning": "Bit by bit interweaving to outline the mortal world"
+    },
+    {
+      "chars": ["妙", "笔", "写", "出", "世", "间", "爱", "恨"],
+      "pinyin": ["miào", "bǐ", "xiě", "chū", "shì", "jiān", "ài", "hèn"],
+      "char_meaning": ["gifted", "pen", "write", "out", "world", "between", "love", "hate"],
+      "sentence_meaning": "A gifted pen writes of the love and hatred in this world"
+    },
+    {
+      "chars": ["偶", "尔", "如", "见", "己", "身"],
+      "pinyin": ["ǒu", "ěr", "rú", "jiàn", "jǐ", "shēn"],
+      "char_meaning": ["occasionally", "also", "as if", "see", "self", "body"],
+      "sentence_meaning": "Occasionally seeing a reflection of one's own self"
+    },
+    {
+      "chars": ["抬", "头", "我", "已", "多", "几", "道", "泪", "痕"],
+      "pinyin": ["tái", "tóu", "wǒ", "yǐ", "duō", "jǐ", "dào", "lèi", "hén"],
+      "char_meaning": ["lift", "head", "I", "already", "more", "several", "measure word", "tear", "stain"],
+      "sentence_meaning": "When I look up, I already have several tear stains on my face"
+    },
+    {
+      "chars": ["落", "笔", "深", "墨", "中", "魂"],
+      "pinyin": ["luò", "bǐ", "shēn", "mò", "zhōng", "hún"],
+      "char_meaning": ["drop/land", "pen", "deeply", "ink", "inside", "soul"],
+      "sentence_meaning": "Writing deeply, the soul within the ink"
+    },
+    {
+      "chars": ["三", "千", "浮", "世", "里", "藏", "着", "乾", "坤"],
+      "pinyin": ["sān", "qiān", "fú", "shì", "lǐ", "cáng", "zhe", "qián", "kūn"],
+      "char_meaning": ["three", "thousand", "floating", "world", "inside", "hide", "ing", "universe"],
+      "sentence_meaning": "The entire universe is hidden within the three thousand floating worlds"
+    },
+    {
+      "chars": ["故", "事", "聚", "散", "又", "添", "几", "本"],
+      "pinyin": ["gù", "shì", "jù", "sàn", "yòu", "tiān", "jǐ", "běn"],
+      "char_meaning": ["story", "matter", "gather", "disperse", "again", "add", "several", "measure word/books"],
+      "sentence_meaning": "Adding a few more volumes to stories of gathering and parting"
+    },
+    {
+      "chars": ["这", "哭", "声", "谁", "人", "闻"],
+      "pinyin": ["zhè", "kū", "shēng", "shuí", "rén", "wén"],
+      "char_meaning": ["this", "cry", "sound", "who", "person", "hear"],
+      "sentence_meaning": "Who can hear this sound of crying?"
+    },
+    {
+      "chars": ["似", "一", "场", "梦", "我", "无", "尽", "沉", "沦"],
+      "pinyin": ["shì", "yì", "chǎng", "mèng", "wǒ", "wú", "jìn", "chén", "lún"],
+      "char_meaning": ["like", "one", "measure word", "dream", "I", "no", "end", "sink", "fall"],
+      "sentence_meaning": "Like a dream, I am sinking endlessly"
+    },
+    {
+      "chars": ["句", "句", "诗", "文"],
+      "pinyin": ["jù", "jù", "shī", "wén"],
+      "char_meaning": ["sentence", "sentence", "poem", "text"],
+      "sentence_meaning": "Line after line of poetry and prose"
+    }
+  ]

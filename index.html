@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>chly Table</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: snow;
+  }
+  select,  option{
+    padding: .5rem 1rem;
+    font-size: 3rem;
+  }
+  table {
+    border-collapse: collapse;
+    margin-bottom: 40px;
+    width: 100%;
+    table-layout: fixed;
+  }
+  td, th {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: center;
+    word-wrap: break-word;
+  }
+  .sentence-meaning {
+    text-align: center;
+    font-weight: bold;
+    background-color: #f0f0f0;
+  }
+</style>
+</style>
+</head>
+<body>
+<div class="head" style="display: flex;gap: 1rem;">
+  <h1>Songs</h1> <a href="#recog">Write</a>
+  <select name="" id="musics" >
+  </select>
+  <h1>Format</h1>
+  <select name="" id="format" >
+    <option value="blocked">Blocked</option>
+    <option value="tabled">Tabled</option>
+  </select>
+</div>
+<div>
+  <input type="checkbox" name="char" id="char" />
+  <input type="checkbox" name="pinyin" id="pinyin">
+  <input type="checkbox" name="chardef" id="chardef">
+  <input type="checkbox" name="def" id="def">
+
+</div>
+<h1>lines</h1>
+
+<div class="cont" id="lyrics-container"></div>
+<section id="recog">
+  <p id="output"></p><br>
+<canvas id="myCanvas" width="800" height="200" style="border: 1px solid black;"></canvas>
+<br>
+<button onclick="runOCR()">Detect Characters</button>
+
+<button onclick="clearC()">Clear</button>
+
+
+
+<script src="recon.js"></script>
+</section>
+<script src="main.js" type="text/javascript" charset="utf-8"></script>
+<script src='https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js'></script>
+</body>
+</html>

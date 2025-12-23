@@ -1,0 +1,195 @@
+[
+    {
+      "chars": ["這", "首", "歌", "是", "為", "你", "而", "寫"],
+      "pinyin": ["zhè", "shǒu", "gē", "shì", "wèi", "nǐ", "ér", "xiě"],
+      "char_meaning": ["this", "measure word", "song", "is", "for", "you", "and", "write"],
+      "sentence_meaning": "This song is written for you"
+    },
+    {
+      "chars": ["唱", "情", "歌", "不", "要", "你", "心", "碎"],
+      "pinyin": ["chàng", "qíng", "gē", "bù", "yào", "nǐ", "xīn", "suì"],
+      "char_meaning": ["sing", "love", "song", "not", "want", "you", "heart", "break"],
+      "sentence_meaning": "Singing a love song, I don't want your heart to break"
+    },
+    {
+      "chars": ["如", "果", "能", "聽", "見"],
+      "pinyin": ["rú", "guǒ", "néng", "tīng", "jiàn"],
+      "char_meaning": ["if", "result", "can", "listen", "see"],
+      "sentence_meaning": "If you can hear it"
+    },
+    {
+      "chars": ["一", "定", "能", "聽", "見"],
+      "pinyin": ["yī", "dìng", "néng", "tīng", "jiàn"],
+      "char_meaning": ["one", "certain", "can", "listen", "see"],
+      "sentence_meaning": "You can definitely hear it"
+    },
+    {
+      "chars": ["我", "相", "信", "有", "機", "會"],
+      "pinyin": ["wǒ", "xiāng", "xìn", "yǒu", "jī", "huì"],
+      "char_meaning": ["I", "each other", "believe", "have", "opportunity", "can"],
+      "sentence_meaning": "I believe there's a chance"
+    },
+    {
+      "chars": ["就", "這", "樣", "一", "二", "三", "四", "二", "二", "三", "四", "三", "二", "三", "四"],
+      "pinyin": ["jiù", "zhè", "yàng", "yī", "èr", "sān", "sì", "èr", "èr", "sān", "sì", "sān", "èr", "sān", "sì"],
+      "char_meaning": ["just", "this", "way", "one", "two", "three", "four", "two", "two", "three", "four", "three", "two", "three", "four"],
+      "sentence_meaning": "Just like this, 123422343234"
+    },
+    {
+      "chars": ["唱", "得", "不", "敷", "衍"],
+      "pinyin": ["chàng", "de", "bù", "fū", "yǎn"],
+      "char_meaning": ["sing", "result", "not", "perfunctory", "elaborate"],
+      "sentence_meaning": "Singing without being perfunctory"
+    },
+    {
+      "chars": ["再", "一", "次", "四", "二", "三", "四", "五", "二", "三", "四", "六", "二", "三", "四"],
+      "pinyin": ["zài", "yī", "cì", "sì", "èr", "sān", "sì", "wǔ", "èr", "sān", "sì", "liù", "èr", "sān", "sì"],
+      "char_meaning": ["again", "one", "time", "four", "two", "three", "four", "five", "two", "three", "four", "six", "two", "three", "four"],
+      "sentence_meaning": "One more time, 423452346234"
+    },
+    {
+      "chars": ["還", "是", "有", "感", "覺"],
+      "pinyin": ["hái", "shì", "yǒu", "gǎn", "jué"],
+      "char_meaning": ["still", "is", "have", "feel", "sense"],
+      "sentence_meaning": "Still have a feeling"
+    },
+    {
+      "chars": ["我", "不", "是", "隨", "隨", "便", "便"],
+      "pinyin": ["wǒ", "bù", "shì", "suí", "suí", "biàn", "biàn"],
+      "char_meaning": ["I", "not", "is", "follow", "follow", "convenient", "convenient"],
+      "sentence_meaning": "I'm not doing this casually"
+    },
+    {
+      "chars": ["再", "給", "我", "一", "點", "時", "間"],
+      "pinyin": ["zài", "gěi", "wǒ", "yī", "diǎn", "shí", "jiān"],
+      "char_meaning": ["again", "give", "me", "one", "point", "time", "space"],
+      "sentence_meaning": "Give me a little more time"
+    },
+    {
+      "chars": ["我", "願", "意", "冒", "著", "風", "險", "被", "說", "敷", "衍"],
+      "pinyin": ["wǒ", "yuàn", "yì", "mào", "zhe", "fēng", "xiǎn", "bèi", "shuō", "fū", "yǎn"],
+      "char_meaning": ["I", "willing", "intent", "brave", "ing", "wind", "danger", "passive marker", "say", "perfunctory", "elaborate"],
+      "sentence_meaning": "I'm willing to take the risk of being called perfunctory"
+    },
+    {
+      "chars": ["因", "為", "知", "道", "愛", "是", "種", "奉", "獻"],
+      "pinyin": ["yīn", "wèi", "zhī", "dào", "ài", "shì", "zhǒng", "fèng", "xiàn"],
+      "char_meaning": ["cause", "for", "know", "way", "love", "is", "kind", "offer", "present"],
+      "sentence_meaning": "Because I know love is a kind of dedication"
+    },
+    {
+      "chars": ["最", "後", "的", "七", "二", "三", "四", "八", "二", "三", "四", "九", "二", "三", "四"],
+      "pinyin": ["zuì", "hòu", "de", "qī", "èr", "sān", "sì", "bā", "èr", "sān", "sì", "jiǔ", "èr", "sān", "sì"],
+      "char_meaning": ["most", "after", "possessive", "seven", "two", "three", "four", "eight", "two", "three", "four", "nine", "two", "three", "four"],
+      "sentence_meaning": "The last 723482349234"
+    },
+    {
+      "chars": ["都", "唱", "完", "一", "遍"],
+      "pinyin": ["dōu", "chàng", "wán", "yī", "biàn"],
+      "char_meaning": ["all", "sing", "finish", "one", "time"],
+      "sentence_meaning": "Have all been sung once"
+    },
+    {
+      "chars": ["終", "於", "我", "沒", "了", "歌", "詞", "沒", "了", "遮", "掩"],
+      "pinyin": ["zhōng", "yú", "wǒ", "méi", "le", "gē", "cí", "méi", "le", "zhē", "yǎn"],
+      "char_meaning": ["end", "at", "I", "not have", "particle", "song", "word", "not have", "particle", "cover", "hide"],
+      "sentence_meaning": "Finally I have no lyrics, no hiding"
+    },
+    {
+      "chars": ["我", "的", "真", "心", "能", "讓", "你", "看", "見"],
+      "pinyin": ["wǒ", "de", "zhēn", "xīn", "néng", "ràng", "nǐ", "kàn", "jiàn"],
+      "char_meaning": ["I", "possessive", "true", "heart", "can", "let", "you", "look", "see"],
+      "sentence_meaning": "My true heart can be seen by you"
+    },
+    {
+      "chars": ["我", "可", "以", "沒", "有", "底", "線"],
+      "pinyin": ["wǒ", "kě", "yǐ", "méi", "yǒu", "dǐ", "xiàn"],
+      "char_meaning": ["I", "can", "can", "not", "have", "bottom", "line"],
+      "sentence_meaning": "I can have no bottom line"
+    },
+    {
+      "chars": ["是", "為", "了", "你", "的", "笑", "臉"],
+      "pinyin": ["shì", "wèi", "le", "nǐ", "de", "xiào", "liǎn"],
+      "char_meaning": ["is", "for", "past tense", "you", "possessive", "smile", "face"],
+      "sentence_meaning": "It's for your smiling face"
+    },
+    {
+      "chars": ["為", "難", "過", "的", "你", "添", "一", "點", "新", "鮮"],
+      "pinyin": ["wèi", "nán", "guò", "de", "nǐ", "tiān", "yī", "diǎn", "xīn", "xiān"],
+      "char_meaning": ["for", "difficult", "pass", "possessive", "you", "add", "one", "point", "new", "fresh"],
+      "sentence_meaning": "Adding a little freshness for the sad you"
+    },
+    {
+      "chars": ["第", "一", "次", "為", "了", "你", "寫", "歌"],
+      "pinyin": ["dì", "yī", "cì", "wèi", "le", "nǐ", "xiě", "gē"],
+      "char_meaning": ["first", "one", "time", "for", "past tense", "you", "write", "song"],
+      "sentence_meaning": "The first time writing a song for you"
+    },
+    {
+      "chars": ["我", "想", "你", "喜", "歡", "幽", "默", "的"],
+      "pinyin": ["wǒ", "xiǎng", "nǐ", "xǐ", "huān", "yōu", "mò", "de"],
+      "char_meaning": ["I", "think", "you", "like", "happy", "dark", "silent", "possessive"],
+      "sentence_meaning": "I think you like humorous"
+    },
+    {
+      "chars": ["奇", "奇", "怪", "怪", "的", "人", "遇", "見", "另", "一", "個"],
+      "pinyin": ["qí", "qí", "guài", "guài", "de", "rén", "yù", "jiàn", "lìng", "yī", "gè"],
+      "char_meaning": ["strange", "strange", "strange", "strange", "possessive", "person", "meet", "see", "another", "one", "measure word"],
+      "sentence_meaning": "Strange people meeting another strange person"
+    },
+    {
+      "chars": ["這", "種", "感", "覺", "誰", "懂", "得"],
+      "pinyin": ["zhè", "zhǒng", "gǎn", "jué", "shuí", "dǒng", "de"],
+      "char_meaning": ["this", "kind", "feel", "sense", "who", "understand", "result"],
+      "sentence_meaning": "Who understands this feeling"
+    },
+    {
+      "chars": ["就", "這", "樣", "一", "二", "三", "四", "二", "二", "三", "四", "三", "二", "三", "四"],
+      "pinyin": ["jiù", "zhè", "yàng", "yī", "èr", "sān", "sì", "èr", "èr", "sān", "sì", "sān", "èr", "sān", "sì"],
+      "char_meaning": ["just", "this", "way", "one", "two", "three", "four", "two", "two", "three", "four", "three", "two", "three", "four"],
+      "sentence_meaning": "Just like this, 123422343234"
+    },
+    {
+      "chars": ["唱", "得", "不", "敷", "衍"],
+      "pinyin": ["chàng", "de", "bù", "fū", "yǎn"],
+      "char_meaning": ["sing", "result", "not", "perfunctory", "elaborate"],
+      "sentence_meaning": "Singing without being perfunctory"
+    },
+    {
+      "chars": ["再", "一", "次", "四", "二", "三", "四", "五", "二", "三", "四", "六", "二", "三", "四"],
+      "pinyin": ["zài", "yī", "cì", "sì", "èr", "sān", "sì", "wǔ", "èr", "sān", "sì", "liù", "èr", "sān", "sì"],
+      "char_meaning": ["again", "one", "time", "four", "two", "three", "four", "five", "two", "three", "four", "six", "two", "three", "four"],
+      "sentence_meaning": "One more time, 423452346234"
+    },
+    {
+      "chars": ["還", "是", "有", "感", "覺"],
+      "pinyin": ["hái", "shì", "yǒu", "gǎn", "jué"],
+      "char_meaning": ["still", "is", "have", "feel", "sense"],
+      "sentence_meaning": "Still have a feeling"
+    },
+    {
+      "chars": ["我", "可", "以", "沒", "有", "底", "線"],
+      "pinyin": ["wǒ", "kě", "yǐ", "méi", "yǒu", "dǐ", "xiàn"],
+      "char_meaning": ["I", "can", "can", "not", "have", "bottom", "line"],
+      "sentence_meaning": "I can have no bottom line"
+    },
+    {
+      "chars": ["是", "為", "了", "你", "的", "笑", "臉"],
+      "pinyin": ["shì", "wèi", "le", "nǐ", "de", "xiào", "liǎn"],
+      "char_meaning": ["is", "for", "past tense", "you", "possessive", "smile", "face"],
+      "sentence_meaning": "It's for your smiling face"
+    },
+    {
+      "chars": ["為", "難", "過", "的", "你", "添", "一", "點", "新", "鮮"],
+      "pinyin": ["wèi", "nán", "guò", "de", "nǐ", "tiān", "yī", "diǎn", "xīn", "xiān"],
+      "char_meaning": ["for", "difficult", "pass", "possessive", "you", "add", "one", "point", "new", "fresh"],
+      "sentence_meaning": "Adding a little freshness for the sad you"
+    },
+    {
+      "chars": ["希", "望", "能", "給", "你", "一", "點", "點", "安", "慰"],
+      "pinyin": ["xī", "wàng", "néng", "gěi", "nǐ", "yī", "diǎn", "diǎn", "ān", "wèi"],
+      "char_meaning": ["hope", "gaze", "can", "give", "you", "one", "point", "point", "safe", "comfort"],
+      "sentence_meaning": "Hoping to give you a little bit of comfort"
+    }
+  ]
+

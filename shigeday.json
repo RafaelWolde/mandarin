@@ -1,0 +1,422 @@
+[
+  {
+    "chars": ["十", "個", "男", "人", "啊", "啊", "啊", "啊"],
+    "pinyin": ["shí", "gè", "nán", "rén", "ā", "ā", "ā", "ā"],
+    "char_meaning": ["ten", "measure word", "man", "person", "ah", "ah", "ah", "ah"],
+    "sentence_meaning": "Ten men, ah ah ah ah"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["還", "有", "一", "個", "人", "人", "愛", "姊", "妹", "們", "跳", "出", "來"],
+    "pinyin": ["hái", "yǒu", "yī", "gè", "rén", "rén", "ài", "jiě", "mèi", "men", "tiào", "chū", "lái"],
+    "char_meaning": ["still", "have", "one", "measure word", "person", "person", "love", "older sister", "younger sister", "plural", "jump", "out", "come"],
+    "sentence_meaning": "There is still one everyone loves, sisters jump out"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["趕", "快", "把", "他", "騙", "過", "來", "騙", "過", "來", "騙", "過", "來"],
+    "pinyin": ["gǎn", "kuài", "bǎ", "tā", "piàn", "guò", "lái", "piàn", "guò", "lái", "piàn", "guò", "lái"],
+    "char_meaning": ["hurry", "quickly", "take", "him", "deceive", "pass", "come", "deceive", "pass", "come", "deceive", "pass", "come"],
+    "sentence_meaning": "Hurry, quickly take him to deceive, deceive, deceive"
+  },
+  {
+    "chars": ["薪", "水", "全", "部", "都", "歸", "她"],
+    "pinyin": ["xīn", "shuǐ", "quán", "bù", "dōu", "guī", "tā"],
+    "char_meaning": ["salary", "water", "all", "part", "all", "belong to", "her"],
+    "sentence_meaning": "All the salary belongs to her"
+  },
+  {
+    "chars": ["還", "有", "銀", "行", "帳", "戶", "密", "碼"],
+    "pinyin": ["hái", "yǒu", "yín", "háng", "zhàng", "hù", "mì", "mǎ"],
+    "char_meaning": ["still", "have", "silver", "line", "account", "household", "secret", "code"],
+    "sentence_meaning": "And the bank account password"
+  },
+  {
+    "chars": ["現", "金", "和", "信", "用", "卡", "全", "部", "都", "交", "給", "她", "來", "刷"],
+    "pinyin": ["xiàn", "jīn", "hé", "xìn", "yòng", "kǎ", "quán", "bù", "dōu", "jiāo", "gěi", "tā", "lái", "shuā"],
+    "char_meaning": ["present", "gold", "and", "trust", "use", "card", "all", "part", "all", "hand over", "give", "her", "come", "swipe"],
+    "sentence_meaning": "All cash and credit cards are handed over to her to swipe"
+  },
+  {
+    "chars": ["每", "天", "照", "三", "餐", "問", "候"],
+    "pinyin": ["měi", "tiān", "zhào", "sān", "cān", "wèn", "hòu"],
+    "char_meaning": ["every", "day", "according to", "three", "meals", "ask", "greet"],
+    "sentence_meaning": "Greet her three times a day"
+  },
+  {
+    "chars": ["製", "造", "驚", "喜", "和", "感", "動"],
+    "pinyin": ["zhì", "zào", "jīng", "xǐ", "hé", "gǎn", "dòng"],
+    "char_meaning": ["make", "create", "surprise", "happiness", "and", "feel", "move"],
+    "sentence_meaning": "Create surprises and touching moments"
+  },
+  {
+    "chars": ["手", "機", "響", "三", "下", "內", "接", "通"],
+    "pinyin": ["shǒu", "jī", "xiǎng", "sān", "xià", "nèi", "jiē", "tōng"],
+    "char_meaning": ["hand", "machine", "ring", "three", "times", "within", "connect", "through"],
+    "sentence_meaning": "Answer the phone within three rings"
+  },
+  {
+    "chars": ["還", "有", "自", "拍", "打", "卡", "監", "控"],
+    "pinyin": ["hái", "yǒu", "zì", "pāi", "dǎ", "kǎ", "jiān", "kòng"],
+    "char_meaning": ["still", "have", "self", "shoot", "hit", "card", "supervise", "control"],
+    "sentence_meaning": "And there's selfie check-in monitoring"
+  },
+  {
+    "chars": ["要", "有", "比", "特", "犬", "的", "堅", "韌"],
+    "pinyin": ["yào", "yǒu", "bǐ", "tè", "quǎn", "de", "jiān", "rèn"],
+    "char_meaning": ["must", "have", "compare", "special", "dog", "possessive", "firm", "tough"],
+    "sentence_meaning": "Must have the toughness of a Pitbull"
+  },
+  {
+    "chars": ["拉", "不", "拉", "多", "式", "的", "忠", "誠"],
+    "pinyin": ["lā", "bù", "lā", "duō", "shì", "de", "zhōng", "chéng"],
+    "char_meaning": ["pull", "not", "pull", "many", "style", "possessive", "loyal", "sincere"],
+    "sentence_meaning": "The loyalty of a Labrador"
+  },
+  {
+    "chars": ["要", "像", "西", "施", "一", "樣", "萌"],
+    "pinyin": ["yào", "xiàng", "xī", "shī", "yī", "yàng", "méng"],
+    "char_meaning": ["must", "like", "west", "show", "one", "like", "cute"],
+    "sentence_meaning": "To be as cute as a Shih Tzu"
+  },
+  {
+    "chars": ["獒", "犬", "一", "樣", "猛"],
+    "pinyin": ["áo", "quǎn", "yī", "yàng", "měng"],
+    "char_meaning": ["mastiff", "dog", "one", "like", "fierce"],
+    "sentence_meaning": "As fierce as a Mastiff"
+  },
+  {
+    "chars": ["沙", "皮", "一", "樣", "黏", "人"],
+    "pinyin": ["shā", "pí", "yī", "yàng", "nián", "rén"],
+    "char_meaning": ["sand", "skin", "one", "like", "sticky", "person"],
+    "sentence_meaning": "As clingy as a Shar-Pei"
+  },
+  {
+    "chars": ["要", "有", "提", "款", "機", "的", "功", "能"],
+    "pinyin": ["yào", "yǒu", "tí", "kuǎn", "jī", "de", "gōng", "néng"],
+    "char_meaning": ["must", "have", "withdraw", "money", "machine", "possessive", "function", "ability"],
+    "sentence_meaning": "Must have the function of an ATM"
+  },
+  {
+    "chars": ["最", "好", "有", "三", "十", "公", "分", "的", "小", "腿", "善", "解", "人", "意"],
+    "pinyin": ["zuì", "hǎo", "yǒu", "sān", "shí", "gōng", "fēn", "de", "xiǎo", "tuǐ", "shàn", "jiě", "rén", "yì"],
+    "char_meaning": ["most", "good", "have", "three", "ten", "public", "minute", "possessive", "small", "leg", "good", "understand", "person", "meaning"],
+    "sentence_meaning": "It's best to have a 30 cm calf, and be understanding"
+  },
+  {
+    "chars": ["當", "個", "一", "百", "分", "好", "男", "人"],
+    "pinyin": ["dāng", "gè", "yī", "bǎi", "fēn", "hǎo", "nán", "rén"],
+    "char_meaning": ["be", "measure word", "one", "hundred", "point", "good", "man", "person"],
+    "sentence_meaning": "Be a 100-point good man"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["還", "有", "一", "個", "人", "人", "愛", "姊", "妹", "們", "跳", "出", "來"],
+    "pinyin": ["hái", "yǒu", "yī", "gè", "rén", "rén", "ài", "jiě", "mèi", "men", "tiào", "chū", "lái"],
+    "char_meaning": ["still", "have", "one", "measure word", "person", "person", "love", "older sister", "younger sister", "plural", "jump", "out", "come"],
+    "sentence_meaning": "There is still one everyone loves, sisters jump out"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["趕", "快", "把", "他", "騙", "過", "來", "騙", "過", "來", "騙", "過", "來"],
+    "pinyin": ["gǎn", "kuài", "bǎ", "tā", "piàn", "guò", "lái", "piàn", "guò", "lái", "piàn", "guò", "lái"],
+    "char_meaning": ["hurry", "quickly", "take", "him", "deceive", "pass", "come", "deceive", "pass", "come", "deceive", "pass", "come"],
+    "sentence_meaning": "Hurry, quickly take him to deceive, deceive, deceive"
+  },
+  {
+    "chars": ["不", "到", "廁", "所", "偷", "打", "電", "話"],
+    "pinyin": ["bù", "dào", "cè", "suǒ", "tōu", "dǎ", "diàn", "huà"],
+    "char_meaning": ["not", "arrive", "toilet", "place", "steal", "hit", "electric", "speech"],
+    "sentence_meaning": "Don't secretly make calls in the toilet"
+  },
+  {
+    "chars": ["手", "機", "不", "能", "鎖", "碼"],
+    "pinyin": ["shǒu", "jī", "bù", "néng", "suǒ", "mǎ"],
+    "char_meaning": ["hand", "machine", "not", "can", "lock", "code"],
+    "sentence_meaning": "The phone cannot be password-locked"
+  },
+  {
+    "chars": ["生", "日", "週", "年", "慶", "要", "牢", "記"],
+    "pinyin": ["shēng", "rì", "zhōu", "nián", "qìng", "yào", "láo", "jì"],
+    "char_meaning": ["birth", "day", "week", "year", "celebration", "must", "firmly", "remember"],
+    "sentence_meaning": "Birthdays and anniversaries must be remembered firmly"
+  },
+  {
+    "chars": ["別", "忘", "蛋", "糕", "鮮", "花"],
+    "pinyin": ["bié", "wàng", "dàn", "gāo", "xiān", "huā"],
+    "char_meaning": ["don't", "forget", "egg", "cake", "fresh", "flower"],
+    "sentence_meaning": "Don't forget the cake and fresh flowers"
+  },
+  {
+    "chars": ["聖", "誕", "節", "別", "說", "很", "忙"],
+    "pinyin": ["shèng", "dàn", "jié", "bié", "shuō", "hěn", "máng"],
+    "char_meaning": ["holy", "birth", "festival", "don't", "say", "very", "busy"],
+    "sentence_meaning": "Don't say you're busy on Christmas"
+  },
+  {
+    "chars": ["情", "人", "節", "不", "能", "加", "班"],
+    "pinyin": ["qíng", "rén", "jié", "bù", "néng", "jiā", "bān"],
+    "char_meaning": ["love", "person", "festival", "not", "can", "add", "class"],
+    "sentence_meaning": "Can't work overtime on Valentine's Day"
+  },
+  {
+    "chars": ["前", "女", "友", "的", "事", "別", "管"],
+    "pinyin": ["qián", "nǚ", "yǒu", "de", "shì", "bié", "guǎn"],
+    "char_meaning": ["before", "female", "friend", "possessive", "matter", "don't", "manage"],
+    "sentence_meaning": "Don't bother with ex-girlfriend's business"
+  },
+  {
+    "chars": ["最", "好", "快", "刪", "號", "取", "關"],
+    "pinyin": ["zuì", "hǎo", "kuài", "shān", "hào", "qǔ", "guān"],
+    "char_meaning": ["most", "good", "quickly", "delete", "number", "take", "close"],
+    "sentence_meaning": "It's best to quickly delete and unfollow"
+  },
+  {
+    "chars": ["不", "講", "道", "理", "只", "要", "道", "歉"],
+    "pinyin": ["bù", "jiǎng", "dào", "lǐ", "zhǐ", "yào", "dào", "qiàn"],
+    "char_meaning": ["not", "speak", "way", "reason", "only", "must", "way", "apologize"],
+    "sentence_meaning": "Don't talk reason, just apologize"
+  },
+  {
+    "chars": ["It's Your Bad"],
+    "pinyin": ["It's Your Bad"],
+    "char_meaning": ["It's Your Bad"],
+    "sentence_meaning": "It's your fault"
+  },
+  {
+    "chars": ["無", "理", "取", "鬧", "是", "女", "人", "的", "特", "權"],
+    "pinyin": ["wú", "lǐ", "qǔ", "nào", "shì", "nǚ", "rén", "de", "tè", "quán"],
+    "char_meaning": ["no", "reason", "take", "make trouble", "is", "female", "person", "possessive", "special", "right"],
+    "sentence_meaning": "Being unreasonable is a woman's privilege"
+  },
+  {
+    "chars": ["It's Your Fate"],
+    "pinyin": ["It's Your Fate"],
+    "char_meaning": ["It's Your Fate"],
+    "sentence_meaning": "It's your fate"
+  },
+  {
+    "chars": ["我", "們", "就", "想", "吃", "隨", "便", "喝", "隨", "便", "去", "隨", "便"],
+    "pinyin": ["wǒ", "men", "jiù", "xiǎng", "chī", "suí", "biàn", "hē", "suí", "biàn", "qù", "suí", "biàn"],
+    "char_meaning": ["I", "plural", "just", "want", "eat", "follow", "convenient", "drink", "follow", "convenient", "go", "follow", "convenient"],
+    "sentence_meaning": "We just want to eat 'whatever', drink 'whatever', go 'wherever'"
+  },
+  {
+    "chars": ["聽", "不", "懂", "我", "的", "語", "言"],
+    "pinyin": ["tīng", "bù", "dǒng", "wǒ", "de", "yǔ", "yán"],
+    "char_meaning": ["listen", "not", "understand", "I", "possessive", "language", "speech"],
+    "sentence_meaning": "Can't understand my language"
+  },
+  {
+    "chars": ["自", "己", "上", "論", "壇", "Or", "問", "你", "姊", "姊"],
+    "pinyin": ["zì", "jǐ", "shàng", "lùn", "tán", "Or", "wèn", "nǐ", "jiě", "jiě"],
+    "char_meaning": ["self", "body", "go up", "discuss", "forum", "Or", "ask", "you", "older sister", "older sister"],
+    "sentence_meaning": "Go to the forums yourself or ask your older sister"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["還", "有", "一", "個", "人", "人", "愛", "姊", "妹", "們", "跳", "出", "來"],
+    "pinyin": ["hái", "yǒu", "yī", "gè", "rén", "rén", "ài", "jiě", "mèi", "men", "tiào", "chū", "lái"],
+    "char_meaning": ["still", "have", "one", "measure word", "person", "person", "love", "older sister", "younger sister", "plural", "jump", "out", "come"],
+    "sentence_meaning": "There is still one everyone loves, sisters jump out"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["趕", "快", "把", "他", "騙", "過", "來", "騙", "過", "來", "騙", "過", "來"],
+    "pinyin": ["gǎn", "kuài", "bǎ", "tā", "piàn", "guò", "lái", "piàn", "guò", "lái", "piàn", "guò", "lái"],
+    "char_meaning": ["hurry", "quickly", "take", "him", "deceive", "pass", "come", "deceive", "pass", "come", "deceive", "pass", "come"],
+    "sentence_meaning": "Hurry, quickly take him to deceive, deceive, deceive"
+  },
+  {
+    "chars": ["男", "人", "要", "誠", "實", "坦", "白", "要", "講", "真", "話"],
+    "pinyin": ["nán", "rén", "yào", "chéng", "shí", "tǎn", "bái", "yào", "jiǎng", "zhēn", "huà"],
+    "char_meaning": ["man", "person", "must", "sincere", "real", "frank", "white", "must", "speak", "real", "speech"],
+    "sentence_meaning": "Men must be honest and speak the truth"
+  },
+  {
+    "chars": ["除", "了", "她", "做", "的", "新", "頭", "髮"],
+    "pinyin": ["chú", "le", "tā", "zuò", "de", "xīn", "tóu", "fà"],
+    "char_meaning": ["except", "past tense", "her", "do", "possessive", "new", "head", "hair"],
+    "sentence_meaning": "Except for the new hair she got done"
+  },
+  {
+    "chars": ["母", "湯", "腰", "痛", "坐", "骨", "神", "經", "疼", "痛"],
+    "pinyin": ["mǔ", "tāng", "yāo", "tòng", "zuò", "gǔ", "shén", "jīng", "téng", "tòng"],
+    "char_meaning": ["mother", "soup", "waist", "pain", "sit", "bone", "spirit", "nerve", "ache", "pain"],
+    "sentence_meaning": "Must not have back pain or sciatica"
+  },
+  {
+    "chars": ["控", "八", "控", "控", "控", "八", "控", "控"],
+    "pinyin": ["kòng", "bā", "kòng", "kòng", "kòng", "bā", "kòng", "kòng"],
+    "char_meaning": ["control", "eight", "control", "control", "control", "eight", "control", "control"],
+    "sentence_meaning": "Control eight control control, control eight control control"
+  },
+  {
+    "chars": ["她", "不", "開", "心", "就", "給", "她", "贏"],
+    "pinyin": ["tā", "bù", "kāi", "xīn", "jiù", "gěi", "tā", "yíng"],
+    "char_meaning": ["her", "not", "open", "heart", "then", "give", "her", "win"],
+    "sentence_meaning": "If she is unhappy, just let her win"
+  },
+  {
+    "chars": ["下", "班", "不", "累", "不", "累", "練", "腹", "肌"],
+    "pinyin": ["xià", "bān", "bù", "lèi", "bù", "lèi", "liàn", "fù", "jī"],
+    "char_meaning": ["down", "class", "not", "tired", "not", "tired", "practice", "abdomen", "muscle"],
+    "sentence_meaning": "Not tired after work, not tired, practice your abs"
+  },
+  {
+    "chars": ["當", "她", "有", "事", "沒", "事"],
+    "pinyin": ["dāng", "tā", "yǒu", "shì", "méi", "shì"],
+    "char_meaning": ["when", "her", "have", "thing", "no", "thing"],
+    "sentence_meaning": "When she's fine or not fine"
+  },
+  {
+    "chars": ["你", "問", "她", "說", "她", "沒", "事"],
+    "pinyin": ["nǐ", "wèn", "tā", "shuō", "tā", "méi", "shì"],
+    "char_meaning": ["you", "ask", "her", "say", "her", "no", "thing"],
+    "sentence_meaning": "You ask her and she says she's fine"
+  },
+  {
+    "chars": ["就", "代", "表", "你", "有", "事", "RIP"],
+    "pinyin": ["jiù", "dài", "biǎo", "nǐ", "yǒu", "shì", "RIP"],
+    "char_meaning": ["then", "represent", "show", "you", "have", "thing", "RIP"],
+    "sentence_meaning": "That means you have a problem, RIP"
+  },
+  {
+    "chars": ["姊", "妹", "不", "用", "淪", "陷", "吧"],
+    "pinyin": ["jiě", "mèi", "bù", "yòng", "lún", "xiàn", "ba"],
+    "char_meaning": ["older sister", "younger sister", "not", "use", "fall", "trap", "softener"],
+    "sentence_meaning": "Sisters don't need to fall for this"
+  },
+  {
+    "chars": ["其", "實", "妳", "很", "偉", "大"],
+    "pinyin": ["qí", "shí", "nǐ", "hěn", "wěi", "dà"],
+    "char_meaning": ["its", "real", "you", "very", "great", "big"],
+    "sentence_meaning": "In fact, you are great"
+  },
+  {
+    "chars": ["沒", "有", "什", "麼", "好", "掙", "扎"],
+    "pinyin": ["méi", "yǒu", "shén", "me", "hǎo", "zhēng", "zhā"],
+    "char_meaning": ["no", "have", "what", "what", "good", "struggle", "struggle"],
+    "sentence_meaning": "There is nothing to struggle with"
+  },
+  {
+    "chars": ["一", "定", "不", "比", "別", "人", "差"],
+    "pinyin": ["yī", "dìng", "bù", "bǐ", "bié", "rén", "chà"],
+    "char_meaning": ["one", "certainly", "not", "compare", "other", "person", "differ"],
+    "sentence_meaning": "You are definitely not worse than others"
+  },
+  {
+    "chars": ["誰", "要", "週", "末", "待", "在", "家"],
+    "pinyin": ["shuí", "yào", "zhōu", "mò", "dāi", "zài", "jiā"],
+    "char_meaning": ["who", "want", "week", "end", "stay", "at", "home"],
+    "sentence_meaning": "Who wants to stay home on the weekend"
+  },
+  {
+    "chars": ["對", "著", "手", "機", "裡", "歐", "巴"],
+    "pinyin": ["duì", "zhe", "shǒu", "jī", "lǐ", "ōu", "bā"],
+    "char_meaning": ["against", "ing", "hand", "machine", "inside", "europe", "bar"],
+    "sentence_meaning": "Facing the 'Oppa' in the phone"
+  },
+  {
+    "chars": ["聽", "著", "他", "說", "的", "情", "話"],
+    "pinyin": ["tīng", "zhe", "tā", "shuō", "de", "qíng", "huà"],
+    "char_meaning": ["listen", "ing", "he", "say", "possessive", "love", "speech"],
+    "sentence_meaning": "Listening to his sweet talk"
+  },
+  {
+    "chars": ["然", "後", "哭", "得", "嘩", "啦", "啦"],
+    "pinyin": ["rán", "hòu", "kū", "dé", "huā", "lā", "lā"],
+    "char_meaning": ["then", "after", "cry", "get", "sound of water", "sound of water", "sound of water"],
+    "sentence_meaning": "And then crying loudly"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["還", "有", "一", "個", "人", "人", "愛", "姊", "妹", "們", "跳", "出", "來"],
+    "pinyin": ["hái", "yǒu", "yī", "gè", "rén", "rén", "ài", "jiě", "mèi", "men", "tiào", "chū", "lái"],
+    "char_meaning": ["still", "have", "one", "measure word", "person", "person", "love", "older sister", "younger sister", "plural", "jump", "out", "come"],
+    "sentence_meaning": "There is still one everyone loves, sisters jump out"
+  },
+  {
+    "chars": ["十", "個", "男", "人", "七", "個", "傻", "八", "個", "呆", "九", "個", "壞"],
+    "pinyin": ["shí", "gè", "nán", "rén", "qī", "gè", "shǎ", "bā", "gè", "dāi", "jiǔ", "gè", "huài"],
+    "char_meaning": ["ten", "measure word", "man", "person", "seven", "measure word", "foolish", "eight", "measure word", "dull", "nine", "measure word", "bad"],
+    "sentence_meaning": "Ten men, seven foolish, eight dull, nine bad"
+  },
+  {
+    "chars": ["趕", "快", "把", "他", "騙", "過", "來", "騙", "過", "來", "騙", "過", "來"],
+    "pinyin": ["gǎn", "kuài", "bǎ", "tā", "piàn", "guò", "lái", "piàn", "guò", "lái", "piàn", "guò", "lái"],
+    "char_meaning": ["hurry", "quickly", "take", "him", "deceive", "pass", "come", "deceive", "pass", "come", "deceive", "pass", "come"],
+    "sentence_meaning": "Hurry, quickly take him to deceive, deceive, deceive"
+  },
+  {
+    "chars": ["最", "好", "的", "男", "人", "最", "棒", "的", "男", "人"],
+    "pinyin": ["zuì", "hǎo", "de", "nán", "rén", "zuì", "bàng", "de", "nán", "rén"],
+    "char_meaning": ["most", "good", "possessive", "man", "person", "most", "great", "possessive", "man", "person"],
+    "sentence_meaning": "The best man, the most amazing man"
+  },
+  {
+    "chars": ["最", "強", "的", "男", "人", "就", "是", "我", "就", "是", "我"],
+    "pinyin": ["zuì", "qiáng", "de", "nán", "rén", "jiù", "shì", "wǒ", "jiù", "shì", "wǒ"],
+    "char_meaning": ["most", "strong", "possessive", "man", "person", "then", "is", "I", "then", "is", "I"],
+    "sentence_meaning": "The strongest man is me, is me"
+  },
+  {
+    "chars": ["最", "好", "的", "男", "人", "最", "棒", "的", "男", "人"],
+    "pinyin": ["zuì", "hǎo", "de", "nán", "rén", "zuì", "bàng", "de", "nán", "rén"],
+    "char_meaning": ["most", "good", "possessive", "man", "person", "most", "great", "possessive", "man", "person"],
+    "sentence_meaning": "The best man, the most amazing man"
+  },
+  {
+    "chars": ["最", "強", "的", "男", "人", "就", "是", "我", "砰", "嗙", "叫"],
+    "pinyin": ["zuì", "qiáng", "de", "nán", "rén", "jiù", "shì", "wǒ", "pēng", "pāng", "jiào"],
+    "char_meaning": ["most", "strong", "possessive", "man", "person", "then", "is", "I", "bang", "bang", "shout"],
+    "sentence_meaning": "The strongest man is me, bang bang call"
+  },
+  {
+    "chars": ["最", "好", "的", "男", "人", "最", "棒", "的", "男", "人"],
+    "pinyin": ["zuì", "hǎo", "de", "nán", "rén", "zuì", "bàng", "de", "nán", "rén"],
+    "char_meaning": ["most", "good", "possessive", "man", "person", "most", "great", "possessive", "man", "person"],
+    "sentence_meaning": "The best man, the most amazing man"
+  },
+  {
+    "chars": ["最", "強", "的", "男", "人", "就", "是", "我", "剩", "下", "的", "那", "一", "個"],
+    "pinyin": ["zuì", "qiáng", "de", "nán", "rén", "jiù", "shì", "wǒ", "shèng", "xià", "de", "nà", "yī", "gè"],
+    "char_meaning": ["most", "strong", "possessive", "man", "person", "then", "is", "I", "remain", "down", "possessive", "that", "one", "measure word"],
+    "sentence_meaning": "The strongest man is me, the remaining one"
+  }
+]

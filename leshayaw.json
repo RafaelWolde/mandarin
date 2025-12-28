@@ -1,0 +1,80 @@
+ [
+    {
+      "chars": ["霜", "月", "落", "庭", "前", "照", "誰", "一", "夜", "無", "眠"],
+      "pinyin": ["shuāng", "yuè", "luò", "tíng", "qián", "zhào", "shuí", "yí", "yè", "wú", "mián"],
+      "char_meaning": ["frosty", "moon", "fall", "courtyard", "front", "shine", "who", "one", "night", "without", "sleep"],
+      "sentence_meaning": "The frosty moon falls before the courtyard, shining on someone who is sleepless all night"
+    },
+    {
+      "chars": ["提", "筆", "驚", "擾", "燭", "火", "回", "憶", "難", "寫"],
+      "pinyin": ["tí", "bǐ", "jīng", "rǎo", "zhú", "huǒ", "huí", "yì", "nán", "xiě"],
+      "char_meaning": ["lift", "pen", "startle", "disturb", "candle", "fire", "return", "memory", "difficult", "write"],
+      "sentence_meaning": "Lifting the pen disturbs the candle flame; memories are difficult to put into words"
+    },
+    {
+      "chars": ["看", "人", "間", "故", "事", "都", "逃", "不", "過", "離", "別"],
+      "pinyin": ["kàn", "rén", "jiān", "gù", "shì", "dōu", "táo", "bù", "guò", "lí", "bié"],
+      "char_meaning": ["look", "human", "world", "story", "matter", "all", "escape", "not", "over", "leave", "parting"],
+      "sentence_meaning": "Observing stories of the mortal world, none can escape the fate of parting"
+    },
+    {
+      "chars": ["數", "不", "完", "的", "陰", "晴", "換", "圓", "缺"],
+      "pinyin": ["shǔ", "bù", "wán", "de", "yīn", "qíng", "huàn", "yuán", "quē"],
+      "char_meaning": ["count", "not", "finish", "possessive", "overcast", "clear", "change", "round", "missing"],
+      "sentence_meaning": "Countless cycles of overcast and clear skies, and the moon waxing and waning"
+    },
+    {
+      "chars": ["半", "生", "風", "雪"],
+      "pinyin": ["bàn", "shēng", "fēng", "xuě"],
+      "char_meaning": ["half", "life", "wind", "snow"],
+      "sentence_meaning": "Through half a life of wind and snow"
+    },
+    {
+      "chars": ["吹", "不", "散", "花", "落", "時", "節", "的", "眼", "淚"],
+      "pinyin": ["chuī", "bú", "sàn", "huā", "luò", "shí", "jié", "de", "yǎn", "lèi"],
+      "char_meaning": ["blow", "not", "disperse", "flower", "fall", "time", "season", "possessive", "eye", "tear"],
+      "sentence_meaning": "The wind cannot disperse the tears shed during the season of falling blossoms"
+    },
+    {
+      "chars": ["喚", "不", "回", "孤", "雁", "終", "要", "南", "飛"],
+      "pinyin": ["huàn", "bù", "huí", "gū", "yàn", "zhōng", "yào", "nán", "fēi"],
+      "char_meaning": ["call", "not", "back", "lone", "goose", "eventually", "must", "south", "fly"],
+      "sentence_meaning": "They cannot be called back; the lone goose must eventually fly south"
+    },
+    {
+      "chars": ["心", "事", "誰", "瞭", "解", "唯", "有", "明", "月", "來", "相", "隨"],
+      "pinyin": ["xīn", "shì", "shuí", "liǎo", "jiě", "wéi", "yǒu", "míng", "yuè", "lái", "xiāng", "suí"],
+      "char_meaning": ["heart", "matter", "who", "understand", "understand", "only", "have", "bright", "moon", "come", "mutually", "follow"],
+      "sentence_meaning": "Who understands the secrets of my heart? Only the bright moon comes to accompany me"
+    },
+    {
+      "chars": ["思", "念", "予", "我", "眉", "間", "又", "幾", "分", "憔", "悴"],
+      "pinyin": ["sī", "niàn", "yǔ", "wǒ", "méi", "jiān", "yòu", "jǐ", "fēn", "qiáo", "cuì"],
+      "char_meaning": ["think", "miss", "give", "me", "eyebrow", "between", "again", "several", "parts", "haggard", "worn"],
+      "sentence_meaning": "This longing adds another measure of weariness to my brow"
+    },
+    {
+      "chars": ["吹", "不", "散", "歲", "月", "留", "下", "的", "眼", "淚"],
+      "pinyin": ["chuī", "bú", "sàn", "suì", "yuè", "liú", "xià", "de", "yǎn", "lèi"],
+      "char_meaning": ["blow", "not", "disperse", "years", "months", "leave", "down", "possessive", "eye", "tear"],
+      "sentence_meaning": "The wind cannot blow away the tears left behind by the passing years"
+    },
+    {
+      "chars": ["換", "不", "回", "青", "絲", "已", "盡", "成", "灰"],
+      "pinyin": ["huàn", "bù", "huí", "qīng", "sī", "yǐ", "jìn", "chéng", "huī"],
+      "char_meaning": ["exchange", "not", "back", "black", "silk/hair", "already", "entirely", "become", "ash"],
+      "sentence_meaning": "Nothing can bring back the past; my black hair has already turned to gray"
+    },
+    {
+      "chars": ["結", "局", "誰", "來", "寫", "寫", "不", "完", "愛", "恨", "纏", "綿"],
+      "pinyin": ["jié", "jú", "shuí", "lái", "xiě", "xiě", "bù", "wán", "ài", "hèn", "chán", "mián"],
+      "char_meaning": ["end", "situation", "who", "come", "write", "write", "not", "finish", "love", "hate", "tangle", "continuous"],
+      "sentence_meaning": "Who will write the ending? One can never finish writing of the lingering love and hate"
+    },
+    {
+      "chars": ["徒", "我", "顧", "影", "自", "憐", "自", "嘆", "又", "幾", "遍"],
+      "pinyin": ["tú", "wǒ", "gù", "yǐng", "zì", "lián", "zì", "tàn", "yòu", "jǐ", "biàn"],
+      "char_meaning": ["only", "me", "look at", "shadow", "self", "pity", "self", "sigh", "again", "several", "times"],
+      "sentence_meaning": "Leaving only me to look at my shadow, pitying myself and sighing time and again"
+    }
+  ]

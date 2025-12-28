@@ -1,4 +1,4 @@
-let files = ["kermacode",'hoihoich', "moonlight", "shigeday","heyahacanto", "zhashew", "skiurgod", "daybyday",
+let files = ["leshayaw" , "kermacode",'hoihoich', "moonlight", "shigeday","heyahacanto", "zhashew", "skiurgod", "daybyday",
 "beautyithin", "heyaha"]
 let urls = ['', 'pGNnHRLVR6c', '']
 let ls = document.getElementById('musics')
@@ -121,6 +121,14 @@ function renderTable(lyrics) {
   });
 
 }
+
+function speakChar(ch) {
+  utterance.rate = .6
+utterance.lang = 'zh-CN'; // 'zh-CN' for Mandarin Chinese (mainland China)
+utterance.text = ch
+synth.speak(utterance)
+}
+
 function renderBlock(lyrics) {
   // Tab to edit
   const container = document.getElementById("lyrics-container");
@@ -135,6 +143,7 @@ function renderBlock(lyrics) {
     sentence.chars.forEach(ch => {
       const td = document.createElement("span");
       td.textContent = '[ '+ch+' ]';
+      td.addEventListener('click', ()=>speakChar(ch))
       rowChars.appendChild(td);
     });
     table.appendChild(rowChars);
@@ -144,12 +153,12 @@ function renderBlock(lyrics) {
     rowPinyin.classList.add('pinyins')
     rowPinyin.addEventListener('click', ()=>{
       if (utterance) {
-        
-      }
-      utterance.rate = .6
+        utterance.rate = .6
       utterance.lang = 'zh-CN'; // 'zh-CN' for Mandarin Chinese (mainland China)
       utterance.text = sentence.chars.join('')
       synth.speak(utterance)
+      }
+      
     })
     sentence.pinyin.forEach(py => {
       const td = document.createElement("span");

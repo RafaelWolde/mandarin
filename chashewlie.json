@@ -1,0 +1,100 @@
+{
+  "song_info": {
+    "title": "歎人間 (Tàn Rénjiān) - Sighing over the Mortal World",
+    "artist": "阿悠悠 (A Youyou)",
+    "genre": "Guofeng (Chinese Style Pop)",
+    "description": "A poetic song reflecting on the fleeting nature of youth, the beauty of wandering, and the bittersweet memories of a past encounter."
+  },
+  "lyrics": [
+    {
+      "chars": ["又", "一", "年", "春", "過", "風", "吹", "雲", "舒", "卷"],
+      "pinyin": ["yòu", "yì", "nián", "chūn", "guò", "fēng", "chuī", "yún", "shū", "juǎn"],
+      "char_meaning": ["again", "one", "year", "spring", "pass", "wind", "blow", "cloud", "unfold", "roll"],
+      "sentence_meaning": "Another year of spring has passed; the wind blows as clouds unfurl and roll."
+    },
+    {
+      "chars": ["微", "風", "白", "帆", "浮", "光", "淺", "淺"],
+      "pinyin": ["wēi", "fēng", "bái", "fān", "fú", "guāng", "qiǎn", "qiǎn"],
+      "char_meaning": ["slight", "wind", "white", "sail", "float", "light", "shallow", "shallow"],
+      "sentence_meaning": "A gentle breeze ripples past white sails, and the light shimmers shallowly on the water."
+    },
+    {
+      "chars": ["偷", "得", "半", "日", "閑", "行", "舟", "碧", "水", "間"],
+      "pinyin": ["tōu", "dé", "bàn", "rì", "xián", "xíng", "zhōu", "bì", "shuǐ", "jiān"],
+      "char_meaning": ["steal", "obtain", "half", "day", "leisure", "row", "boat", "jade-green", "water", "between"],
+      "sentence_meaning": "Stealing half a day of leisure, rowing a boat amidst the jade-green waters."
+    },
+    {
+      "chars": ["紙", "扇", "半", "掩", "無", "意", "惹", "紅", "顏"],
+      "pinyin": ["zhǐ", "shàn", "bàn", "yǎn", "wú", "yì", "rě", "hóng", "yán"],
+      "char_meaning": ["paper", "fan", "half", "hide", "no", "intent", "provoke", "red", "face/beauty"],
+      "sentence_meaning": "With a paper fan half-covering the face, unintentionally catching the eye of a beauty."
+    },
+    {
+      "chars": ["我", "願", "浪", "跡", "於", "青", "山", "外", "不", "問", "今", "昔", "何", "年"],
+      "pinyin": ["wǒ", "yuàn", "làng", "jì", "yú", "qīng", "shān", "wài", "bù", "wèn", "jīn", "xī", "hé", "nián"],
+      "char_meaning": ["I", "wish", "wander", "trace", "at", "green", "mountain", "outside", "not", "ask", "now", "past", "what", "year"],
+      "sentence_meaning": "I am willing to wander beyond the green mountains, never asking what year it is."
+    },
+    {
+      "chars": ["也", "曾", "眷", "戀", "驚", "鴻", "一", "面"],
+      "pinyin": ["yě", "céng", "juàn", "liàn", "jīng", "hóng", "yí", "miàn"],
+      "char_meaning": ["also", "once", "long for", "love", "startled", "swan-goose", "one", "side/glimpse"],
+      "sentence_meaning": "I once longed for that one startling glimpse of a graceful soul."
+    },
+    {
+      "chars": ["擾", "亂", "過", "半", "生", "思", "念"],
+      "pinyin": ["rǎo", "luàn", "guò", "bàn", "shēng", "sī", "niàn"],
+      "char_meaning": ["disturb", "chaos", "past", "half", "life", "think", "miss"],
+      "sentence_meaning": "It threw half a lifetime of my thoughts into disarray."
+    },
+    {
+      "chars": ["歎", "人", "間", "一", "去", "風", "流", "唯", "少", "年"],
+      "pinyin": ["tàn", "rén", "jiān", "yí", "qù", "fēng", "liú", "wéi", "shào", "nián"],
+      "char_meaning": ["sigh", "human", "world", "once", "gone", "romantic/gallant", "only", "young", "years"],
+      "sentence_meaning": "Sighing for the mortal world; once gone, true gallantry belongs only to the youth."
+    },
+    {
+      "chars": ["將", "白", "駒", "輕", "踏", "尋", "山", "海", "作", "詩", "篇"],
+      "pinyin": ["jiāng", "bái", "jū", "qīng", "tà", "xún", "shān", "hǎi", "zuò", "shī", "piān"],
+      "char_meaning": ["will", "white", "colt", "light", "tread", "seek", "mountain", "sea", "make", "poem", "chapter"],
+      "sentence_meaning": "Treading lightly like a white steed through time, seeking mountains and seas to write my poems."
+    },
+    {
+      "chars": ["醉", "花", "間", "幾", "回", "夢", "中", "憶", "風", "月"],
+      "pinyin": ["zuì", "huā", "jiān", "jǐ", "huí", "mèng", "zhōng", "yì", "fēng", "yuè"],
+      "char_meaning": ["drunk", "flower", "between", "how many", "times", "dream", "inside", "recall", "wind", "moon/romance"],
+      "sentence_meaning": "Drunk among the flowers, how many times in dreams have I recalled past romances?"
+    },
+    {
+      "chars": ["新", "籌", "卻", "將", "晚", "與", "店", "家", "借", "個", "酒", "錢"],
+      "pinyin": ["xīn", "chóu", "què", "jiāng", "wǎn", "yǔ", "diàn", "jiā", "jiè", "gè", "jiǔ", "qián"],
+      "char_meaning": ["new", "tally/plans", "but", "will", "late", "with", "shop", "home", "borrow", "measure", "wine", "money"],
+      "sentence_meaning": "My new plans are late; I'll borrow some wine money from the innkeeper."
+    },
+    {
+      "chars": ["今", "夜", "似", "水", "流", "年", "何", "自", "憐"],
+      "pinyin": ["jīn", "yè", "shì", "shuǐ", "liú", "nián", "hé", "zì", "lián"],
+      "char_meaning": ["this", "night", "like", "water", "flow", "year", "why", "self", "pity"],
+      "sentence_meaning": "Tonight, as time flows by like water, why should I pity myself?"
+    },
+    {
+      "chars": ["偏", "偏", "落", "花", "卻", "墜", "入", "我", "的", "指", "尖"],
+      "pinyin": ["piān", "piān", "luò", "huā", "què", "zhuì", "rù", "wǒ", "de", "zhǐ", "jiān"],
+      "char_meaning": ["coincidentally", "coincidentally", "fall", "flower", "but", "fall", "into", "I", "possessive", "finger", "tip"],
+      "sentence_meaning": "Yet coincidentally, a falling petal happens to land right on my fingertip."
+    },
+    {
+      "chars": ["任", "歲", "月", "將", "凡", "塵", "印", "在", "紅", "箋"],
+      "pinyin": ["rèn", "suì", "yuè", "jiāng", "fán", "chén", "yìn", "zài", "hóng", "jiān"],
+      "char_meaning": ["let", "years", "months", "object marker", "mortal", "dust", "print", "at", "red", "stationery"],
+      "sentence_meaning": "Letting the years leave the marks of the mortal world upon my red stationery."
+    },
+    {
+      "chars": ["燈", "火", "意", "闌", "珊", "訴", "不", "盡", "一", "生", "因", "緣"],
+      "pinyin": ["dēng", "huǒ", "yì", "lán", "shān", "sù", "bú", "jìn", "yì", "shēng", "yīn", "yuán"],
+      "char_meaning": ["lamp", "fire", "meaning", "dim", "fading", "tell", "not", "exhaust", "one", "life", "karma", "fate"],
+      "sentence_meaning": "The lantern light is dimming, unable to fully tell the karmic ties of a lifetime."
+    }
+  ]
+}

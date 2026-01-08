@@ -1,4 +1,4 @@
-let files = ["leshayaw" , "kermacode",'hoihoich', "moonlight", "shigeday","heyahacanto", "zhashew", "skiurgod", "daybyday",
+let files = ["chashewlie", "leshayaw" , "kermacode",'hoihoich', "moonlight", "shigeday","heyahacanto", "zhashew", "skiurgod", "daybyday",
 "beautyithin", "heyaha"]
 let urls = ['', 'pGNnHRLVR6c', '']
 let ls = document.getElementById('musics')
@@ -37,6 +37,8 @@ for (var i = 0; i < files.length; i++) {
 function update() {
   fetch('/'+ls.value+'.json').then(reslt=>reslt.json()).then(
   (lyr) => {
+    if(!lyr.length)
+    lyr = lyr.lyrics
       if (fm.value==='tabled') {
         renderTable(lyr)
       } else {

@@ -1,4 +1,12 @@
- [
+{
+  "song_info": {
+    "link": "unknown",
+    "title": "unknown",
+    "artist": "unknown",
+    "genre": "Pop / R&B",
+    "description": "unknown "
+  },
+  "lyrics":[
     {
       "chars": ["老", "天", "保", "佑", "金", "山", "银", "山", "前", "路", "有"],
       "pinyin": ["lǎo", "tiān", "bǎo", "yòu", "jīn", "shān", "yín", "shān", "qián", "lù", "yǒu"],
@@ -240,3 +248,4 @@
       "sentence_meaning": "Should I put down the butcher's knife?"
     }
   ]
+}

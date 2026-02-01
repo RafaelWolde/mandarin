@@ -1,4 +1,12 @@
-[
+{
+  "song_info": {
+    "link": "unknown",
+    "title": "unknown",
+    "artist": "unknown",
+    "genre": "Pop / R&B",
+    "description": "unknown "
+  },
+  "lyrics":[
   {
     "chars": ["十", "個", "男", "人", "啊", "啊", "啊", "啊"],
     "pinyin": ["shí", "gè", "nán", "rén", "ā", "ā", "ā", "ā"],
@@ -419,4 +427,4 @@
     "char_meaning": ["most", "strong", "possessive", "man", "person", "then", "is", "I", "remain", "down", "possessive", "that", "one", "measure word"],
     "sentence_meaning": "The strongest man is me, the remaining one"
   }
-]
+]}

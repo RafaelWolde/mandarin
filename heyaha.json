@@ -1,4 +1,12 @@
-[
+{
+  "song_info": {
+    "link": "unknown",
+    "title": "unknown",
+    "artist": "unknown",
+    "genre": "Pop / R&B",
+    "description": "unknown "
+  },
+  "lyrics":[
     {
       "chars": ["在", "你", "身", "邊", "路", "雖", "遠", "未", "疲", "倦", "，"],
       "pinyin": ["joi", "nǐ", "shēn", "biān", "lù", "suī", "yuǎn", "mèi", "pí", "guin", ","],
@@ -144,3 +152,4 @@
       "sentence_meaning": "Little raindrops, sprinkle away, our hearts are long decided to move forward."
     }
   ]
+}

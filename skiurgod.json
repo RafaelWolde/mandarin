@@ -1,4 +1,12 @@
-[
+{
+  "song_info": {
+    "link": "unknown",
+    "title": "unknown",
+    "artist": "unknown",
+    "genre": "Pop / R&B",
+    "description": "unknown "
+  },
+  "lyrics":[
   {
     "chars": ["我", "們", "這", "裡", "的", "憋", "佬", "仔"],
     "pinyin": ["wǒ", "men", "zhè", "lǐ", "de", "biē", "lǎo", "zǎi"],
@@ -365,4 +373,4 @@
     "char_meaning": ["say", "chat", "study"],
     "sentence_meaning": "Talking about strange stories"
   }
-]
+]}

@@ -1,4 +1,12 @@
-[
+{
+  "song_info": {
+    "link": "unknown",
+    "title": "unknown",
+    "artist": "unknown",
+    "genre": "Pop / R&B",
+    "description": "unknown "
+  },
+  "lyrics":[
     {
       "chars": ["一", "张", "褪", "色", "的", "照", "片"],
       "pinyin": ["yì", "zhāng", "tuì", "sè", "de", "zhào", "piàn"],
@@ -569,4 +577,4 @@
       "char_meaning": ["gradually", "walk", "gradually", "far"],
       "sentence_meaning": "Gradually walking further and further away"
     }
-  ]
+  ]}

@@ -1,4 +1,12 @@
-[
+{
+  "song_info": {
+    "link": "unknown",
+    "title": "unknown",
+    "artist": "unknown",
+    "genre": "Pop / R&B",
+    "description": "unknown "
+  },
+  "lyrics":[
     {
       "chars": ["喺", "你", "身", "邊", "路", "雖", "遠", "未", "疲", "倦", "，"],
       "pinyin": ["hai2", "nei5", "san1", "bin1", "lou6", "seoi1", "jyun5", "mei6", "pei4", "gyun6", ","],
@@ -83,4 +91,4 @@
       "char_meaning": ["small", "rain", "drops", ",", "let go", "heart", "sprinkle", ",", "determination", "heart", "early", "already", "toward", "front", "."],
       "sentence_meaning": "Little raindrops, sprinkle freely, our hearts are long decided to move forward."
     }
-]
+]}

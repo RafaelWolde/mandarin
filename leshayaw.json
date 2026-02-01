@@ -1,4 +1,11 @@
- [
+{
+  "song_info": {
+    "link": "",
+    "title": "半生風雪 (Bànshēng Fēngxuě) - Half a Life of Wind and Snow",
+    "artist": "是七叔呢 (Qi Shu) / Various Artists",
+    "genre": "Guofeng (Traditional Chinese Style Pop)"
+  },
+  "lyrics": [
     {
       "chars": ["霜", "月", "落", "庭", "前", "照", "誰", "一", "夜", "無", "眠"],
       "pinyin": ["shuāng", "yuè", "luò", "tíng", "qián", "zhào", "shuí", "yí", "yè", "wú", "mián"],
@@ -78,3 +85,4 @@
       "sentence_meaning": "Leaving only me to look at my shadow, pitying myself and sighing time and again"
     }
   ]
+}

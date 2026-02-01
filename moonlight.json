@@ -1,4 +1,12 @@
-[
+{
+  "song_info": {
+    "link": "https://ymusicapp.com/watch?v=GuqFouEQWjw",
+    "title": "ME+YOU",
+    "artist": "TWICE",
+    "genre": "Pop / R&B",
+    "description": "A 2025 English‑language title track by TWICE celebrating connection, support, and unwavering friendship and love — released on October 10 as part of their special album *TEN: The Story Goes On*. 1"
+  },
+  "lyrics":[
     {
       "chars": ["月", "光", "色", "女", "子", "香"],
       "pinyin": ["yuè", "guāng", "sè", "nǚ", "zi", "xiāng"],
@@ -179,4 +187,4 @@
       "char_meaning": ["eye", "one", "close", "who", "most", "crazy", "?"],
       "sentence_meaning": "With eyes closed, who is the most arrogant?"
     }
-  ]
+  ]}

@@ -1,0 +1,83 @@
+{
+  "song_info": {
+    "link": "https://ymusicapp.com/watch?v=HegSBovl24I",
+    "title": "跳樓機 (Tiào lóu jī) - Jumping Machine",
+    "artist": "LBI 利比",
+    "genre": "Mandopop / R&B",
+    "description": "A viral Mandarin pop hit comparing the emotional ups and downs of a relationship to a drop tower ride, capturing heartbreak and longing. 0"
+  },
+  "lyrics": [
+    {
+      "chars": ["風", "走", "了", "只", "留", "下", "一", "條", "街", "的", "葉", "落"],
+      "pinyin": ["fēng", "zǒu", "le", "zhǐ", "liú", "xià", "yì", "tiáo", "jiē", "de", "yè", "luò"],
+      "char_meaning": ["wind", "leave", "particle", "only", "leave", "down", "one", "strip", "street", "possessive", "leaf", "fall"],
+      "sentence_meaning": "The wind left, leaving only the fallen leaves on the street. 1"
+    },
+    {
+      "chars": ["你", "走", "了", "只", "留", "下", "我", "雙", "眼", "的", "紅"],
+      "pinyin": ["nǐ", "zǒu", "le", "zhǐ", "liú", "xià", "wǒ", "shuāng", "yǎn", "de", "hóng"],
+      "char_meaning": ["you", "left", "particle", "only", "leave", "down", "me", "pair", "eyes", "possessive", "redness"],
+      "sentence_meaning": "You left, leaving only the redness in my eyes. 2"
+    },
+    {
+      "chars": ["逼", "著", "自", "己", "早", "點", "睡"],
+      "pinyin": ["bī", "zhe", "zì", "jǐ", "zǎo", "diǎn", "shuì"],
+      "char_meaning": ["force", "particle", "self", "self", "early", "bit", "sleep"],
+      "sentence_meaning": "Forcing myself to sleep early. 3"
+    },
+    {
+      "chars": ["能", "不", "能", "再", "做", "一", "個", "有", "你", "的", "美", "夢"],
+      "pinyin": ["néng", "bù", "néng", "zài", "zuò", "yì", "gè", "yǒu", "nǐ", "de", "měi", "mèng"],
+      "char_meaning": ["can", "not", "can", "again", "do", "one", "measure word", "have", "you", "possessive", "beautiful", "dream"],
+      "sentence_meaning": "Can I have one more sweet dream with you in it? 4"
+    },
+    {
+      "chars": ["我", "好", "像", "一", "束", "極", "光"],
+      "pinyin": ["wǒ", "hǎo", "xiàng", "yì", "shù", "jí", "guāng"],
+      "char_meaning": ["I", "very", "like", "one", "bundle", "extreme", "light"],
+      "sentence_meaning": "I feel like a beam of aurora light. 5"
+    },
+    {
+      "chars": ["守", "在", "遙", "遠", "的", "世", "界", "盡", "頭"],
+      "pinyin": ["shǒu", "zài", "yáo", "yuǎn", "de", "shì", "jiè", "jìn", "tóu"],
+      "char_meaning": ["guard", "at", "distant", "far", "possessive", "world", "boundary", "end", "head"],
+      "sentence_meaning": "Standing guard at the edge of a distant world. 6"
+    },
+    {
+      "chars": ["看", "過", "了", "你", "的", "眼", "眸"],
+      "pinyin": ["kàn", "guò", "le", "nǐ", "de", "yǎn", "móu"],
+      "char_meaning": ["see", "past", "particle", "you", "possessive", "eye", "pupil"],
+      "sentence_meaning": "After seeing your gaze. 7"
+    },
+    {
+      "chars": ["才", "知", "道", "孤", "獨", "很", "難", "忍", "受"],
+      "pinyin": ["cái", "zhī", "dào", "gū", "dú", "hěn", "nán", "rěn", "shòu"],
+      "char_meaning": ["only then", "know", "way", "alone", "solitary", "very", "difficult", "endure", "receive"],
+      "sentence_meaning": "Only then did I know how hard loneliness is to endure. 8"
+    },
+    {
+      "chars": ["Baby", "我", "們", "的", "感", "情", "好", "像", "跳", "樓", "機"],
+      "pinyin": ["Baby", "wǒ", "men", "de", "gǎn", "qíng", "hǎo", "xiàng", "tiào", "lóu", "jī"],
+      "char_meaning": ["Baby", "we", "plural", "possessive", "feeling", "emotion", "very", "like", "jump", "building", "machine"],
+      "sentence_meaning": "Baby, our relationship is like a drop tower ride. 9"
+    },
+    {
+      "chars": ["讓", "我", "突", "然", "地", "升", "空", "又", "急", "速", "落", "地"],
+      "pinyin": ["ràng", "wǒ", "tū", "rán", "de", "shēng", "kōng", "yòu", "jí", "sù", "luò", "dì"],
+      "char_meaning": ["let", "me", "sudden", "particle", "de", "rise", "sky", "again", "fast", "speed", "fall", "ground"],
+      "sentence_meaning": "Lifting me up suddenly, then crashing me down fast. 10"
+    },
+    {
+      "chars": ["你", "帶", "給", "我", "一", "場", "瘋", "狂"],
+      "pinyin": ["nǐ", "dài", "gěi", "wǒ", "yì", "chǎng", "fēng", "kuáng"],
+      "char_meaning": ["you", "bring", "give", "me", "a", "scene", "crazy", "madness"],
+      "sentence_meaning": "You brought me a whirlwind of madness. 11"
+    },
+    {
+      "chars": ["劫", "後", "餘", "生", "好", "難", "呼", "吸"],
+      "pinyin": ["jié", "hòu", "yú", "shēng", "hǎo", "nán", "hū", "xī"],
+      "char_meaning": ["after", "disaster", "remaining", "life", "very", "difficult", "breathe", "inhale"],
+      "sentence_meaning": "Surviving the wreckage, it’s hard to breathe. 12"
+    }
+  ]
+}

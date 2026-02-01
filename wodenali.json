@@ -1,0 +1,89 @@
+{
+  "song_info": {
+    "link": "https://ymusicapp.com/watch?v=w0dMz8RBG7g",
+    "title": "我的歌聲裏 (Wǒ De Gēshēng Lǐ) - You Exist in My Song",
+    "artist": "曲婉婷 (Wanting Qu)",
+    "genre": "Pop / Piano Ballad",
+    "description": "One of the most iconic Mandopop hits of the early 2010s, exploring the suddenness of love and the permanence of memories even after someone leaves."
+  },
+  "lyrics": [
+    {
+      "chars": ["沒", "有", "一", "點", "點", "防", "備"],
+      "pinyin": ["méi", "yǒu", "yì", "diǎn", "diǎn", "fáng", "bèi"],
+      "char_meaning": ["not", "have", "one", "bit", "bit", "guard", "prepare"],
+      "sentence_meaning": "Without a single bit of warning"
+    },
+    {
+      "chars": ["也", "沒", "有", "一", "絲", "顧", "慮"],
+      "pinyin": ["yě", "méi", "yǒu", "yì", "sī", "gù", "lǜ"],
+      "char_meaning": ["also", "not", "have", "one", "thread", "concern", "consider"],
+      "sentence_meaning": "And without a single trace of hesitation"
+    },
+    {
+      "chars": ["你", "就", "這", "樣", "出", "現"],
+      "pinyin": ["nǐ", "jiù", "zhè", "yàng", "chū", "xiàn"],
+      "char_meaning": ["you", "just", "this", "way", "out", "appear"],
+      "sentence_meaning": "You appeared just like this"
+    },
+    {
+      "chars": ["在", "我", "的", "世", "界", "裏"],
+      "pinyin": ["zài", "wǒ", "de", "shì", "jiè", "lǐ"],
+      "char_meaning": ["in", "I", "possessive", "world", "boundary", "inside"],
+      "sentence_meaning": "In my world"
+    },
+    {
+      "chars": ["帶", "給", "我", "驚", "喜", "情", "不", "自", "已"],
+      "pinyin": ["dài", "gěi", "wǒ", "jīng", "xǐ", "qíng", "bù", "zì", "yǐ"],
+      "char_meaning": ["bring", "give", "me", "surprise", "joy", "emotion", "not", "self", "stop"],
+      "sentence_meaning": "Bringing me surprises, making me lose control of my feelings"
+    },
+    {
+      "chars": ["可", "是", "你", "偏", "又", "這", "樣"],
+      "pinyin": ["kě", "shì", "nǐ", "piān", "yòu", "zhè", "yàng"],
+      "char_meaning": ["but", "be", "you", "contrary to expectations", "again", "this", "way"],
+      "sentence_meaning": "But then, unexpectedly, you also"
+    },
+    {
+      "chars": ["在", "我", "不", "知", "不", "覺", "中", "悄", "悄", "地", "消", "失"],
+      "pinyin": ["zài", "wǒ", "bù", "zhī", "bù", "jué", "zhōng", "qiāo", "qiāo", "de", "xiāo", "shī"],
+      "char_meaning": ["at", "me", "not", "know", "not", "feel", "middle", "quietly", "quietly", "particle", "vanish", "lose"],
+      "sentence_meaning": "Quietly disappeared before I even realized it"
+    },
+    {
+      "chars": ["你", "存", "在", "我", "深", "深", "的", "腦", "海", "裏"],
+      "pinyin": ["nǐ", "cún", "zài", "wǒ", "shēn", "shēn", "de", "nǎo", "hǎi", "lǐ"],
+      "char_meaning": ["you", "exist", "at", "me", "deep", "deep", "possessive", "brain", "sea", "inside"],
+      "sentence_meaning": "You exist in the deep recesses of my mind"
+    },
+    {
+      "chars": ["我", "的", "夢", "裏", "我", "的", "心", "裏", "我", "的", "歌", "聲", "裏"],
+      "pinyin": ["wǒ", "de", "mèng", "lǐ", "wǒ", "de", "xīn", "lǐ", "wǒ", "de", "gē", "shēng", "lǐ"],
+      "char_meaning": ["my", "dream", "in", "my", "heart", "in", "my", "song", "sound", "in"],
+      "sentence_meaning": "In my dreams, in my heart, and in my song"
+    },
+    {
+      "chars": ["儘", "管", "你", "我", "是", "陌", "生", "人", "是", "過", "路", "人"],
+      "pinyin": ["jǐn", "guǎn", "nǐ", "wǒ", "shì", "mò", "shēng", "rén", "shì", "guò", "lù", "rén"],
+      "char_meaning": ["despite", "manage", "you", "I", "be", "stranger", "born", "person", "be", "pass", "road", "person"],
+      "sentence_meaning": "Even though you and I were just strangers, just passersby"
+    },
+    {
+      "chars": ["但", "彼", "此", "還", "是", "感", "覺", "到", "了", "對", "方"],
+      "pinyin": ["dàn", "bǐ", "cǐ", "hái", "shì", "gǎn", "jué", "dào", "le", "duì", "fāng"],
+      "char_meaning": ["but", "each", "other", "still", "be", "feel", "sense", "arrive", "past tense", "opposite", "side"],
+      "sentence_meaning": "But we still felt each other's presence"
+    },
+    {
+      "chars": ["世", "界", "之", "大", "為", "何", "我", "們", "相", "遇"],
+      "pinyin": ["shì", "jiè", "zhī", "dà", "wèi", "hé", "wǒ", "men", "xiāng", "yù"],
+      "char_meaning": ["world", "boundary", "possessive", "big", "for", "what", "we", "plural", "mutually", "meet"],
+      "sentence_meaning": "In such a vast world, why did we meet?"
+    },
+    {
+      "chars": ["難", "道", "是", "緣", "分", "難", "道", "是", "天", "意"],
+      "pinyin": ["nán", "dào", "shì", "yuán", "fèn", "nán", "dào", "shì", "tiān", "yì"],
+      "char_meaning": ["hard", "say/rhetorical", "be", "fate", "portion", "hard", "say", "be", "heaven", "intent"],
+      "sentence_meaning": "Could it be fate? Could it be destiny?"
+    }
+  ]
+}

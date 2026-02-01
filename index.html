@@ -46,7 +46,16 @@
     <option value="blocked">Blocked</option>
     <option value="tabled">Tabled</option>
   </select>
+
 </div>
+    <details id="song-card" class="song-card">
+  <h2 class="song-title"></h2>
+  <p class="song-artist"></p>
+  <p class="song-genre"></p>
+  <p class="song-description"></p>
+  <a class="song-link" target="_blank" rel="noopener noreferrer">Listen</a>
+
+  </details>
 <div>
   <input type="checkbox" name="char" id="char" />
   <input type="checkbox" name="pinyin" id="pinyin">
@@ -65,11 +74,7 @@ https://github.com/RafaelWold/mandarin.git
 
 <button onclick="clearC()">Clear</button>
 
-
-
-<script src="recon.js"></script>
 </section>
 <script src="main.js" type="text/javascript" charset="utf-8"></script>
-<script src='https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js'></script>
 </body>
 </html>

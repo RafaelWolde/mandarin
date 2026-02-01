@@ -1,4 +1,4 @@
-let files = ["chashewlie", "leshayaw" , "kermacode",'hoihoich', "moonlight", "shigeday","heyahacanto", "zhashew", "skiurgod", "daybyday",
+let files = ["jumpinmachin","wodenali","chashewlie", "leshayaw" , "kermacode",'hoihoich', "moonlight", "shigeday","heyahacanto", "zhashew", "skiurgod", "daybyday",
 "beautyithin", "heyaha"]
 let urls = ['', 'pGNnHRLVR6c', '']
 let ls = document.getElementById('musics')
@@ -37,6 +37,9 @@ for (var i = 0; i < files.length; i++) {
 function update() {
   fetch('/'+ls.value+'.json').then(reslt=>reslt.json()).then(
   (lyr) => {
+    if (lyr.song_info)
+    setInfo(lyr.song_info)
+      
     if(!lyr.length)
     lyr = lyr.lyrics
       if (fm.value==='tabled') {
@@ -192,6 +195,18 @@ function renderBlock(lyrics) {
     container.appendChild(table);
   });
 
+}
+function setInfo(song) {
+  const card = document.getElementById("song-card");
+
+  card.querySelector(".song-title").textContent = song.title;
+  card.querySelector(".song-artist").textContent = `Artist: ${song.artist}`;
+  card.querySelector(".song-genre").textContent = `Genre: ${song.genre}`;
+  card.querySelector(".song-description").textContent = song.description;
+
+  const link = card.querySelector(".song-link");
+  link.href = song.link;
+  link.textContent = "▶ Listen on YMusic";
 }
 
 update()

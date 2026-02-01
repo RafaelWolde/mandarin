@@ -1,22 +1,24 @@
+
 {
   "song_info": {
-    "link": "https://ymusicapp.com/watch?v=w0dMz8RBG7g",
-    "title": "我的歌聲裏 (Wǒ De Gēshēng Lǐ) - You Exist in My Song",
+        "link": "https://ymusicapp.com/watch?v=w0dMz8RBG7g",
+
+    "title": "我的歌聲裡 (Wǒ De Gēshēng Lǐ) - You Exist in My Song",
     "artist": "曲婉婷 (Wanting Qu)",
-    "genre": "Pop / Piano Ballad",
-    "description": "One of the most iconic Mandopop hits of the early 2010s, exploring the suddenness of love and the permanence of memories even after someone leaves."
+    "genre": "Mandopop / Pop Ballad",
+    "description": "Released in 2012, this piano ballad became a massive hit across Asia. It describes the profound impact of a sudden, brief encounter that leaves a lasting imprint on one's soul."
   },
   "lyrics": [
     {
       "chars": ["沒", "有", "一", "點", "點", "防", "備"],
       "pinyin": ["méi", "yǒu", "yì", "diǎn", "diǎn", "fáng", "bèi"],
       "char_meaning": ["not", "have", "one", "bit", "bit", "guard", "prepare"],
-      "sentence_meaning": "Without a single bit of warning"
+      "sentence_meaning": "Without any warning or preparation"
     },
     {
       "chars": ["也", "沒", "有", "一", "絲", "顧", "慮"],
       "pinyin": ["yě", "méi", "yǒu", "yì", "sī", "gù", "lǜ"],
-      "char_meaning": ["also", "not", "have", "one", "thread", "concern", "consider"],
+      "char_meaning": ["also", "not", "have", "one", "thread", "concern", "worry"],
       "sentence_meaning": "And without a single trace of hesitation"
     },
     {
@@ -26,52 +28,94 @@
       "sentence_meaning": "You appeared just like this"
     },
     {
-      "chars": ["在", "我", "的", "世", "界", "裏"],
+      "chars": ["在", "我", "的", "世", "界", "裡"],
       "pinyin": ["zài", "wǒ", "de", "shì", "jiè", "lǐ"],
-      "char_meaning": ["in", "I", "possessive", "world", "boundary", "inside"],
-      "sentence_meaning": "In my world"
+      "char_meaning": ["in", "my", "possessive", "world", "boundary", "inside"],
+      "sentence_meaning": "Inside my world"
     },
     {
       "chars": ["帶", "給", "我", "驚", "喜", "情", "不", "自", "已"],
       "pinyin": ["dài", "gěi", "wǒ", "jīng", "xǐ", "qíng", "bù", "zì", "yǐ"],
       "char_meaning": ["bring", "give", "me", "surprise", "joy", "emotion", "not", "self", "stop"],
-      "sentence_meaning": "Bringing me surprises, making me lose control of my feelings"
+      "sentence_meaning": "Bringing me surprises, making my emotions uncontrollable"
     },
     {
       "chars": ["可", "是", "你", "偏", "又", "這", "樣"],
       "pinyin": ["kě", "shì", "nǐ", "piān", "yòu", "zhè", "yàng"],
-      "char_meaning": ["but", "be", "you", "contrary to expectations", "again", "this", "way"],
-      "sentence_meaning": "But then, unexpectedly, you also"
+      "char_meaning": ["but", "be", "you", "unexpectedly/contrarily", "again", "this", "way"],
+      "sentence_meaning": "But then, unexpectedly, you also acted this way"
     },
     {
       "chars": ["在", "我", "不", "知", "不", "覺", "中", "悄", "悄", "地", "消", "失"],
       "pinyin": ["zài", "wǒ", "bù", "zhī", "bù", "jué", "zhōng", "qiāo", "qiāo", "de", "xiāo", "shī"],
-      "char_meaning": ["at", "me", "not", "know", "not", "feel", "middle", "quietly", "quietly", "particle", "vanish", "lose"],
-      "sentence_meaning": "Quietly disappeared before I even realized it"
+      "char_meaning": ["in", "I", "not", "know", "not", "feel", "middle", "quietly", "quietly", "particle", "vanish", "lose"],
+      "sentence_meaning": "Quietly disappearing before I even realized it"
     },
     {
-      "chars": ["你", "存", "在", "我", "深", "深", "的", "腦", "海", "裏"],
+      "chars": ["從", "我", "的", "世", "界", "裡", "沒", "有", "音", "訊"],
+      "pinyin": ["cóng", "wǒ", "de", "shì", "jiè", "lǐ", "méi", "yǒu", "yīn", "xùn"],
+      "char_meaning": ["from", "my", "possessive", "world", "inside", "not", "have", "sound", "news"],
+      "sentence_meaning": "With no news from you in my world"
+    },
+    {
+      "chars": ["剩", "下", "的", "只", "是", "回", "憶"],
+      "pinyin": ["shèng", "xià", "de", "zhǐ", "shì", "huí", "yì"],
+      "char_meaning": ["remain", "down", "possessive", "only", "be", "return", "memory"],
+      "sentence_meaning": "What's left is only the memories"
+    },
+    {
+      "chars": ["你", "存", "在", "我", "深", "深", "的", "腦", "海", "裡"],
       "pinyin": ["nǐ", "cún", "zài", "wǒ", "shēn", "shēn", "de", "nǎo", "hǎi", "lǐ"],
-      "char_meaning": ["you", "exist", "at", "me", "deep", "deep", "possessive", "brain", "sea", "inside"],
-      "sentence_meaning": "You exist in the deep recesses of my mind"
+      "char_meaning": ["you", "exist", "at", "my", "deep", "deep", "possessive", "brain", "sea", "inside"],
+      "sentence_meaning": "You exist in the depths of my mind"
     },
     {
-      "chars": ["我", "的", "夢", "裏", "我", "的", "心", "裏", "我", "的", "歌", "聲", "裏"],
+      "chars": ["我", "的", "夢", "裡", "我", "的", "心", "裡", "我", "的", "歌", "聲", "裡"],
       "pinyin": ["wǒ", "de", "mèng", "lǐ", "wǒ", "de", "xīn", "lǐ", "wǒ", "de", "gē", "shēng", "lǐ"],
-      "char_meaning": ["my", "dream", "in", "my", "heart", "in", "my", "song", "sound", "in"],
+      "char_meaning": ["my", "possessive", "dream", "inside", "my", "heart", "inside", "my", "song", "sound", "inside"],
       "sentence_meaning": "In my dreams, in my heart, and in my song"
+    },
+    {
+      "chars": ["還", "記", "得", "我", "們", "曾", "經", "肩", "並", "肩", "一", "起", "走", "過"],
+      "pinyin": ["hái", "jì", "de", "wǒ", "men", "céng", "jīng", "jiān", "bìng", "jiān", "yì", "qǐ", "zǒu", "guò"],
+      "char_meaning": ["still", "remember", "verb-particle", "we", "plural", "once", "past", "shoulder", "alongside", "shoulder", "together", "rise", "walk", "past"],
+      "sentence_meaning": "I still remember how we once walked shoulder to shoulder"
+    },
+    {
+      "chars": ["那", "段", "繁", "華", "巷", "口"],
+      "pinyin": ["nà", "duàn", "fán", "huá", "xiàng", "kǒu"],
+      "char_meaning": ["that", "section", "busy/flourishing", "prosperous", "alley", "mouth"],
+      "sentence_meaning": "Through that bustling alleyway"
     },
     {
       "chars": ["儘", "管", "你", "我", "是", "陌", "生", "人", "是", "過", "路", "人"],
       "pinyin": ["jǐn", "guǎn", "nǐ", "wǒ", "shì", "mò", "shēng", "rén", "shì", "guò", "lù", "rén"],
-      "char_meaning": ["despite", "manage", "you", "I", "be", "stranger", "born", "person", "be", "pass", "road", "person"],
-      "sentence_meaning": "Even though you and I were just strangers, just passersby"
+      "char_meaning": ["despite", "care", "you", "me", "be", "strange", "born", "person", "be", "pass", "road", "person"],
+      "sentence_meaning": "Despite you and I being strangers, being mere passersby"
     },
     {
       "chars": ["但", "彼", "此", "還", "是", "感", "覺", "到", "了", "對", "方"],
       "pinyin": ["dàn", "bǐ", "cǐ", "hái", "shì", "gǎn", "jué", "dào", "le", "duì", "fāng"],
       "char_meaning": ["but", "each", "other", "still", "be", "feel", "sense", "arrive", "past tense", "opposite", "side"],
       "sentence_meaning": "But we still felt each other's presence"
+    },
+    {
+      "chars": ["一", "個", "眼", "神", "一", "個", "心", "跳"],
+      "pinyin": ["yí", "gè", "yǎn", "shén", "yí", "gè", "xīn", "tiào"],
+      "char_meaning": ["one", "measure word", "eye", "spirit/glance", "one", "measure word", "heart", "jump"],
+      "sentence_meaning": "A glance, a heartbeat"
+    },
+    {
+      "chars": ["一", "種", "意", "想", "不", "到", "的", "快", "樂"],
+      "pinyin": ["yì", "zhǒng", "yì", "xiǎng", "bú", "dào", "de", "kuài", "lè"],
+      "char_meaning": ["one", "kind", "intent", "think", "not", "arrive", "possessive", "fast", "joy"],
+      "sentence_meaning": "An unexpected kind of happiness"
+    },
+    {
+      "chars": ["好", "像", "是", "一", "場", "夢", "境", "命", "中", "注", "定"],
+      "pinyin": ["hǎo", "xiàng", "shì", "yì", "chǎng", "mèng", "jìng", "mìng", "zhōng", "zhù", "dìng"],
+      "char_meaning": ["good", "resemble", "be", "one", "measure word", "dream", "environment", "fate", "middle", "pour/fixed", "set"],
+      "sentence_meaning": "Like a dream sequence, destined by fate"
     },
     {
       "chars": ["世", "界", "之", "大", "為", "何", "我", "們", "相", "遇"],
@@ -82,8 +126,8 @@
     {
       "chars": ["難", "道", "是", "緣", "分", "難", "道", "是", "天", "意"],
       "pinyin": ["nán", "dào", "shì", "yuán", "fèn", "nán", "dào", "shì", "tiān", "yì"],
-      "char_meaning": ["hard", "say/rhetorical", "be", "fate", "portion", "hard", "say", "be", "heaven", "intent"],
-      "sentence_meaning": "Could it be fate? Could it be destiny?"
+      "char_meaning": ["hard", "say/rhetorical", "be", "fate", "division/luck", "hard", "say", "be", "heaven", "intent"],
+      "sentence_meaning": "Could it be fate? Could it be heaven's will?"
     }
   ]
 }

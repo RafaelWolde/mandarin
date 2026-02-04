@@ -1,0 +1,82 @@
+{
+  "song_info": {
+    "title": "跳樓機 (Tiào Lóu Jī) - Drop Tower",
+    "artist": "李聖霖 (Li Shenglin)",
+    "genre": "Mandopop / Emotional Ballad",
+    "description": "A heart-wrenching song that uses the 'Drop Tower' amusement park ride as a metaphor for the extreme highs and sudden, devastating lows of a failing relationship."
+  },
+  "lyrics": [
+    {
+      "chars": ["風", "走", "了", "只", "留", "下", "一", "條", "街", "的", "葉", "落"],
+      "pinyin": ["fēng", "zǒu", "le", "zhǐ", "liú", "xià", "yì", "tiáo", "jiē", "de", "yè", "luò"],
+      "char_meaning": ["wind", "go", "past", "only", "leave", "down", "one", "strip", "street", "possessive", "leaf", "fall"],
+      "sentence_meaning": "The wind has gone, leaving only fallen leaves across the street"
+    },
+    {
+      "chars": ["你", "走", "了", "只", "留", "下", "我", "雙", "眼", "的", "紅"],
+      "pinyin": ["nǐ", "zǒu", "le", "zhǐ", "liú", "xià", "wǒ", "shuāng", "yǎn", "de", "hóng"],
+      "char_meaning": ["you", "go", "past", "only", "leave", "down", "I", "pair", "eye", "possessive", "red"],
+      "sentence_meaning": "You have gone, leaving only the redness in my eyes from crying"
+    },
+    {
+      "chars": ["我", "好", "像", "一", "束", "極", "光"],
+      "pinyin": ["wǒ", "hǎo", "xiàng", "yí", "shù", "jí", "guāng"],
+      "char_meaning": ["I", "very", "resemble", "one", "beam", "extreme", "light"],
+      "sentence_meaning": "I am like a beam of aurora"
+    },
+    {
+      "chars": ["守", "在", "遙", "遠", "的", "世", "界", "盡", "頭"],
+      "pinyin": ["shǒu", "zài", "yáo", "yuǎn", "de", "shì", "jiè", "jìn", "tóu"],
+      "char_meaning": ["guard", "at", "distant", "far", "possessive", "world", "boundary", "end", "head"],
+      "sentence_meaning": "Waiting at the distant edge of the world"
+    },
+    {
+      "chars": ["那", "麼", "硬", "的", "南", "牆", "非", "要", "撞"],
+      "pinyin": ["nà", "me", "yìng", "de", "nán", "qiáng", "fēi", "yào", "zhuàng"],
+      "char_meaning": ["that", "manner", "hard", "possessive", "south", "wall", "must", "want", "hit"],
+      "sentence_meaning": "Insisting on hitting that hard southern wall (refusing to give up despite the pain)"
+    },
+    {
+      "chars": ["我", "們", "的", "感", "情", "好", "像", "跳", "樓", "機"],
+      "pinyin": ["wǒ", "men", "de", "gǎn", "qíng", "hǎo", "xiàng", "tiào", "lóu", "jī"],
+      "char_meaning": ["we", "plural", "possessive", "feeling", "emotion", "good", "resemble", "jump", "building", "machine"],
+      "sentence_meaning": "Our relationship is like a drop tower ride"
+    },
+    {
+      "chars": ["讓", "我", "突", "然", "地", "升", "空", "又", "急", "速", "落", "地"],
+      "pinyin": ["ràng", "wǒ", "tū", "rán", "de", "shēng", "kōng", "yòu", "jí", "sù", "luò", "dì"],
+      "char_meaning": ["let", "me", "suddenly", "manner", "rise", "sky", "again", "urgent", "speed", "fall", "ground"],
+      "sentence_meaning": "Making me suddenly soar into the sky, then crash to the ground at high speed"
+    },
+    {
+      "chars": ["劫", "後", "餘", "生", "好", "難", "呼", "吸"],
+      "pinyin": ["jié", "hòu", "yú", "shēng", "hǎo", "nán", "hū", "xī"],
+      "char_meaning": ["disaster", "after", "remainder", "life", "very", "difficult", "exhale", "inhale"],
+      "sentence_meaning": "It's so hard to breathe after surviving this disaster"
+    },
+    {
+      "chars": ["那", "天", "的", "天", "氣", "難", "得", "放", "晴"],
+      "pinyin": ["nà", "tiān", "de", "tiān", "qì", "nán", "dé", "fàng", "qíng"],
+      "char_meaning": ["that", "day", "possessive", "sky", "air/weather", "difficult", "obtain", "release", "clear"],
+      "sentence_meaning": "The weather that day was rarely clear"
+    },
+    {
+      "chars": ["你", "說", "的", "話", "卻", "把", "我", "困", "在", "雨", "季"],
+      "pinyin": ["nǐ", "shuō", "de", "huà", "què", "bǎ", "wǒ", "kùn", "zài", "yǔ", "jì"],
+      "char_meaning": ["you", "speak", "possessive", "words", "but", "object marker", "me", "trap", "at", "rain", "season"],
+      "sentence_meaning": "But the words you said trapped me in a rainy season"
+    },
+    {
+      "chars": ["就", "承", "認", "還", "是", "在", "意", "吧"],
+      "pinyin": ["jiù", "chéng", "rèn", "hái", "shì", "zài", "yì", "ba"],
+      "char_meaning": ["just", "accept", "recognize", "still", "be", "at", "meaning/care", "particle"],
+      "sentence_meaning": "Just admit that you still care"
+    },
+    {
+      "chars": ["哪怕", "騙", "騙", "我", "也", "可", "以"],
+      "pinyin": ["nǎ", "pà", "piàn", "piàn", "wǒ", "yě", "kě", "yǐ"],
+      "char_meaning": ["even if", "fear", "lie", "lie", "me", "also", "can", "use"],
+      "sentence_meaning": "Even if it's just a lie to trick me, that's okay too"
+    }
+  ]
+}

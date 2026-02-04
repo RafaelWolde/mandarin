@@ -1,83 +1,197 @@
 {
   "song_info": {
     "link": "https://ymusicapp.com/watch?v=HegSBovl24I",
-    "title": "跳樓機 (Tiào lóu jī) - Jumping Machine",
-    "artist": "LBI 利比",
-    "genre": "Mandopop / R&B",
-    "description": "A viral Mandarin pop hit comparing the emotional ups and downs of a relationship to a drop tower ride, capturing heartbreak and longing. 0"
+    "title": "跳樓機 (Tiào Lóu Jī) - Drop Tower",
+    "artist": "李聖霖 (Li Shenglin)",
+    "genre": "Mandopop / Emotional Ballad",
+    "description": "A visceral depiction of a toxic or one-sided relationship, comparing the emotional whiplash to a 'Drop Tower' amusement park ride."
   },
   "lyrics": [
     {
       "chars": ["風", "走", "了", "只", "留", "下", "一", "條", "街", "的", "葉", "落"],
       "pinyin": ["fēng", "zǒu", "le", "zhǐ", "liú", "xià", "yì", "tiáo", "jiē", "de", "yè", "luò"],
-      "char_meaning": ["wind", "leave", "particle", "only", "leave", "down", "one", "strip", "street", "possessive", "leaf", "fall"],
-      "sentence_meaning": "The wind left, leaving only the fallen leaves on the street. 1"
+      "char_meaning": ["wind", "left", "past", "only", "leave", "down", "one", "measure", "street", "possessive", "leaf", "fall"],
+      "sentence_meaning": "The wind is gone, leaving only fallen leaves across the street."
     },
     {
       "chars": ["你", "走", "了", "只", "留", "下", "我", "雙", "眼", "的", "紅"],
       "pinyin": ["nǐ", "zǒu", "le", "zhǐ", "liú", "xià", "wǒ", "shuāng", "yǎn", "de", "hóng"],
-      "char_meaning": ["you", "left", "particle", "only", "leave", "down", "me", "pair", "eyes", "possessive", "redness"],
-      "sentence_meaning": "You left, leaving only the redness in my eyes. 2"
+      "char_meaning": ["you", "left", "past", "only", "leave", "down", "I", "pair", "eye", "possessive", "red"],
+      "sentence_meaning": "You are gone, leaving only the redness in my eyes."
     },
     {
       "chars": ["逼", "著", "自", "己", "早", "點", "睡"],
       "pinyin": ["bī", "zhe", "zì", "jǐ", "zǎo", "diǎn", "shuì"],
-      "char_meaning": ["force", "particle", "self", "self", "early", "bit", "sleep"],
-      "sentence_meaning": "Forcing myself to sleep early. 3"
+      "char_meaning": ["force", "ing", "self", "self", "early", "bit", "sleep"],
+      "sentence_meaning": "Forcing myself to go to sleep early."
     },
     {
       "chars": ["能", "不", "能", "再", "做", "一", "個", "有", "你", "的", "美", "夢"],
-      "pinyin": ["néng", "bù", "néng", "zài", "zuò", "yì", "gè", "yǒu", "nǐ", "de", "měi", "mèng"],
-      "char_meaning": ["can", "not", "can", "again", "do", "one", "measure word", "have", "you", "possessive", "beautiful", "dream"],
-      "sentence_meaning": "Can I have one more sweet dream with you in it? 4"
+      "pinyin": ["néng", "bù", "néng", "zài", "zuò", "yí", "gè", "yǒu", "nǐ", "de", "měi", "mèng"],
+      "char_meaning": ["can", "not", "can", "again", "make", "one", "measure", "have", "you", "possessive", "beautiful", "dream"],
+      "sentence_meaning": "Hoping I can have another beautiful dream with you in it."
     },
     {
       "chars": ["我", "好", "像", "一", "束", "極", "光"],
-      "pinyin": ["wǒ", "hǎo", "xiàng", "yì", "shù", "jí", "guāng"],
-      "char_meaning": ["I", "very", "like", "one", "bundle", "extreme", "light"],
-      "sentence_meaning": "I feel like a beam of aurora light. 5"
+      "pinyin": ["wǒ", "hǎo", "xiàng", "yí", "shù", "jí", "guāng"],
+      "char_meaning": ["I", "resemble", "resemble", "one", "beam", "extreme", "light"],
+      "sentence_meaning": "I am like a beam of aurora."
     },
     {
       "chars": ["守", "在", "遙", "遠", "的", "世", "界", "盡", "頭"],
       "pinyin": ["shǒu", "zài", "yáo", "yuǎn", "de", "shì", "jiè", "jìn", "tóu"],
       "char_meaning": ["guard", "at", "distant", "far", "possessive", "world", "boundary", "end", "head"],
-      "sentence_meaning": "Standing guard at the edge of a distant world. 6"
+      "sentence_meaning": "Waiting at the distant edge of the world."
     },
     {
       "chars": ["看", "過", "了", "你", "的", "眼", "眸"],
       "pinyin": ["kàn", "guò", "le", "nǐ", "de", "yǎn", "móu"],
-      "char_meaning": ["see", "past", "particle", "you", "possessive", "eye", "pupil"],
-      "sentence_meaning": "After seeing your gaze. 7"
+      "char_meaning": ["look", "past", "past tense", "your", "possessive", "eye", "pupil"],
+      "sentence_meaning": "After looking into your eyes,"
     },
     {
       "chars": ["才", "知", "道", "孤", "獨", "很", "難", "忍", "受"],
       "pinyin": ["cái", "zhī", "dào", "gū", "dú", "hěn", "nán", "rěn", "shòu"],
-      "char_meaning": ["only then", "know", "way", "alone", "solitary", "very", "difficult", "endure", "receive"],
-      "sentence_meaning": "Only then did I know how hard loneliness is to endure. 8"
+      "char_meaning": ["only then", "know", "path/verb", "lonely", "alone", "very", "hard", "endure", "receive"],
+      "sentence_meaning": "Only then did I know that loneliness is so hard to endure."
+    },
+    {
+      "chars": ["可", "笑", "嗎"],
+      "pinyin": ["kě", "xiào", "ma"],
+      "char_meaning": ["can", "laugh", "question particle"],
+      "sentence_meaning": "Isn't it ridiculous?"
+    },
+    {
+      "chars": ["我", "刪", "訪", "問", "記", "錄", "的", "時", "候", "有", "多", "慌", "張"],
+      "pinyin": ["wǒ", "shān", "fǎng", "wèn", "jì", "lù", "de", "shí", "hòu", "yǒu", "duō", "huāng", "zhāng"],
+      "char_meaning": ["I", "delete", "visit", "ask", "record", "record", "possessive", "time", "await", "have", "how", "flustered", "anxious"],
+      "sentence_meaning": "How panicked I was when I was deleting my visit records (on your profile)."
+    },
+    {
+      "chars": ["他", "會", "看", "見", "嗎", "曾", "經", "只", "有", "我", "能", "看", "的", "模", "樣"],
+      "pinyin": ["tā", "huì", "kàn", "jiàn", "ma", "céng", "jīng", "zhǐ", "yǒu", "wǒ", "néng", "kàn", "de", "mú", "yàng"],
+      "char_meaning": ["he", "will", "look", "see", "question", "once", "past", "only", "have", "me", "can", "see", "possessive", "form", "appearance"],
+      "sentence_meaning": "Will he see the side of you that used to be for my eyes only?"
+    },
+    {
+      "chars": ["從", "夜", "深", "人", "靜", "一", "直", "難", "過", "到", "天", "亮"],
+      "pinyin": ["cóng", "yè", "shēn", "rén", "jìng", "yì", "zhí", "nán", "guò", "dào", "tiān", "liàng"],
+      "char_meaning": ["from", "night", "deep", "people", "quiet", "straight", "until", "hard", "pass/sad", "until", "sky", "bright"],
+      "sentence_meaning": "Being miserable from the dead of night straight until dawn."
+    },
+    {
+      "chars": ["你", "反", "正", "不", "會", "再", "擔", "心", "我", "隱", "隱", "作", "疼", "的", "心", "臟"],
+      "pinyin": ["nǐ", "fǎn", "zhèng", "bú", "huì", "zài", "dān", "xīn", "wǒ", "yǐn", "yǐn", "zuò", "téng", "de", "xīn", "zàng"],
+      "char_meaning": ["you", "anyway", "straight", "not", "will", "again", "carry", "heart/worry", "my", "hidden", "hidden", "make", "ache", "possessive", "heart", "organ"],
+      "sentence_meaning": "You won't worry about my faintly aching heart anymore anyway."
+    },
+    {
+      "chars": ["好", "像", "遇", "到", "我", "你", "才", "對", "自", "由", "向", "往"],
+      "pinyin": ["hǎo", "xiàng", "yù", "dào", "wǒ", "nǐ", "cái", "duì", "zì", "yóu", "xiàng", "wǎng"],
+      "char_meaning": ["good", "resemble", "meet", "arrive", "me", "you", "only then", "towards", "self", "due/freedom", "towards", "go"],
+      "sentence_meaning": "It seems you only started longing for freedom after meeting me."
+    },
+    {
+      "chars": ["怎", "麼", "為", "他", "失", "去", "一", "切", "也", "無", "妨"],
+      "pinyin": ["zěn", "me", "wèi", "tā", "shī", "qù", "yí", "qiè", "yě", "wú", "fáng"],
+      "char_meaning": ["how", "come", "for", "him", "lose", "go", "one", "all", "also", "no", "harm"],
+      "sentence_meaning": "How is it that for him, you don't mind losing everything?"
+    },
+    {
+      "chars": ["可", "能", "是", "我", "賤", "吧"],
+      "pinyin": ["kě", "néng", "shì", "wǒ", "jiàn", "ba"],
+      "char_meaning": ["can", "able", "be", "me", "cheap/lowly", "particle"],
+      "sentence_meaning": "Maybe I'm just pathetic/cheap."
+    },
+    {
+      "chars": ["不", "愛", "我", "的", "非", "要", "上"],
+      "pinyin": ["bú", "ài", "wǒ", "de", "fēi", "yào", "shàng"],
+      "char_meaning": ["not", "love", "me", "possessive", "must", "want", "go up/pursue"],
+      "sentence_meaning": "Insisting on pursuing someone who doesn't love me."
+    },
+    {
+      "chars": ["那", "麼", "硬", "的", "南", "牆", "非", "要", "撞"],
+      "pinyin": ["nà", "me", "yìng", "de", "nán", "qiáng", "fēi", "yào", "zhuàng"],
+      "char_meaning": ["that", "much", "hard", "possessive", "south", "wall", "must", "want", "hit"],
+      "sentence_meaning": "Insisting on crashing into that hard southern wall."
+    },
+    {
+      "chars": ["是", "不", "是", "內", "心", "希", "望", "頭", "破", "血", "流", "就", "會", "讓", "你", "想", "起", "最", "愛", "我", "的", "時", "光"],
+      "pinyin": ["shì", "bú", "shì", "nèi", "xīn", "xī", "wàng", "tóu", "pò", "xiě", "liú", "jiù", "huì", "ràng", "nǐ", "xiǎng", "qǐ", "zuì", "ài", "wǒ", "de", "shí", "guāng"],
+      "char_meaning": ["is", "not", "is", "inside", "heart", "hope", "wish", "head", "broken", "blood", "flow", "then", "will", "make", "you", "think", "up", "most", "love", "me", "possessive", "time", "light"],
+      "sentence_meaning": "Is it because I secretly hope that if I'm battered and bleeding, it will make you remember the times you loved me most?"
     },
     {
       "chars": ["Baby", "我", "們", "的", "感", "情", "好", "像", "跳", "樓", "機"],
       "pinyin": ["Baby", "wǒ", "men", "de", "gǎn", "qíng", "hǎo", "xiàng", "tiào", "lóu", "jī"],
-      "char_meaning": ["Baby", "we", "plural", "possessive", "feeling", "emotion", "very", "like", "jump", "building", "machine"],
-      "sentence_meaning": "Baby, our relationship is like a drop tower ride. 9"
+      "char_meaning": ["Baby", "we", "plural", "possessive", "feeling", "emotion", "good", "resemble", "jump", "building", "machine"],
+      "sentence_meaning": "Baby, our relationship is like a drop tower ride."
     },
     {
       "chars": ["讓", "我", "突", "然", "地", "升", "空", "又", "急", "速", "落", "地"],
       "pinyin": ["ràng", "wǒ", "tū", "rán", "de", "shēng", "kōng", "yòu", "jí", "sù", "luò", "dì"],
-      "char_meaning": ["let", "me", "sudden", "particle", "de", "rise", "sky", "again", "fast", "speed", "fall", "ground"],
-      "sentence_meaning": "Lifting me up suddenly, then crashing me down fast. 10"
+      "char_meaning": ["let", "me", "sudden", "ly", "particle", "rise", "sky", "again", "fast", "speed", "fall", "ground"],
+      "sentence_meaning": "Making me suddenly soar and then plummet to the ground at high speed."
     },
     {
-      "chars": ["你", "帶", "給", "我", "一", "場", "瘋", "狂"],
-      "pinyin": ["nǐ", "dài", "gěi", "wǒ", "yì", "chǎng", "fēng", "kuáng"],
-      "char_meaning": ["you", "bring", "give", "me", "a", "scene", "crazy", "madness"],
-      "sentence_meaning": "You brought me a whirlwind of madness. 11"
+      "chars": ["你", "帶", "給", "我", "一", "場", "瘋", "狂", "劫", "後", "餘", "生", "好", "難", "呼", "吸"],
+      "pinyin": ["nǐ", "dài", "gěi", "wǒ", "yì", "chǎng", "fēng", "kuáng", "jié", "hòu", "yú", "shēng", "hǎo", "nán", "hū", "xī"],
+      "char_meaning": ["you", "bring", "give", "me", "one", "measure", "crazy", "wild", "disaster", "after", "remainder", "life", "very", "hard", "breathe", "breathe"],
+      "sentence_meaning": "You gave me a wild ride; it's so hard to breathe after surviving the disaster."
     },
     {
-      "chars": ["劫", "後", "餘", "生", "好", "難", "呼", "吸"],
-      "pinyin": ["jié", "hòu", "yú", "shēng", "hǎo", "nán", "hū", "xī"],
-      "char_meaning": ["after", "disaster", "remaining", "life", "very", "difficult", "breathe", "inhale"],
-      "sentence_meaning": "Surviving the wreckage, it’s hard to breathe. 12"
+      "chars": ["那", "天", "的", "天", "氣", "難", "得", "放", "晴"],
+      "pinyin": ["nà", "tiān", "de", "tiān", "qì", "nán", "dé", "fàng", "qíng"],
+      "char_meaning": ["that", "day", "possessive", "sky", "air", "hard", "get", "release", "clear"],
+      "sentence_meaning": "The weather that day was rarely clear."
+    },
+    {
+      "chars": ["你", "說", "的", "話", "卻", "把", "我", "困", "在", "雨", "季"],
+      "pinyin": ["nǐ", "shuō", "de", "huà", "què", "bǎ", "wǒ", "kùn", "zài", "yǔ", "jì"],
+      "char_meaning": ["you", "speak", "possessive", "words", "but", "object", "me", "trap", "at", "rain", "season"],
+      "sentence_meaning": "But the words you said trapped me in a rainy season."
+    },
+    {
+      "chars": ["其", "實", "你", "不", "是", "不", "愛", "了", "吧"],
+      "pinyin": ["qí", "shí", "nǐ", "bú", "shì", "bù", "ài", "le", "ba"],
+      "char_meaning": ["it", "truth", "you", "not", "be", "not", "love", "past", "particle"],
+      "sentence_meaning": "Actually, it's not that you don't love me anymore, right?"
+    },
+    {
+      "chars": ["只", "是", "有", "些", "摩", "擦", "沒", "處", "理"],
+      "pinyin": ["zhǐ", "shì", "yǒu", "xiē", "mó", "cā", "méi", "chǔ", "lǐ"],
+      "char_meaning": ["only", "be", "have", "some", "rub", "friction", "not", "manage", "handle"],
+      "sentence_meaning": "It's just that there's some unresolved friction."
+    },
+    {
+      "chars": ["怎", "麼", "你", "閉", "口", "不", "語"],
+      "pinyin": ["zěn", "me", "nǐ", "bì", "kǒu", "bù", "yǔ"],
+      "char_meaning": ["how", "come", "you", "close", "mouth", "not", "speak"],
+      "sentence_meaning": "Why are you staying silent?"
+    },
+    {
+      "chars": ["是", "不", "是", "我", "正", "好", "說", "中", "你", "的", "心"],
+      "pinyin": ["shì", "bú", "shì", "wǒ", "zhèng", "hǎo", "shuō", "zhòng", "nǐ", "de", "xīn"],
+      "char_meaning": ["be", "not", "be", "I", "just", "right", "speak", "hit", "your", "possessive", "heart"],
+      "sentence_meaning": "Is it because I just hit the nail on the head regarding your feelings?"
+    },
+    {
+      "chars": ["就", "承", "認", "還", "是", "在", "意", "吧", "就", "騙", "騙", "我", "也", "可", "以"],
+      "pinyin": ["jiù", "chéng", "rèn", "hái", "shì", "zài", "yì", "ba", "jiù", "piàn", "piàn", "wǒ", "yě", "kě", "yǐ"],
+      "char_meaning": ["just", "accept", "recognize", "still", "be", "at", "meaning/care", "particle", "just", "deceive", "deceive", "me", "also", "can", "use"],
+      "sentence_meaning": "Just admit you still care; even if you just lie to me, it's okay."
+    },
+    {
+      "chars": ["你", "的", "出", "現", "是", "我", "不", "能", "規", "避", "的", "傷"],
+      "pinyin": ["nǐ", "de", "chū", "xiàn", "shì", "wǒ", "bù", "néng", "guī", "bì", "de", "shāng"],
+      "char_meaning": ["your", "possessive", "out", "appear", "be", "me", "not", "can", "regulate", "avoid", "possessive", "wound"],
+      "sentence_meaning": "Your appearance is a wound I cannot avoid."
+    },
+    {
+      "chars": ["怎", "麼", "能", "接", "受", "這", "荒", "唐"],
+      "pinyin": ["zěn", "me", "néng", "jiē", "shòu", "zhè", "huāng", "táng"],
+      "char_meaning": ["how", "come", "can", "receive", "accept", "this", "absurd", "absurd"],
+      "sentence_meaning": "How can I accept this absurdity?"
     }
   ]
 }

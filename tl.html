@@ -1,14 +1,192 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAV Launcher Operation Checklist</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 0 20px; background-color: #f4f4f9; }
+        h1 { color: #333; border-bottom: 2px solid #333; }
+        
+        .stats-container { 
+            position: sticky; 
+            top: 0; 
+            background: white; 
+            padding: 15px; 
+            border: 1px solid #ddd; 
+            border-radius: 8px; 
+            margin-bottom: 20px; 
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+            z-index: 100; 
+        }
+
+        /* Performer Styles */
+        .performer-section {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+        .performer-input-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        input[type="text"] {
+            flex-grow: 1;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        #performers-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .performer-tag {
+            background: #fff;
+            padding: 5px 12px;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.85em;
+            border: 1px solid #2980b9;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+        }
+        .rank-btn {
+            background: #f4f4f9;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            padding: 0 6px;
+            font-weight: bold;
+            transition: 0.2s;
+        }
+        .rank-btn:hover { background: #e0e0e0; }
+        .rank-val { font-weight: bold; color: #2980b9; min-width: 70px; display: inline-block; text-align: center; }
+
+        /* Checklist Styles */
+        .step-row { display: flex; align-items: center; background: white; padding: 10px; margin-bottom: 5px; border-radius: 4px; border: 1px solid #eee; }
+        .step-number { font-weight: bold; min-width: 30px; color: #666; }
+        .step-text { flex-grow: 1; margin-right: 10px; }
+        .controls { display: flex; gap: 15px; font-size: 0.8em; }
+        .controls label { display: flex; flex-direction: column; align-items: center; cursor: pointer; }
+        .status-rank { font-size: 1.2em; font-weight: bold; color: #2c3e50; }
+        .green { color: #27ae60; } .red { color: #c0392b; } .blue { color: #2980b9; }
+    </style>
 </head>
-
 <body>
-  
-</body>
 
+    <h1>Operation Checklist</h1>
+
+    <div class="stats-container">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+            <div>
+                <strong>Checked:</strong> <span id="count-checked" class="green">0</span> | 
+                <strong>Unchecked:</strong> <span id="count-unchecked" class="red">29</span> | 
+                <strong>Corrected:</strong> <span id="count-corrected" class="blue">0</span>
+            </div>
+            <div class="status-rank">Rank: <span id="rank-display">Incomplete</span></div>
+        </div>
+
+        <div class="performer-section">
+            <div class="performer-input-group">
+                <input type="text" id="performer-name" placeholder="Enter Operator Name...">
+                <button type="button" onclick="addPerformer()" style="cursor:pointer; background:#27ae60; color:white; border:none; padding:5px 15px; border-radius:4px;">Add Person</button>
+            </div>
+            <div id="performers-list">
+                </div>
+        </div>
+    </div>
+
+    <form id="checklistForm">
+        <div id="steps-list"></div>
+    </form>
+
+    <script>
+        const steps = [
+             "Level Launcher Trailer with Support Legs",  "Unfold Launcher Rails and Lock Latches",   "Ensure That The Rope Is Properly Routed", "Check fule and oil levels","Turn launcher main power",  "Turn RCP Switch ON / auto connect",
+            "Safety Reset", "Start Diesel Engine", "Set Compressor Pressure Setpoint", "Launch Pressure ON so Compressor Starts Work",
+         "Adjust Rear Leg and Tilt Rail To Desired Angle",
+            "Switch On Carriage Pull-Back", "Pull back carriage all the way down", "Then Lock Carriage", "Insert Safety Pin", "Place UAV onto Adapter", "Adjust Front Rope Tightening Hydraulic Pressure",
+            "Tighten Front Rope", "Tighten Rear Rope", "High Pressure Compressor Switches OFF",
+            "Turn Launch Activation Key Switch ON", "Remove Safety Pin", "LAUNCH COMMAND", "Carriage Lock Opens", "UAV LAUNCH", "Turn Launch Activation Key Switch OFF"
+        ];
+
+        // Rank levels for performers
+        const crewRanks = ["Trainee", "Junior", "Operator", "Senior", "Chief"];
+
+        const stepsList = document.getElementById('steps-list');
+
+        // Inject Steps
+        steps.forEach((step, index) => {
+            const stepNum = index + 1;
+            const div = document.createElement('div');
+            div.className = 'step-row';
+            div.innerHTML = `
+                <div class="step-number">${stepNum}.</div>
+                <div class="step-text">${step}</div>
+                <div class="controls">
+                    <label><input type="radio" name="step${stepNum}" value="unchecked" checked onclick="updateStats()"> ❌</label>
+                    <label><input type="radio" name="step${stepNum}" value="checked" onclick="updateStats()"> ✅</label>
+                    <label><input type="radio" name="step${stepNum}" value="corrected" onclick="updateStats()"> ⚠️</label>
+                </div>
+            `;
+            stepsList.appendChild(div);
+        });
+
+        // --- Performer Logic ---
+        function addPerformer() {
+            const input = document.getElementById('performer-name');
+            const name = input.value.trim();
+            if (!name) return;
+
+            const list = document.getElementById('performers-list');
+            const div = document.createElement('div');
+            div.className = 'performer-tag';
+            div.dataset.rankIdx = 1; // Default to 'Junior'
+
+            div.innerHTML = `
+                <span><strong>${name}</strong>: <span class="rank-val">${crewRanks[1]}</span></span>
+                <div style="display:flex; gap:2px;">
+                    <button type="button" class="rank-btn" onclick="adjustRank(this, 1)">▲</button>
+                    <button type="button" class="rank-btn" onclick="adjustRank(this, -1)">▼</button>
+                </div>
+            `;
+            list.appendChild(div);
+            input.value = '';
+        }
+
+        function adjustRank(btn, change) {
+            const tag = btn.closest('.performer-tag');
+            let idx = parseInt(tag.dataset.rankIdx);
+            
+            let newIdx = idx + change;
+            if (newIdx >= 0 && newIdx < crewRanks.length) {
+                tag.dataset.rankIdx = newIdx;
+                tag.querySelector('.rank-val').innerText = crewRanks[newIdx];
+            }
+        }
+
+        // --- Stats Logic ---
+        function updateStats() {
+            const total = steps.length;
+            const checked = document.querySelectorAll('input[value="checked"]:checked').length;
+            const corrected = document.querySelectorAll('input[value="corrected"]:checked').length;
+            const unchecked = total - (checked + corrected);
+
+            document.getElementById('count-checked').innerText = checked;
+            document.getElementById('count-corrected').innerText = corrected;
+            document.getElementById('count-unchecked').innerText = unchecked;
+
+            const rankDisplay = document.getElementById('rank-display');
+            const progress = (checked + corrected) / total;
+
+            if (progress === 0) rankDisplay.innerText = "Standby";
+            else if (progress < 0.5) rankDisplay.innerText = "In Progress";
+            else if (progress < 1) rankDisplay.innerText = "Final Prep";
+            else rankDisplay.innerText = "READY FOR LAUNCH";
+        }
+    </script>
+</body>
 </html>

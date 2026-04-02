@@ -1,0 +1,101 @@
+{
+  "song_info": {
+    "title": "落花 (Luò Huā) - Falling Flowers",
+    "lyricist": "李倩儀 (Li Qianyi)",
+    "composer": "石羽函 (Shi Yuhan)",
+    "genre": "Guofeng / Mandopop",
+    "description": "A poetic ballad that treats life and love as a fleeting theatrical performance, emphasizing the beauty of being 'drunk' on emotions despite the inevitable end."
+  },
+  "lyrics": [
+    {
+      "chars": ["遊", "盡", "了", "藩", "籬"],
+      "pinyin": ["yóu", "jìn", "le", "fān", "lí"],
+      "char_meaning": ["wander", "exhausted", "past", "fence", "hedge"],
+      "sentence_meaning": "Wandered through all the barriers and boundaries."
+    },
+    {
+      "chars": ["忘", "掉", "了", "是", "非"],
+      "pinyin": ["wàng", "diào", "le", "shì", "fēi"],
+      "char_meaning": ["forget", "off", "past", "right", "wrong"],
+      "sentence_meaning": "Forgotten all the rights and wrongs (of the world)."
+    },
+    {
+      "chars": ["遇", "見", "了", "是", "誰"],
+      "pinyin": ["yù", "jiàn", "le", "shì", "shéi"],
+      "char_meaning": ["meet", "see", "past", "be", "who"],
+      "sentence_meaning": "Who was it that I met?"
+    },
+    {
+      "chars": ["留", "下", "愛", "依", "稀"],
+      "pinyin": ["liú", "xià", "ài", "yī", "xī"],
+      "char_meaning": ["leave", "down", "love", "vague", "sparse"],
+      "sentence_meaning": "Leaving only a faint, vague trace of love."
+    },
+    {
+      "chars": ["明", "月", "似", "畫", "眉"],
+      "pinyin": ["míng", "yuè", "shì", "huà", "méi"],
+      "char_meaning": ["bright", "moon", "like", "paint", "eyebrow"],
+      "sentence_meaning": "The bright moon resembles a finely painted eyebrow."
+    },
+    {
+      "chars": ["情", "是", "何", "滋", "味"],
+      "pinyin": ["qíng", "shì", "hé", "zī", "wèi"],
+      "char_meaning": ["emotion/love", "is", "what", "taste", "flavor"],
+      "sentence_meaning": "What is the true flavor of love?"
+    },
+    {
+      "chars": ["世", "間", "一", "剎", "如", "做", "戲"],
+      "pinyin": ["shì", "jiān", "yí", "shà", "rú", "zuò", "xì"],
+      "char_meaning": ["world", "between", "one", "instant", "like", "act", "play"],
+      "sentence_meaning": "A moment in this world is like performing in a play."
+    },
+    {
+      "chars": ["去", "演", "得", "絕", "美"],
+      "pinyin": ["qù", "yǎn", "de", "jué", "měi"],
+      "char_meaning": ["go", "perform", "degree-particle", "absolute", "beautiful"],
+      "sentence_meaning": "Acting it out with absolute beauty."
+    },
+    {
+      "chars": ["情", "像", "落", "花", "鋪", "滿", "地"],
+      "pinyin": ["qíng", "xiàng", "luò", "huā", "pū", "mǎn", "dì"],
+      "char_meaning": ["love", "resemble", "fall", "flower", "spread", "full", "ground"],
+      "sentence_meaning": "Love is like falling flowers covering the ground."
+    },
+    {
+      "chars": ["如", "淚", "或", "雨", "莫", "逃", "避"],
+      "pinyin": ["rú", "lèi", "huò", "yǔ", "mò", "táo", "bì"],
+      "char_meaning": ["like", "tear", "or", "rain", "do not", "escape", "avoid"],
+      "sentence_meaning": "Whether it is like tears or rain, do not hide from it."
+    },
+    {
+      "chars": ["待", "那", "蝴", "蝶", "獻", "媚"],
+      "pinyin": ["dài", "nà", "hú", "dié", "xiàn", "mèi"],
+      "char_meaning": ["wait", "that", "butter", "fly", "offer", "flattery/charm"],
+      "sentence_meaning": "Waiting for the butterfly to flirt and show its charm."
+    },
+    {
+      "chars": ["讓", "人", "來", "妒", "忌"],
+      "pinyin": ["ràng", "rén", "lái", "dù", "jì"],
+      "char_meaning": ["let", "people", "come", "envy", "jealousy"],
+      "sentence_meaning": "Inviting others to feel envious."
+    },
+    {
+      "chars": ["如", "何", "讓", "我", "不", "想", "你"],
+      "pinyin": ["rú", "hé", "ràng", "wǒ", "bù", "xiǎng", "nǐ"],
+      "char_meaning": ["how", "what", "let", "me", "not", "think", "you"],
+      "sentence_meaning": "How can I stop myself from longing for you?"
+    },
+    {
+      "chars": ["為", "你", "不", "怕", "俗", "氣"],
+      "pinyin": ["wèi", "nǐ", "bú", "pà", "sú", "qì"],
+      "char_meaning": ["for", "you", "not", "fear", "vulgar/cliché", "air"],
+      "sentence_meaning": "For you, I am not afraid of being unrefined or cliché."
+    },
+    {
+      "chars": ["醉", "生", "可", "夢", "死"],
+      "pinyin": ["zuì", "shēng", "kě", "mèng", "sǐ"],
+      "char_meaning": ["drunk", "life", "can", "dream", "death"],
+      "sentence_meaning": "To live in a drunken daze and die in a dream (living for love alone)."
+    }
+  ]
+}
